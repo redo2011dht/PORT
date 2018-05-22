@@ -1,0 +1,410 @@
+[Success][30-09-2014 09:25:32]:Begin recieved from Cell-Dyn 1800 
+[[Au480]:][30-09-2014 09:25:34]:System.Data.SqlClient.SqlException: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at ConnectLab.SQLConnect.BeginTran() in D:\MKV\New folder\ConnectLab\Applications\SQLConnect.cs:line 103
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 137
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 60
+[Success][30-09-2014 09:25:56]:Changed config
+[Success][30-09-2014 09:25:59]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][30-09-2014 09:25:59]:Save Reruls Au480 Error: D 001204 0004            BN-06062014-27    E003  5.38  008  2.23  016  1.22  017  3.15  D 001205 0005           BN-26092014-231    E003      %?008      %?016      %?
+[Success][30-09-2014 09:25:59]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:26:01]:Begin reload all config
+[Success][30-09-2014 09:26:04]:Connect to SQL Server
+***[***Fail][30-09-2014 09:26:04]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 09:26:04]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 09:26:04]:Connect to Laura Smart
+***[***Fail][30-09-2014 09:26:04]:Connect toStago Start 4
+***[***Fail][30-09-2014 09:26:04]:Connect toStago Start 4
+[Success][30-09-2014 09:26:04]:End reload all config
+[Success][30-09-2014 09:26:04]:Close form config
+[Success][30-09-2014 09:28:03]:Start form config
+[Success][30-09-2014 09:28:09]:Save Reruls Au480 Success
+[Success][30-09-2014 09:28:09]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:28:10]:Changed config
+[Success][30-09-2014 09:28:12]:Changed config
+[Success][30-09-2014 09:28:14]:Begin reload all config
+[Success][30-09-2014 09:28:16]:Connect to SQL Server
+***[***Fail][30-09-2014 09:28:16]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 09:28:16]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 09:28:16]:Connect to Laura Smart
+***[***Fail][30-09-2014 09:28:16]:Connect toStago Start 4
+***[***Fail][30-09-2014 09:28:16]:Connect toStago Start 4
+[Success][30-09-2014 09:28:16]:End reload all config
+[Success][30-09-2014 09:28:16]:Close form config
+[Success][30-09-2014 09:28:44]:Save Reruls Au480 Success
+[Success][30-09-2014 09:28:44]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:29:29]:Save Reruls Au480 Success
+[Success][30-09-2014 09:29:29]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:30:05]:Save Reruls Au480 Success
+[Success][30-09-2014 09:30:05]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:30:33]:Save Reruls Au480 Success
+[Success][30-09-2014 09:30:33]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:31:00]:Save Reruls Au480 Success
+[Success][30-09-2014 09:31:00]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:43:31]:Save Reruls Au480 Success
+[Success][30-09-2014 09:43:31]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:43:49]:Save Reruls Au480 Success
+[Success][30-09-2014 09:43:49]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 09:51:39]:Save Reruls Au480 Success
+[Success][30-09-2014 09:51:39]:End recieved from Cell-Dyn 1800 
+[[Au480]:][30-09-2014 10:04:48]:CrystalDecisions.CrystalReports.Engine.ParameterFieldCurrentValueException: Missing parameter values. ---> System.Runtime.InteropServices.COMException (0x8004100E): Missing parameter values.
+   at CrystalDecisions.ReportAppServer.Controllers.ReportSourceClass.GetPage(PageRequestContext pPageRequestContext)
+   at CrystalDecisions.ReportSource.EromReportSourceBase.GetPage(PageRequestContext pageReqContext)
+   --- End of inner exception stack trace ---
+   at CrystalDecisions.ReportAppServer.ConvertDotNetToErom.ThrowDotNetException(Exception e)
+   at CrystalDecisions.ReportSource.EromReportSourceBase.GetPage(PageRequestContext pageReqContext)
+   at CrystalDecisions.CrystalReports.Engine.FormatEngine.PrintPageEventHandler(Object sender, PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at CrystalDecisions.CrystalReports.Engine.FormatEngine.PrintToPrinter(Int32 nCopies, Boolean collated, Int32 startPageN, Int32 endPageN)
+   at CrystalDecisions.CrystalReports.Engine.ReportDocument.PrintToPrinter(Int32 nCopies, Boolean collated, Int32 startPageN, Int32 endPageN)
+   at ConnectLab.PrintReport.frmPrintKetQuaXN.getReport() in D:\MKV\New folder\ConnectLab\PrintReport\frmPrintKetQuaXN.cs:line 113
+   at ConnectLab.PrintReport.frmPrintKetQuaXN.frmPrintKetQuaXN_Load(Object sender, EventArgs e) in D:\MKV\New folder\ConnectLab\PrintReport\frmPrintKetQuaXN.cs:line 118
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 185
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 60
+[Success][30-09-2014 10:05:04]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][30-09-2014 10:05:04]:Save Reruls Au480 Error: D 001401 0015                      VIET    E018 0.526  019  9.72  020  7.10  D 001402 0016                       MIC    E018 0.525  019 10.79  020  6.60  
+[Success][30-09-2014 10:05:04]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:10:46]:Start program
+[Success][30-09-2014 10:10:49]:Connect to SQL Server
+[Success][30-09-2014 10:10:49]:Connect to Au480
+***[***Fail][30-09-2014 10:10:49]:Connect to Lh500
+***[***Fail][30-09-2014 10:10:49]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 10:10:49]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 10:10:49]:Connect to Laura Smart
+***[***Fail][30-09-2014 10:10:49]:Connect toStago Start 4
+***[***Fail][30-09-2014 10:10:49]:Connect toStago Start 4
+[Success][30-09-2014 10:10:54]:Start form config
+[Success][30-09-2014 10:11:00]:Changed config
+[Success][30-09-2014 10:11:01]:Begin reload all config
+[Success][30-09-2014 10:11:04]:Connect to SQL Server
+***[***Fail][30-09-2014 10:11:04]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 10:11:04]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 10:11:04]:Connect to Laura Smart
+***[***Fail][30-09-2014 10:11:04]:Connect toStago Start 4
+***[***Fail][30-09-2014 10:11:04]:Connect toStago Start 4
+[Success][30-09-2014 10:11:04]:End reload all config
+[Success][30-09-2014 10:11:04]:Close form config
+[Success][30-09-2014 10:11:27]:Start form config
+[Success][30-09-2014 10:11:40]:Changed config
+***[***Fail][30-09-2014 10:11:41]:Save Huyet Hoc LH500 Error: 0A
+DATE 09/26/14
+TIME 13:58:43
+ID1 BN03062014-31
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 6.3 
+RBC 4.98 
+HGB 15E161024 
+HCT 46.3 
+MCV 93.1 
+MCH 31.0 
+MCHC 33.3 
+RDW 11.6 L
+PLT 172 
+MPV 8.0 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 2.2 
+MO# 0.8 
+NE# 3.1 
+EO# 0.2 
+BA# 0.0 
+G04
+05
+LY% 35.8 
+MO% 13.1 H
+NE% 47.0 
+EO% 3.7 
+BA1C0C03% 0.4 
+
+
+--------------
+                                                                                                                                                                                                                                    E9C1
+[Success][30-09-2014 10:11:41]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:11:41]:Begin reload all config
+[Success][30-09-2014 10:11:42]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:11:44]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 10:11:44]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:11:44]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:11:44]:Connect to SQL Server
+***[***Fail][30-09-2014 10:11:44]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 10:11:44]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 10:11:44]:Connect to Laura Smart
+***[***Fail][30-09-2014 10:11:44]:Connect toStago Start 4
+***[***Fail][30-09-2014 10:11:44]:Connect toStago Start 4
+[Success][30-09-2014 10:11:44]:End reload all config
+[Success][30-09-2014 10:11:44]:Close form config
+[Success][30-09-2014 10:11:45]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 10:11:45]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:11:45]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:11:47]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 10:11:47]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:13:45]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:13:47]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 10:13:47]:End recieved from Cell-Dyn 1800 
+***[***Fail][30-09-2014 10:19:42]:Save Reruls Au480 Error: D 001201 0017            BN-26082014-22    E002      ?D003  8.70  004 95.21  005  6.46  006  9.09  007      ?D008 33.05F 009515.88  010 83.05  011  6.85  013  1.28  015  5.57  016  1.29  017- 7.61F 
+[Success][30-09-2014 10:19:42]:End recieved from Cell-Dyn 1800 
+***[***Fail][30-09-2014 10:21:48]:Save Reruls Au480 Error: D 001202 0018                      DUNG    E002      ?D003  8.67  004 99.18  005  6.40  006      ?D007      ?D008 15.36F 009507.32  010 85.07  011  4.14  013- 0.73G 015  4.87G 016  2.80  017- 1.11F 
+[Success][30-09-2014 10:21:49]:End recieved from Cell-Dyn 1800 
+***[***Fail][30-09-2014 10:35:23]:Save Reruls Au480 Error: D 001201 0019                      DUNG    E002      ?D003  8.74  004 85.95  005  6.47  006  9.11  007      ?D008 33.43F 009520.90  010 82.29  011  6.59  013  1.28  015  5.31  016  1.29  017- 7.75F 
+[Success][30-09-2014 10:35:23]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 10:48:25]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][30-09-2014 10:48:27]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 09/30/14
+TIME 10:48:14
+ID1 -----------
+CASSPOS A007601
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 5.9 
+RBC 5.26 
+HGB 158 688002
+HCT 46.2 
+MCV 87.9 
+MCH 30.0 
+MCHC 34.1 
+RDW 12.5 
+PLT 230 
+MPV 7.6 
+G06
+01
+DEFINIT Eosinophilia #
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 1.9 
+MO# 0.4 
+NE# 2.0 L
+EO# 1.5 aH
+BA# 0.1 
+G04
+05
+LY% 31.5 
+MO634A03% 6.1 
+NE% 35.5 L
+EO% 26.0 H
+BA% 0.9 
+
+
+--------------
+                                                                                                                                                                                                  23FF
+[Success][30-09-2014 10:48:27]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:10:16]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:10:17]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 11:10:18]:End recieved from Cell-Dyn 1800 
+[[Au480]:][30-09-2014 11:11:55]:CrystalDecisions.CrystalReports.Engine.ParameterFieldCurrentValueException: Missing parameter values. ---> System.Runtime.InteropServices.COMException (0x8004100E): Missing parameter values.
+   at CrystalDecisions.ReportAppServer.Controllers.ReportSourceClass.GetPage(PageRequestContext pPageRequestContext)
+   at CrystalDecisions.ReportSource.EromReportSourceBase.GetPage(PageRequestContext pageReqContext)
+   --- End of inner exception stack trace ---
+   at CrystalDecisions.ReportAppServer.ConvertDotNetToErom.ThrowDotNetException(Exception e)
+   at CrystalDecisions.ReportSource.EromReportSourceBase.GetPage(PageRequestContext pageReqContext)
+   at CrystalDecisions.CrystalReports.Engine.FormatEngine.PrintPageEventHandler(Object sender, PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at CrystalDecisions.CrystalReports.Engine.FormatEngine.PrintToPrinter(Int32 nCopies, Boolean collated, Int32 startPageN, Int32 endPageN)
+   at CrystalDecisions.CrystalReports.Engine.ReportDocument.PrintToPrinter(Int32 nCopies, Boolean collated, Int32 startPageN, Int32 endPageN)
+   at ConnectLab.PrintReport.frmPrintKetQuaXN.getReport() in D:\MKV\New folder\ConnectLab\PrintReport\frmPrintKetQuaXN.cs:line 113
+   at ConnectLab.PrintReport.frmPrintKetQuaXN.frmPrintKetQuaXN_Load(Object sender, EventArgs e) in D:\MKV\New folder\ConnectLab\PrintReport\frmPrintKetQuaXN.cs:line 118
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 185
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 60
+[Success][30-09-2014 11:33:35]:Start program
+[Success][30-09-2014 11:33:38]:Connect to SQL Server
+[Success][30-09-2014 11:33:38]:Connect to Au480
+[Success][30-09-2014 11:33:38]:Connect to Lh500
+***[***Fail][30-09-2014 11:33:38]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 11:33:38]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 11:33:38]:Connect to Laura Smart
+***[***Fail][30-09-2014 11:33:38]:Connect toStago Start 4
+***[***Fail][30-09-2014 11:33:38]:Connect toStago Start 4
+[Success][30-09-2014 11:33:51]:Start form config
+[Success][30-09-2014 11:33:53]:Changed config
+[Success][30-09-2014 11:33:56]:Begin reload all config
+[Success][30-09-2014 11:33:59]:Connect to SQL Server
+***[***Fail][30-09-2014 11:33:59]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 11:33:59]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 11:33:59]:Connect to Laura Smart
+***[***Fail][30-09-2014 11:33:59]:Connect toStago Start 4
+***[***Fail][30-09-2014 11:33:59]:Connect toStago Start 4
+[Success][30-09-2014 11:33:59]:End reload all config
+[Success][30-09-2014 11:33:59]:Close form config
+[Success][30-09-2014 11:49:25]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:49:27]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 11:49:27]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:50:26]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:50:28]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 11:50:28]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:51:01]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:51:02]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 11:51:02]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:51:51]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 11:51:53]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 11:51:53]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 12:08:12]:Start program
+[Success][30-09-2014 12:08:15]:Connect to SQL Server
+[Success][30-09-2014 12:08:15]:Connect to Au480
+[Success][30-09-2014 12:08:15]:Connect to Lh500
+***[***Fail][30-09-2014 12:08:15]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 12:08:15]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 12:08:15]:Connect to Laura Smart
+***[***Fail][30-09-2014 12:08:15]:Connect toStago Start 4
+***[***Fail][30-09-2014 12:08:15]:Connect toStago Start 4
+[Success][30-09-2014 12:08:22]:Start form config
+[Success][30-09-2014 12:08:24]:Changed config
+[Success][30-09-2014 12:08:26]:Begin reload all config
+[Success][30-09-2014 12:08:29]:Connect to SQL Server
+***[***Fail][30-09-2014 12:08:29]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 12:08:29]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 12:08:29]:Connect to Laura Smart
+***[***Fail][30-09-2014 12:08:29]:Connect toStago Start 4
+***[***Fail][30-09-2014 12:08:29]:Connect toStago Start 4
+[Success][30-09-2014 12:08:29]:End reload all config
+[Success][30-09-2014 12:08:29]:Close form config
+[Success][30-09-2014 01:32:21]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 01:32:24]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 01:32:24]:End recieved from Cell-Dyn 1800 
+[[Au480]:][30-09-2014 01:42:29]:CrystalDecisions.CrystalReports.Engine.ParameterFieldCurrentValueException: Missing parameter values. ---> System.Runtime.InteropServices.COMException (0x8004100E): Missing parameter values.
+   at CrystalDecisions.ReportAppServer.Controllers.ReportSourceClass.GetPage(PageRequestContext pPageRequestContext)
+   at CrystalDecisions.ReportSource.EromReportSourceBase.GetPage(PageRequestContext pageReqContext)
+   --- End of inner exception stack trace ---
+   at CrystalDecisions.ReportAppServer.ConvertDotNetToErom.ThrowDotNetException(Exception e)
+   at CrystalDecisions.ReportSource.EromReportSourceBase.GetPage(PageRequestContext pageReqContext)
+   at CrystalDecisions.CrystalReports.Engine.FormatEngine.PrintPageEventHandler(Object sender, PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument.OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintDocument._OnPrintPage(PrintPageEventArgs e)
+   at System.Drawing.Printing.PrintController.PrintLoop(PrintDocument document)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at CrystalDecisions.CrystalReports.Engine.FormatEngine.PrintToPrinter(Int32 nCopies, Boolean collated, Int32 startPageN, Int32 endPageN)
+   at CrystalDecisions.CrystalReports.Engine.ReportDocument.PrintToPrinter(Int32 nCopies, Boolean collated, Int32 startPageN, Int32 endPageN)
+   at ConnectLab.PrintReport.frmPrintKetQuaXN.getReport() in D:\MKV\New folder\ConnectLab\PrintReport\frmPrintKetQuaXN.cs:line 178
+   at ConnectLab.PrintReport.frmPrintKetQuaXN.frmPrintKetQuaXN_Load(Object sender, EventArgs e) in D:\MKV\New folder\ConnectLab\PrintReport\frmPrintKetQuaXN.cs:line 183
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 186
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 60
+[Success][30-09-2014 01:57:15]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][30-09-2014 01:57:15]:Save Reruls Au480 Error: DBD 001601 0022                    DUNG 4    E002 51.52  007      ?DD 001601 0023                    DUNG 5    E002 35.19  007 21.08  
+[Success][30-09-2014 01:57:15]:End recieved from Cell-Dyn 1800 
+[Success][30-09-2014 02:12:00]:Start program
+[Success][30-09-2014 02:12:03]:Connect to SQL Server
+[Success][30-09-2014 02:12:03]:Connect to Au480
+[Success][30-09-2014 02:12:03]:Connect to Lh500
+***[***Fail][30-09-2014 02:12:03]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 02:12:03]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 02:12:03]:Connect to Laura Smart
+***[***Fail][30-09-2014 02:12:03]:Connect toStago Start 4
+***[***Fail][30-09-2014 02:12:03]:Connect toStago Start 4
+[Success][30-09-2014 02:12:11]:Start form config
+[Success][30-09-2014 02:12:14]:Changed config
+[Success][30-09-2014 02:12:17]:Begin reload all config
+[Success][30-09-2014 02:12:20]:Connect to SQL Server
+***[***Fail][30-09-2014 02:12:20]:Connect to Cell-Dyn 1800
+***[***Fail][30-09-2014 02:12:20]:Connect to ERBA LX 200
+***[***Fail][30-09-2014 02:12:20]:Connect to Laura Smart
+***[***Fail][30-09-2014 02:12:20]:Connect toStago Start 4
+***[***Fail][30-09-2014 02:12:20]:Connect toStago Start 4
+[Success][30-09-2014 02:12:20]:End reload all config
+[Success][30-09-2014 02:12:20]:Close form config
+[Success][30-09-2014 02:24:00]:Begin recieved from Cell-Dyn 1800 
+[Success][30-09-2014 02:27:11]:Save Huyet Hoc LH500 Success
+[Success][30-09-2014 02:27:11]:End recieved from Cell-Dyn 1800 

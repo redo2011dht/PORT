@@ -1,0 +1,24 @@
+[Success][14-12-2011 08:45:02]:Save SpecimenID: 111214-23; Patient: NG VAN PHAT; Sequence: 0573
+[Success][14-12-2011 08:45:02]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 08:55:21]:Save SpecimenID: 126; Patient: KOL CHAN THOU; Sequence: 0574
+[Success][14-12-2011 08:55:21]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 08:56:47]:Save SpecimenID: 124; Patient: NG T XUAN; Sequence: 0575
+[Success][14-12-2011 08:56:47]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 09:19:18]:Save SpecimenID: 111214--232; Patient: NG LE THANG; Sequence: 0576
+[Success][14-12-2011 09:19:18]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 09:20:53]:Save SpecimenID: 111214-22; Patient: NG VAN DUNG; Sequence: 0577
+[Success][14-12-2011 09:20:53]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 10:23:56]:Save SpecimenID: 111214-25; Patient: HH VINH HIEN; Sequence: 0578
+[Success][14-12-2011 10:23:56]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 11:03:15]:Save SpecimenID: 111214-27; Patient: HO T NHUT; Sequence: 0579
+[Success][14-12-2011 11:03:15]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 01:47:04]:Save SpecimenID: 111214-30; Patient: PHAM MINH TAM; Sequence: 0580
+[Success][14-12-2011 01:47:04]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 02:12:19]:Save SpecimenID: 111214-36; Patient: LUU T LIEN; Sequence: 0581
+[Success][14-12-2011 02:12:19]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 02:42:10]:Save SpecimenID: 111214-33; Patient: DUONG T KIM HOA; Sequence: 0582
+[Success][14-12-2011 02:42:10]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 04:02:32]:Save SpecimenID: BACKGRD; Patient: ; Sequence: 0583
+[Success][14-12-2011 04:02:32]:End recieved from Cell-Dyn 1800 
+[Success][14-12-2011 05:05:08]:Start form config
+[Success][14-12-2011 05:06:10]:Close form config

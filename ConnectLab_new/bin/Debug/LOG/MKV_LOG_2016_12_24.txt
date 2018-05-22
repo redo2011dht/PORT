@@ -1,0 +1,141 @@
+[Success][24-12-2016 08:26:51]:Save Huyet Hoc LH500 Success
+[Success][24-12-2016 08:26:51]:End recieved from Cell-Dyn 1800 
+[Success][24-12-2016 08:28:59]:Begin recieved from Cell-Dyn 1800 
+[Success][24-12-2016 08:29:00]:Save Huyet Hoc LH500 Success
+[Success][24-12-2016 08:29:00]:End recieved from Cell-Dyn 1800 
+[Success][24-12-2016 08:30:41]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][24-12-2016 08:30:43]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 12/24/16
+TIME 08:16:50
+ID1 BN-20052016-008
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 5.6 
+RBC 6.15 aH
+HG5DBE02B 162 
+HCT 49.8 
+MCV 81.0 
+MCH 26.3 aL
+MCHC 32.5 L
+RDW 12.8 
+PLT 190 
+MPV 7.6 
+G06
+02
+DEFINIT Erythrocytosis
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.2 
+MO# 0.4 
+NE# 2.9 
+EO# 0.1 
+BA# 0077803.0 
+G04
+05
+LY% 39.0 
+MO% 7.6 
+NE% 51.2 
+EO% 1.7 
+BA% 0.5 
+
+
+--------------
+                                                                                                                                                                          E8E4
+[Success][24-12-2016 08:30:43]:End recieved from Cell-Dyn 1800 
+[Success][24-12-2016 08:44:19]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][24-12-2016 08:44:21]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 12/24/16
+TIME 08:30:28
+ID1 BN-20052016-008
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 5.5 
+RBC 6.15 aH
+HG0FAF02B 160 
+HCT 49.6 
+MCV 80.5 L
+MCH 26.0 aL
+MCHC 32.3 L
+RDW 12.8 
+PLT 183 
+MPV 8.1 
+G06
+02
+DEFINIT Erythrocytosis
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.1 
+MO# 0.4 
+NE# 2.9 
+EO# 0.1 
+BA# 54FC030.0 
+G04
+05
+LY% 38.0 
+MO% 8.0 
+NE% 51.4 
+EO% 2.1 
+BA% 0.5 
+
+
+--------------
+                                                                                                                                                                         4675
+[Success][24-12-2016 08:44:21]:End recieved from Cell-Dyn 1800 

@@ -1,0 +1,53 @@
+[Success][08-10-2012 08:16:09]:Save SpecimenID: BACKGRD; Patient: ; Sequence: 8028
+[Success][08-10-2012 08:16:09]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:18:13]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:18:14]:Save SpecimenID: plasma 1335; Patient: ; Sequence: 8029
+[Success][08-10-2012 08:18:14]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:19:21]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:19:21]:Save SpecimenID: pre 1335; Patient: ; Sequence: 8030
+[Success][08-10-2012 08:19:21]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:20:31]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:20:31]:Save SpecimenID: post 1335; Patient: ; Sequence: 8031
+[Success][08-10-2012 08:20:31]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:21:42]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:21:43]:Save SpecimenID: rbc 1335; Patient: ; Sequence: 8032
+[Success][08-10-2012 08:21:43]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:22:47]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:22:47]:Save SpecimenID: ; Patient: ; Sequence: 8033
+[Success][08-10-2012 08:22:47]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:23:52]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:23:53]:Save SpecimenID: ; Patient: ; Sequence: 8034
+[Success][08-10-2012 08:23:53]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:25:04]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:25:04]:Save SpecimenID: plasma 1337; Patient: ; Sequence: 8035
+[Success][08-10-2012 08:25:04]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:26:35]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:26:35]:Save SpecimenID: ; Patient: ; Sequence: 8036
+[Success][08-10-2012 08:26:35]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:27:49]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:27:49]:Save SpecimenID: pre 1337; Patient: ; Sequence: 8037
+[Success][08-10-2012 08:27:49]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:29:02]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:29:02]:Save SpecimenID: post 1337; Patient: ; Sequence: 8038
+[Success][08-10-2012 08:29:02]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:30:10]:Begin recieved from Cell-Dyn 1800 
+[Success][08-10-2012 08:30:10]:Save SpecimenID: rbc 1337; Patient: ; Sequence: 8039
+[Success][08-10-2012 08:30:10]:End recieved from Cell-Dyn 1800 
+[Success][08-10-2012 01:14:19]:Start program
+[Success][08-10-2012 01:14:23]:Connect to SQL Server
+[Success][08-10-2012 01:14:23]:Connect to Cell-Dyn 1800
+***[***Fail][08-10-2012 01:14:23]:Connect to ERBA LX 200
+[Success][08-10-2012 01:14:23]:Connect to Laura Smart
+[Success][08-10-2012 01:14:23]:Connect to Stago Start 4
+[Success][08-10-2012 01:14:23]:Connect to Stago Start 4
+[Success][08-10-2012 01:14:54]:Start form config
+[Success][08-10-2012 01:14:56]:Changed config
+[Success][08-10-2012 01:14:58]:Begin reload all config
+[Success][08-10-2012 01:14:59]:Connect to SQL Server
+[Success][08-10-2012 01:14:59]:Connect to Cell-Dyn 1800
+***[***Fail][08-10-2012 01:14:59]:Connect to ERBA LX 200
+***[***Fail][08-10-2012 01:14:59]:Connect to Laura Smart
+[Success][08-10-2012 01:14:59]:Connect to Stago Start 4
+[Success][08-10-2012 01:14:59]:Connect to Stago Start 4
+[Success][08-10-2012 01:14:59]:End reload all config
+[Success][08-10-2012 01:14:59]:Close form config

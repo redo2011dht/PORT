@@ -1,0 +1,5 @@
+[Success][24-11-2011 12:04:10]:Start program
+[Success][24-11-2011 12:06:11]:Start program
+[Success][24-11-2011 12:07:05]:Start program
+[Success][24-11-2011 12:08:00]:Start program
+***[Fail][24-11-2011 12:08:05]:Connect to SQL Server

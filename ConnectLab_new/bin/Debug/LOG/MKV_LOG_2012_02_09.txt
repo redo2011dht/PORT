@@ -1,0 +1,9 @@
+[Success][09-02-2012 09:28:07]:Begin recieved from CD1800
+[Success][09-02-2012 09:28:07]:Save SpecimenID: 120209-001; Patient: phi; Sequence: 1586
+[Success][09-02-2012 09:28:07]:End recieved from CD1800
+[Success][09-02-2012 09:30:40]:Begin recieved from CD1800
+[Success][09-02-2012 09:30:41]:Save SpecimenID: 120209-002; Patient: cau; Sequence: 1587
+[Success][09-02-2012 09:30:41]:End recieved from CD1800
+[Success][09-02-2012 09:32:38]:Begin recieved from CD1800
+[Success][09-02-2012 09:32:38]:Save SpecimenID: 1234; Patient: r; Sequence: 1588
+[Success][09-02-2012 09:32:38]:End recieved from CD1800

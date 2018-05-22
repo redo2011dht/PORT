@@ -1,0 +1,108 @@
+[Success][18-02-2012 06:58:00]:Begin recieved from CD1800
+[Success][18-02-2012 06:58:00]:Save SpecimenID: 120218-008; Patient: kheng; Sequence: 1785
+[Success][18-02-2012 06:58:00]:End recieved from CD1800
+[Success][18-02-2012 07:02:43]:Begin recieved from CD1800
+[Success][18-02-2012 07:02:44]:Save SpecimenID: 120218-002; Patient: sy; Sequence: 1786
+[Success][18-02-2012 07:02:44]:End recieved from CD1800
+[Success][18-02-2012 07:04:24]:Begin recieved from CD1800
+[Success][18-02-2012 07:04:24]:Save SpecimenID: 120218-004; Patient: keat; Sequence: 1787
+[Success][18-02-2012 07:04:24]:End recieved from CD1800
+[Success][18-02-2012 07:05:51]:Begin recieved from CD1800
+[Success][18-02-2012 07:05:51]:Save SpecimenID: 120218-005; Patient: trang; Sequence: 1788
+[Success][18-02-2012 07:05:51]:End recieved from CD1800
+[Success][18-02-2012 07:07:16]:Begin recieved from CD1800
+[Success][18-02-2012 07:07:16]:Save SpecimenID: 120218-006; Patient: \rop; Sequence: 1789
+[Success][18-02-2012 07:07:16]:End recieved from CD1800
+[Success][18-02-2012 07:08:39]:Begin recieved from CD1800
+[Success][18-02-2012 07:08:40]:Save SpecimenID: 120218-010; Patient: tan; Sequence: 1790
+[Success][18-02-2012 07:08:40]:End recieved from CD1800
+[Success][18-02-2012 07:10:18]:Begin recieved from CD1800
+[Success][18-02-2012 07:10:19]:Save SpecimenID: 120218-011; Patient: le thu; Sequence: 1791
+[Success][18-02-2012 07:10:19]:End recieved from CD1800
+[Success][18-02-2012 07:20:03]:Begin recieved from CD1800
+[Success][18-02-2012 07:20:03]:Save SpecimenID: 120218-012; Patient: hong; Sequence: 1792
+[Success][18-02-2012 07:20:03]:End recieved from CD1800
+[Success][18-02-2012 07:49:53]:Begin recieved from CD1800
+[Success][18-02-2012 07:49:53]:Save SpecimenID: 120218-017; Patient: thach; Sequence: 1793
+[Success][18-02-2012 07:49:53]:End recieved from CD1800
+[Success][18-02-2012 07:51:42]:Begin recieved from CD1800
+[Success][18-02-2012 07:51:43]:Save SpecimenID: 120218-018; Patient: vien; Sequence: 1794
+[Success][18-02-2012 07:51:43]:End recieved from CD1800
+[Success][18-02-2012 07:53:55]:Begin recieved from CD1800
+[Success][18-02-2012 07:53:55]:Save SpecimenID: 120218-019; Patient: thu; Sequence: 1795
+[Success][18-02-2012 07:53:55]:End recieved from CD1800
+[Success][18-02-2012 07:56:09]:Begin recieved from CD1800
+[Success][18-02-2012 07:56:09]:Save SpecimenID: 120218-021; Patient: loc; Sequence: 1796
+[Success][18-02-2012 07:56:09]:End recieved from CD1800
+[Success][18-02-2012 07:59:55]:Begin recieved from CD1800
+[Success][18-02-2012 07:59:56]:Save SpecimenID: 120218-023; Patient: triet; Sequence: 1797
+[Success][18-02-2012 07:59:56]:End recieved from CD1800
+[Success][18-02-2012 08:01:20]:Begin recieved from CD1800
+[Success][18-02-2012 08:01:20]:Save SpecimenID: 120218-024; Patient: tai; Sequence: 1798
+[Success][18-02-2012 08:01:20]:End recieved from CD1800
+[Success][18-02-2012 08:02:58]:Begin recieved from CD1800
+[Success][18-02-2012 08:02:59]:Save SpecimenID: 120218-025; Patient: chan; Sequence: 1799
+[Success][18-02-2012 08:02:59]:End recieved from CD1800
+[Success][18-02-2012 08:04:44]:Begin recieved from CD1800
+[Success][18-02-2012 08:04:45]:Save SpecimenID: 120218-026; Patient: tuyen; Sequence: 1800
+[Success][18-02-2012 08:04:45]:End recieved from CD1800
+[Success][18-02-2012 08:06:09]:Begin recieved from CD1800
+[Success][18-02-2012 08:06:10]:Save SpecimenID: 120218-029; Patient: thien; Sequence: 1801
+[Success][18-02-2012 08:06:10]:End recieved from CD1800
+[Success][18-02-2012 08:21:48]:Begin recieved from CD1800
+[Success][18-02-2012 08:21:49]:Save SpecimenID: 120218-032; Patient: thom; Sequence: 1802
+[Success][18-02-2012 08:21:49]:End recieved from CD1800
+[Success][18-02-2012 08:24:41]:Begin recieved from LASM
+[Success][18-02-2012 08:24:41]:Save Laura Smart ID: 120218-002; Patient: ; DateExcute: 2012-02-18 3:44
+[Success][18-02-2012 08:24:41]:End recieved from LASM
+[Success][18-02-2012 08:27:11]:Begin recieved from LASM
+[Success][18-02-2012 08:27:12]:Save Laura Smart ID: 100; Patient: ; DateExcute: 2012-02-18 3:46
+[Success][18-02-2012 08:27:12]:End recieved from LASM
+[Success][18-02-2012 08:29:16]:Begin recieved from CD1800
+[Success][18-02-2012 08:29:17]:Save SpecimenID: 120218-031; Patient: doi; Sequence: 1803
+[Success][18-02-2012 08:29:17]:End recieved from CD1800
+[Success][18-02-2012 08:55:25]:Begin recieved from CD1800
+[Success][18-02-2012 08:55:25]:Save SpecimenID: 120218-035; Patient: dung; Sequence: 1804
+[Success][18-02-2012 08:55:25]:End recieved from CD1800
+[Success][18-02-2012 08:57:04]:Begin recieved from CD1800
+[Success][18-02-2012 08:57:05]:Save SpecimenID: 120218-034; Patient: khoa; Sequence: 1805
+[Success][18-02-2012 08:57:05]:End recieved from CD1800
+[Success][18-02-2012 09:11:18]:Begin recieved from CD1800
+[Success][18-02-2012 09:11:18]:Save SpecimenID: 120218-037; Patient: hien; Sequence: 1806
+[Success][18-02-2012 09:11:18]:End recieved from CD1800
+[Success][18-02-2012 09:41:08]:Begin recieved from CD1800
+[Success][18-02-2012 09:41:08]:Save SpecimenID: 120218-041; Patient: ha; Sequence: 1807
+[Success][18-02-2012 09:41:08]:End recieved from CD1800
+[Success][18-02-2012 12:07:45]:Begin recieved from LASM
+[Success][18-02-2012 12:07:45]:Save Laura Smart ID: 120218-049; Patient: ; DateExcute: 2012-02-18 7:27
+[Success][18-02-2012 12:07:45]:End recieved from LASM
+[Success][18-02-2012 12:12:03]:Begin recieved from CD1800
+[Success][18-02-2012 12:12:03]:Save SpecimenID: 120218-048; Patient: rany; Sequence: 1808
+[Success][18-02-2012 12:12:04]:End recieved from CD1800
+[Success][18-02-2012 12:13:41]:Begin recieved from CD1800
+[Success][18-02-2012 12:13:42]:Save SpecimenID: 120218-049; Patient: chuong; Sequence: 1809
+[Success][18-02-2012 12:13:42]:End recieved from CD1800
+[Success][18-02-2012 12:15:20]:Begin recieved from CD1800
+[Success][18-02-2012 12:15:20]:Save SpecimenID: 120218-050; Patient: nguyenb; Sequence: 1810
+[Success][18-02-2012 12:15:20]:End recieved from CD1800
+[Success][18-02-2012 12:17:45]:Begin recieved from CD1800
+[Success][18-02-2012 12:17:46]:Save SpecimenID: 120218-051; Patient: thu; Sequence: 1811
+[Success][18-02-2012 12:17:46]:End recieved from CD1800
+[Success][18-02-2012 01:18:26]:Begin recieved from CD1800
+[Success][18-02-2012 01:18:27]:Save SpecimenID: 120218-051; Patient: thu; Sequence: 1811
+[Success][18-02-2012 01:18:27]:End recieved from CD1800
+[Success][18-02-2012 01:18:54]:Begin recieved from CD1800
+[Success][18-02-2012 01:18:55]:Save SpecimenID: 120218-051; Patient: thu; Sequence: 1811
+[Success][18-02-2012 01:18:55]:End recieved from CD1800
+[Success][18-02-2012 01:25:43]:Begin recieved from CD1800
+[Success][18-02-2012 01:25:43]:Save SpecimenID: 120218-055; Patient: linda; Sequence: 1812
+[Success][18-02-2012 01:25:43]:End recieved from CD1800
+[Success][18-02-2012 01:53:37]:Begin recieved from CD1800
+[Success][18-02-2012 01:53:37]:Save SpecimenID: 120218-056; Patient: muoy; Sequence: 1813
+[Success][18-02-2012 01:53:37]:End recieved from CD1800
+[Success][18-02-2012 01:55:01]:Begin recieved from CD1800
+[Success][18-02-2012 01:55:01]:Save SpecimenID: 120218-057; Patient: chan da; Sequence: 1814
+[Success][18-02-2012 01:55:01]:End recieved from CD1800
+[Success][18-02-2012 02:24:38]:Begin recieved from CD1800
+[Success][18-02-2012 02:24:38]:Save SpecimenID: 120218-058; Patient: cuoc; Sequence: 1815
+[Success][18-02-2012 02:24:38]:End recieved from CD1800

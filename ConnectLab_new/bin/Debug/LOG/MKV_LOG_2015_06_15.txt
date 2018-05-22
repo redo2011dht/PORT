@@ -1,0 +1,60 @@
+[Success][15-06-2015 09:07:03]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:07:04]:Save Huyet Hoc LH500 Success
+[Success][15-06-2015 09:07:04]:End recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:07:56]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][15-06-2015 09:07:56]:Save Reruls Au480 Error: DBDR       R001                              E00410.0034  00420.0036  00611.9072  00621.9002  01610.0019  01620.0037  
+[Success][15-06-2015 09:09:36]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:09:45]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:15:10]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][15-06-2015 09:15:11]:Save Reruls Au480 Error: DQ       Q001                           001E002 50.17  003  4.15  004113.54  005  5.62  006  6.35  007 44.15  008  1.61  009336.95  010 55.66  011 24.48  013 18.29  
+[Success][15-06-2015 09:15:13]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:15:13]:Save Reruls Au480 Success
+[Success][15-06-2015 09:15:15]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:15:17]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:19:20]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:19:25]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:19:29]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:30:07]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:30:07]:Save Reruls Au480 Success
+[Success][15-06-2015 09:31:01]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:31:01]:Save Reruls Au480 Success
+[Success][15-06-2015 09:31:28]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:31:28]:Save Reruls Au480 Success
+[Success][15-06-2015 09:48:43]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 09:48:44]:Save Huyet Hoc LH500 Success
+[Success][15-06-2015 09:48:44]:End recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:04:01]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:04:18]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:09:19]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:09:20]:Save Huyet Hoc LH500 Success
+[Success][15-06-2015 10:09:20]:End recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:15:31]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:15:32]:Save Reruls Au480 Success
+[Success][15-06-2015 10:21:03]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:28:30]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:28:30]:Save Reruls Au480 Success
+[Success][15-06-2015 10:31:13]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:31:13]:Save Reruls Au480 Success
+[Success][15-06-2015 10:37:38]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:47:58]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 10:47:58]:Save Reruls Au480 Success
+[Success][15-06-2015 12:18:56]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 12:18:57]:Save Huyet Hoc LH500 Success
+[Success][15-06-2015 12:18:57]:End recieved from Cell-Dyn 1800 
+[Success][15-06-2015 02:02:02]:Start form config
+[Success][15-06-2015 02:02:46]:Close form config
+[Success][15-06-2015 02:03:17]:Start form config
+[Success][15-06-2015 02:04:54]:Close form config
+[Success][15-06-2015 04:30:51]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 04:30:52]:Save Huyet Hoc LH500 Success
+[Success][15-06-2015 04:30:52]:End recieved from Cell-Dyn 1800 
+[Success][15-06-2015 04:57:27]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 04:57:41]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 05:08:54]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 05:08:55]:Save Reruls Au480 Success
+[Success][15-06-2015 05:22:39]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 05:22:40]:Save Huyet Hoc LH500 Success
+[Success][15-06-2015 05:22:40]:End recieved from Cell-Dyn 1800 
+[Success][15-06-2015 05:22:46]:Begin recieved from Cell-Dyn 1800 
+[Success][15-06-2015 05:22:47]:Save Huyet Hoc LH500 Success
+[Success][15-06-2015 05:22:47]:End recieved from Cell-Dyn 1800 

@@ -1,0 +1,22 @@
+[Success][14-10-2014 05:21:12]:Start program
+[Success][14-10-2014 05:23:19]:Start program
+[Success][14-10-2014 05:23:23]:Connect to SQL Server
+[Success][14-10-2014 05:23:23]:Connect to Au480
+[Success][14-10-2014 05:23:23]:Connect to Lh500
+***[***Fail][14-10-2014 05:23:23]:Connect to Cell-Dyn 1800
+***[***Fail][14-10-2014 05:23:23]:Connect to ERBA LX 200
+***[***Fail][14-10-2014 05:23:23]:Connect to Laura Smart
+***[***Fail][14-10-2014 05:23:23]:Connect toStago Start 4
+***[***Fail][14-10-2014 05:23:23]:Connect toStago Start 4
+[Success][14-10-2014 05:23:43]:Start program
+[Success][14-10-2014 05:23:47]:Connect to SQL Server
+[Success][14-10-2014 05:23:47]:Connect to Au480
+[Success][14-10-2014 05:23:47]:Connect to Lh500
+***[***Fail][14-10-2014 05:23:47]:Connect to Cell-Dyn 1800
+***[***Fail][14-10-2014 05:23:47]:Connect to ERBA LX 200
+***[***Fail][14-10-2014 05:23:47]:Connect to Laura Smart
+***[***Fail][14-10-2014 05:23:47]:Connect toStago Start 4
+***[***Fail][14-10-2014 05:23:47]:Connect toStago Start 4
+[Success][14-10-2014 05:23:50]:Begin recieved from Cell-Dyn 1800 
+[Success][14-10-2014 05:23:54]:Save Huyet Hoc LH500 Success
+[Success][14-10-2014 05:23:54]:End recieved from Cell-Dyn 1800 

@@ -1,0 +1,121 @@
+[Success][11-12-2014 08:13:05]:Changed config
+[Success][11-12-2014 08:13:07]:Begin reload all config
+[Success][11-12-2014 08:13:07]:Connect to SQL Server
+***[***Fail][11-12-2014 08:13:07]:Connect to Cell-Dyn 1800
+***[***Fail][11-12-2014 08:13:07]:Connect to ERBA LX 200
+***[***Fail][11-12-2014 08:13:07]:Connect to Laura Smart
+***[***Fail][11-12-2014 08:13:07]:Connect toStago Start 4
+***[***Fail][11-12-2014 08:13:07]:Connect toStago Start 4
+[Success][11-12-2014 08:13:07]:End reload all config
+[Success][11-12-2014 08:13:07]:Close form config
+[Success][11-12-2014 08:16:23]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 08:16:24]:Save Huyet Hoc LH500 Success
+[Success][11-12-2014 08:16:24]:End recieved from Cell-Dyn 1800 
+[Success][11-12-2014 08:16:38]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 08:16:39]:Save Huyet Hoc LH500 Success
+[Success][11-12-2014 08:16:39]:End recieved from Cell-Dyn 1800 
+[Success][11-12-2014 08:28:00]:Start program
+[Success][11-12-2014 08:28:00]:Connect to SQL Server
+[Success][11-12-2014 08:28:00]:Connect to Au480
+[Success][11-12-2014 08:28:00]:Connect to Lh500
+[Success][11-12-2014 08:31:40]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 08:31:41]:Save Huyet Hoc LH500 Success
+[Success][11-12-2014 08:31:41]:End recieved from Cell-Dyn 1800 
+[Success][11-12-2014 08:34:24]:Start program
+[Success][11-12-2014 08:34:24]:Connect to SQL Server
+[Success][11-12-2014 08:34:24]:Connect to Au480
+[Success][11-12-2014 08:34:24]:Connect to Lh500
+[Success][11-12-2014 08:35:45]:Start program
+[Success][11-12-2014 08:35:45]:Connect to SQL Server
+[Success][11-12-2014 08:35:45]:Connect to Au480
+[Success][11-12-2014 08:35:45]:Connect to Lh500
+[Success][11-12-2014 08:44:13]:Start program
+[Success][11-12-2014 08:44:13]:Connect to SQL Server
+[Success][11-12-2014 08:44:13]:Connect to Au480
+[Success][11-12-2014 08:44:13]:Connect to Lh500
+[Success][11-12-2014 08:50:27]:Start form config
+[Success][11-12-2014 08:50:32]:Close form config
+[Success][11-12-2014 08:51:27]:Start program
+[Success][11-12-2014 08:51:27]:Connect to SQL Server
+[Success][11-12-2014 08:51:27]:Connect to Au480
+[Success][11-12-2014 08:51:27]:Connect to Lh500
+[Success][11-12-2014 08:52:15]:Start program
+[Success][11-12-2014 08:52:15]:Connect to SQL Server
+[Success][11-12-2014 08:52:15]:Connect to Au480
+[Success][11-12-2014 08:52:15]:Connect to Lh500
+[Success][11-12-2014 08:52:41]:Start form config
+[Success][11-12-2014 08:55:46]:Close form config
+[Success][11-12-2014 08:58:33]:Start program
+[Success][11-12-2014 08:58:34]:Connect to SQL Server
+[Success][11-12-2014 08:58:34]:Connect to Au480
+[Success][11-12-2014 08:58:34]:Connect to Lh500
+[Success][11-12-2014 08:58:44]:Start form config
+[Success][11-12-2014 08:58:56]:Changed config
+[Success][11-12-2014 08:58:58]:Begin reload all config
+[Success][11-12-2014 08:58:58]:Connect to SQL Server
+***[***Fail][11-12-2014 08:58:58]:Connect to Cell-Dyn 1800
+***[***Fail][11-12-2014 08:58:58]:Connect to ERBA LX 200
+***[***Fail][11-12-2014 08:58:58]:Connect to Laura Smart
+***[***Fail][11-12-2014 08:58:58]:Connect toStago Start 4
+***[***Fail][11-12-2014 08:58:58]:Connect toStago Start 4
+[Success][11-12-2014 08:58:58]:End reload all config
+[Success][11-12-2014 08:58:58]:Close form config
+[Success][11-12-2014 08:59:07]:Start program
+[Success][11-12-2014 08:59:07]:Connect to SQL Server
+[Success][11-12-2014 08:59:07]:Connect to Au480
+[Success][11-12-2014 08:59:07]:Connect to Lh500
+[Success][11-12-2014 09:00:12]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:00:29]:Save Reruls Au480 Success
+[Success][11-12-2014 09:01:53]:Start program
+[Success][11-12-2014 09:01:53]:Connect to SQL Server
+[Success][11-12-2014 09:01:53]:Connect to Au480
+[Success][11-12-2014 09:01:53]:Connect to Lh500
+[Success][11-12-2014 09:04:18]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:07:31]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:07:32]:Save Huyet Hoc LH500 Success
+[Success][11-12-2014 09:07:32]:End recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:09:16]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:09:22]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:11:23]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:11:28]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:11:55]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:12:04]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:12:13]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:15:58]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:15:58]:Save Reruls Au480 Success
+[Success][11-12-2014 09:20:08]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:20:12]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:20:12]:Save Reruls Au480 Success
+[Success][11-12-2014 09:20:39]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:20:39]:Save Reruls Au480 Success
+[Success][11-12-2014 09:22:18]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:22:18]:Save Reruls Au480 Success
+[Success][11-12-2014 09:22:45]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:22:45]:Save Reruls Au480 Success
+[Success][11-12-2014 09:23:13]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:23:13]:Save Reruls Au480 Success
+[Success][11-12-2014 09:23:22]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][11-12-2014 09:23:22]:Save Reruls Au480 Error: D 001104 0008               07112014034    E004      %?
+[Success][11-12-2014 09:23:49]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:23:49]:Save Reruls Au480 Success
+[Success][11-12-2014 09:30:18]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:30:18]:Save Reruls Au480 Success
+[Success][11-12-2014 09:38:36]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:38:36]:Save Reruls Au480 Success
+[Success][11-12-2014 09:42:18]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:42:19]:Save Huyet Hoc LH500 Success
+[Success][11-12-2014 09:42:19]:End recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:59:07]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:59:07]:Save Reruls Au480 Success
+[Success][11-12-2014 09:59:25]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 09:59:25]:Save Reruls Au480 Success
+[Success][11-12-2014 10:04:19]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 10:04:20]:Save Huyet Hoc LH500 Success
+[Success][11-12-2014 10:04:20]:End recieved from Cell-Dyn 1800 
+[Success][11-12-2014 10:25:17]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 10:25:36]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 10:36:41]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 10:36:41]:Save Reruls Au480 Success
+[Success][11-12-2014 02:39:38]:Begin recieved from Cell-Dyn 1800 
+[Success][11-12-2014 02:39:38]:Save Huyet Hoc LH500 Success
+[Success][11-12-2014 02:39:38]:End recieved from Cell-Dyn 1800 

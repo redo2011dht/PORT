@@ -1,0 +1,30 @@
+[Success][08-01-2012 06:20:41]:Begin recieved from CD1800
+[Success][08-01-2012 06:20:41]:Save SpecimenID: 120108-002; Patient: bay; Sequence: 1093
+[Success][08-01-2012 06:20:41]:End recieved from CD1800
+[Success][08-01-2012 06:25:11]:Begin recieved from CD1800
+[Success][08-01-2012 06:25:11]:Save SpecimenID: 123; Patient: 123; Sequence: 1094
+[Success][08-01-2012 06:25:11]:End recieved from CD1800
+[Success][08-01-2012 07:03:37]:Begin recieved from CD1800
+[Success][08-01-2012 07:03:38]:Save SpecimenID: 120108-003; Patient: dung; Sequence: 1095
+[Success][08-01-2012 07:03:38]:End recieved from CD1800
+[Success][08-01-2012 07:05:33]:Begin recieved from CD1800
+[Success][08-01-2012 07:05:34]:Save SpecimenID: 120108-004; Patient: be; Sequence: 1096
+[Success][08-01-2012 07:05:34]:End recieved from CD1800
+[Success][08-01-2012 07:48:17]:Begin recieved from CD1800
+[Success][08-01-2012 07:48:17]:Save SpecimenID: 120108-005; Patient: nan; Sequence: 1097
+[Success][08-01-2012 07:48:17]:End recieved from CD1800
+[Success][08-01-2012 07:49:42]:Begin recieved from CD1800
+[Success][08-01-2012 07:49:42]:Save SpecimenID: 120108-006; Patient: tivea; Sequence: 1098
+[Success][08-01-2012 07:49:42]:End recieved from CD1800
+[Success][08-01-2012 07:51:16]:Begin recieved from CD1800
+[Success][08-01-2012 07:51:17]:Save SpecimenID: 120108-007; Patient: KOLAB; Sequence: 1099
+[Success][08-01-2012 07:51:17]:End recieved from CD1800
+[Success][08-01-2012 08:02:37]:Begin recieved from CD1800
+[Success][08-01-2012 08:02:38]:Save SpecimenID: 120108-009; Patient: MANG; Sequence: 1100
+[Success][08-01-2012 08:02:38]:End recieved from CD1800
+[Success][08-01-2012 08:38:45]:Begin recieved from CD1800
+[Success][08-01-2012 08:38:45]:Save SpecimenID: 120108-011; Patient: KHANH; Sequence: 1101
+[Success][08-01-2012 08:38:45]:End recieved from CD1800
+[Success][08-01-2012 08:50:51]:Begin recieved from CD1800
+[Success][08-01-2012 08:50:51]:Save SpecimenID: 003; Patient: DUNG; Sequence: 1102
+[Success][08-01-2012 08:50:51]:End recieved from CD1800

@@ -1,0 +1,48 @@
+[Success][25-11-2011 11:02:19]:Changed config
+[Success][25-11-2011 11:02:19]:Begin reload all config
+[Success][25-11-2011 11:02:19]:Connect to SQL Server
+[Success][25-11-2011 11:02:19]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:02:19]:End reload all config
+[Success][25-11-2011 11:02:19]:Close form config
+[Success][25-11-2011 11:02:22]:Start form config
+[Success][25-11-2011 11:02:23]:Begin reload all config
+[Success][25-11-2011 11:02:23]:Connect to SQL Server
+[Success][25-11-2011 11:02:23]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:02:23]:End reload all config
+[Success][25-11-2011 11:02:23]:Close form config
+[Success][25-11-2011 11:05:04]:Start form config
+[Success][25-11-2011 11:05:23]:Begin reload all config
+[Success][25-11-2011 11:05:23]:Connect to SQL Server
+[Success][25-11-2011 11:05:23]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:05:23]:End reload all config
+[Success][25-11-2011 11:05:23]:Close form config
+[Success][25-11-2011 11:07:23]:Start program
+[Success][25-11-2011 11:07:23]:Connect to SQL Server
+[Success][25-11-2011 11:07:23]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:07:26]:Start form config
+[Success][25-11-2011 11:07:27]:Connect to SQL Server
+[Success][25-11-2011 11:07:27]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:07:27]:End reload all config
+[Success][25-11-2011 11:07:27]:Close form config
+[Success][25-11-2011 11:07:59]:Start program
+[Success][25-11-2011 11:07:59]:Connect to SQL Server
+[Success][25-11-2011 11:07:59]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:08:02]:Start form config
+[Success][25-11-2011 11:08:03]:Close form config
+[Success][25-11-2011 11:36:22]:Start program
+[Success][25-11-2011 11:36:22]:Connect to SQL Server
+[Success][25-11-2011 11:36:22]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:36:27]:Start form config
+[Success][25-11-2011 11:36:35]:Changed config
+[Success][25-11-2011 11:36:35]:Begin reload all config
+[Success][25-11-2011 11:36:35]:Connect to SQL Server
+[Success][25-11-2011 11:36:35]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:36:35]:End reload all config
+[Success][25-11-2011 11:36:35]:Close form config
+[Success][25-11-2011 11:36:41]:Start form config
+[Success][25-11-2011 11:36:46]:Close form config
+[Success][25-11-2011 11:37:31]:Start program
+[Success][25-11-2011 11:37:31]:Connect to SQL Server
+[Success][25-11-2011 11:37:31]:Connect to Cell-Dyn 1800
+[Success][25-11-2011 11:37:34]:Start form config
+[Success][25-11-2011 11:37:54]:Close form config

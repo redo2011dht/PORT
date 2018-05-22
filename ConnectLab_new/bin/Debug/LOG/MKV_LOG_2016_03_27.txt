@@ -1,0 +1,19 @@
+***[***Fail][27-03-2016 09:36:49]:Save Reruls Au480 Error: DBDR       R001                              000211.4857  00221.4840  00310.0326  00320.0319  00410.0043  00420.0045  00510.1604  00520.1350  00611.9387  00621.9327  00711.3869  00721.3847  00810.0013  00820.0183  00910.0007  00920.0017  01010.4843  
+[Success][27-03-2016 09:36:49]:Begin recieved from Cell-Dyn 1800 
+[Success][27-03-2016 09:39:24]:Begin recieved from Cell-Dyn 1800 
+[Success][27-03-2016 09:39:32]:Save Reruls Au480 Success
+[Success][27-03-2016 09:39:33]:Begin recieved from Cell-Dyn 1800 
+[Success][27-03-2016 09:41:14]:Begin recieved from Cell-Dyn 1800 
+[Success][27-03-2016 09:41:21]:Save Huyet Hoc LH500 Success
+[Success][27-03-2016 09:41:22]:End recieved from Cell-Dyn 1800 
+[Success][27-03-2016 09:42:45]:Begin recieved from Cell-Dyn 1800 
+[Success][27-03-2016 09:42:52]:Save Huyet Hoc LH500 Success
+[Success][27-03-2016 09:42:52]:End recieved from Cell-Dyn 1800 
+[Success][27-03-2016 09:43:47]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][27-03-2016 09:43:54]:Save Reruls Au480 Error: DQ       Q001                           001E002 50.54  003  4.27  004122.95  005  5.72  006  6.78  007 47.43  008  1.82  009359.30  010 58.58  
+[Success][27-03-2016 09:43:54]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][27-03-2016 09:43:54]:Save Reruls Au480 Error: DQ       Q001                           002E002141.50  003  7.78  004462.46  005 13.09  006 29.68  007128.24  008  3.76  009560.97  010154.89  DQ       Q001                           003E016  0.90  DQ       Q001                           004E016  1.82  
+[Success][27-03-2016 09:59:56]:Begin recieved from Cell-Dyn 1800 
+[Success][27-03-2016 10:00:03]:Save Reruls Au480 Success
+[Success][27-03-2016 10:01:26]:Begin recieved from Cell-Dyn 1800 
+[Success][27-03-2016 10:01:33]:Save Reruls Au480 Success

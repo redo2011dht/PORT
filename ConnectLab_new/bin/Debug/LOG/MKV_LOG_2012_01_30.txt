@@ -1,0 +1,24 @@
+[Success][30-01-2012 10:17:06]:Begin recieved from CD1800
+[Success][30-01-2012 10:17:06]:Save SpecimenID: post#1040; Patient: 1040; Sequence: 1359
+[Success][30-01-2012 10:17:06]:End recieved from CD1800
+[Success][30-01-2012 10:19:53]:Begin recieved from CD1800
+[Success][30-01-2012 10:19:54]:Save SpecimenID: rbc-1040; Patient: rbc1040; Sequence: 1360
+[Success][30-01-2012 10:19:54]:End recieved from CD1800
+[Success][30-01-2012 10:24:00]:Begin recieved from CD1800
+[Success][30-01-2012 10:24:00]:Save SpecimenID: pre; Patient: prc; Sequence: 1361
+[Success][30-01-2012 10:24:00]:End recieved from CD1800
+[Success][30-01-2012 10:26:49]:Begin recieved from CD1800
+[Success][30-01-2012 10:26:49]:Save SpecimenID: p1040; Patient: p1040; Sequence: 1362
+[Success][30-01-2012 10:26:49]:End recieved from CD1800
+[Success][30-01-2012 10:29:02]:Begin recieved from CD1800
+[Success][30-01-2012 10:29:02]:Save SpecimenID: rbc; Patient: rbc; Sequence: 1363
+[Success][30-01-2012 10:29:02]:End recieved from CD1800
+[Success][30-01-2012 10:30:46]:Begin recieved from CD1800
+[Success][30-01-2012 10:30:46]:Save SpecimenID: post; Patient: post; Sequence: 1364
+[Success][30-01-2012 10:30:46]:End recieved from CD1800
+[Success][30-01-2012 10:32:39]:Begin recieved from CD1800
+[Success][30-01-2012 10:32:39]:Save SpecimenID: RBC; Patient: RBC; Sequence: 1365
+[Success][30-01-2012 10:32:39]:End recieved from CD1800
+[Success][30-01-2012 10:48:47]:Begin recieved from CD1800
+[Success][30-01-2012 10:48:47]:Save SpecimenID: RBC2; Patient: ; Sequence: 1366
+[Success][30-01-2012 10:48:47]:End recieved from CD1800

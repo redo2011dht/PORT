@@ -1,0 +1,265 @@
+[Success][20-03-2015 09:10:09]:Begin recieved from Cell-Dyn 1800 
+[Success][20-03-2015 09:10:10]:Save Huyet Hoc LH500 Success
+[Success][20-03-2015 09:10:10]:End recieved from Cell-Dyn 1800 
+[Success][20-03-2015 10:40:01]:Begin recieved from Cell-Dyn 1800 
+[Success][20-03-2015 10:40:02]:Save Huyet Hoc LH500 Success
+[Success][20-03-2015 10:40:02]:End recieved from Cell-Dyn 1800 
+[Success][20-03-2015 05:35:38]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][20-03-2015 05:35:39]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+04
+G01
+0A
+DATE 03/20/15
+TIME 16:30:26
+ID1 BN-10062014-018
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 6.7 
+RBC 4.74 
+HGB E69802139 
+HCT 42.7 
+MCV 90.2 
+MCH 29.3 
+MCHC 32.5 L
+RDW 11.3 L
+PLT 203 
+MPV 6.7 L
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 1.4 
+MO# 0.6 
+NE# 4.2 
+EO# 0.5 H
+BA# 0.0 
+G04
+05
+LY% 20.3 
+MO% 8.8 
+NE% 63.3 
+EO% 7.3 HC18303
+BA% 0.3 
+
+
+--------------
+                                                                                                                                                                                                                                D557
+[Success][20-03-2015 05:35:39]:End recieved from Cell-Dyn 1800 
+[Success][20-03-2015 05:36:38]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][20-03-2015 05:36:39]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+04
+G01
+0A
+DATE 03/20/15
+TIME 16:30:26
+ID1 BN-10062014-018
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 6.7 
+RBC 4.74 
+HGB E69802139 
+HCT 42.7 
+MCV 90.2 
+MCH 29.3 
+MCHC 32.5 L
+RDW 11.3 L
+PLT 203 
+MPV 6.7 L
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 1.4 
+MO# 0.6 
+NE# 4.2 
+EO# 0.5 H
+BA# 0.0 
+G04
+05
+LY% 20.3 
+MO% 8.8 
+NE% 63.3 
+EO% 7.3 HC18303
+BA% 0.3 
+
+
+--------------
+                                                                                                                                                                                                                                D557
+[Success][20-03-2015 05:36:39]:End recieved from Cell-Dyn 1800 
+[Success][20-03-2015 05:47:27]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][20-03-2015 05:47:29]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 03/20/15
+TIME 16:42:15
+ID1 TRONG
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.6 
+RBC 5.15 
+HGB 139 
+HCT 3D370243.5 
+MCV 84.6 
+MCH 26.9 aL
+MCHC 31.8 L
+RDW 13.0 
+PLT 174 
+MPV 7.1 
+G06
+01
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 1.9 
+MO# 0.7 
+NE# 5.0 
+EO# 0.0 L
+BA# 0.0 
+G04
+05
+LY% 25.7 
+MO% 8.7 
+034D03NE% 64.8 
+EO% 0.6 L
+BA% 0.2 L
+
+
+--------------
+                                                                                                                                                                                                           C19D
+[Success][20-03-2015 05:47:29]:End recieved from Cell-Dyn 1800 
+[Success][20-03-2015 05:49:02]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][20-03-2015 05:49:04]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+04
+G01
+0A
+DATE 03/20/15
+TIME 16:43:50
+ID1 TRONG
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.5 
+RBC 5.06 
+HGB 141 
+HCT 995A0243.0 
+MCV 85.0 
+MCH 27.8 
+MCHC 32.7 
+RDW 13.1 
+PLT 172 
+MPV 7.3 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.0 
+MO# 0.6 
+NE# 4.9 
+EO# 0.0 L
+BA# 0.0 
+G04
+05
+LY% 26.3 
+MO% 8.1 
+NE% 64.8 
+EO% 0.6 L
+BA% 0.2 L
+ACD403
+
+--------------
+                                                                                                                                                                                                                                            5080
+[Success][20-03-2015 05:49:04]:End recieved from Cell-Dyn 1800 

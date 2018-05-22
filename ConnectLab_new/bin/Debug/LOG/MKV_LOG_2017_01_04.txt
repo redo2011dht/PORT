@@ -1,0 +1,602 @@
+[Success][04-01-2017 07:56:43]:Save Reruls Au480 Success
+[Success][04-01-2017 07:56:44]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 07:56:45]:Save Reruls Au480 Success
+[Success][04-01-2017 07:56:47]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 07:56:49]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:17:14]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:17:28]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:17:33]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:17:37]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:29:08]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:29:09]:Save Reruls Au480 Success
+[Success][04-01-2017 08:29:17]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:29:19]:Save Reruls Au480 Success
+[Success][04-01-2017 08:30:12]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:30:12]:Save Reruls Au480 Success
+[Success][04-01-2017 08:39:24]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:39:25]:Save Reruls Au480 Success
+[Success][04-01-2017 08:40:00]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:40:01]:Save Reruls Au480 Success
+[Success][04-01-2017 08:40:51]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:40:56]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:41:00]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:51:46]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:51:47]:Save Reruls Au480 Success
+[Success][04-01-2017 08:52:49]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:52:50]:Save Reruls Au480 Success
+[Success][04-01-2017 08:53:53]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 08:53:54]:Save Reruls Au480 Success
+[Success][04-01-2017 09:03:42]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 09:03:44]:Save Reruls Au480 Success
+[Success][04-01-2017 09:05:17]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 09:16:22]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 09:16:23]:Save Reruls Au480 Success
+[Success][04-01-2017 09:46:52]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 09:47:05]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 09:58:36]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 09:58:37]:Save Reruls Au480 Success
+[Success][04-01-2017 10:00:25]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 10:00:26]:Save Reruls Au480 Success
+[Success][04-01-2017 10:05:23]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 10:05:24]:Save Reruls Au480 Success
+[Success][04-01-2017 10:18:40]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 10:18:41]:Save Reruls Au480 Success
+[Success][04-01-2017 06:34:11]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 06:34:12]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/04/17
+TIME 18:20:16
+ID1 test
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 6.6 
+RBC 4.96 
+HGB 154 
+HCT 40F0D027.1 
+MCV 95.0 
+MCH 31.0 
+MCHC 32.6 L
+RDW 12.7 
+PLT 106 L
+MPV 8.9 
+G07
+02
+SUSPECT Low Event #
+SUSPECT Verify Diff
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# :::::
+MO# :::::
+NE# :::::
+EO# :::::
+BA# :::::
+41B903G04
+05
+LY% :::::
+MO% :::::
+NE% :::::
+EO% :::::
+BA% :::::
+
+
+--------------
+                                                                                                                                                                            C191
+[Success][04-01-2017 06:34:12]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:43:50]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:43:52]:Save Huyet Hoc LH500 Success
+[Success][04-01-2017 06:43:52]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:45:17]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 06:45:18]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/04/17
+TIME 18:31:22
+ID1 test1
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.0 
+RBC 5.29 
+HGB 139 
+HCT F7450242.6 
+MCV 80.4 L
+MCH 26.3 aL
+MCHC 32.7 
+RDW 12.9 
+PLT 174 
+MPV 7.8 
+G06
+01
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 3.1 
+MO# 0.4 
+NE# 3.3 
+EO# 0.1 
+BA# 0.1 
+G04
+05
+LY% 44.0 
+MO% 5.7 
+N3DF103E% 47.6 
+EO% 1.2 
+BA% 1.5 
+
+
+--------------
+                                                                                                                                                                                                              4517
+[Success][04-01-2017 06:45:18]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:51:54]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 06:51:57]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/04/17
+TIME 18:37:48
+ID1 test3
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.1 
+RBC 5.54 
+HGB 138 
+HCT 4D070245.2 
+MCV 81.6 
+MCH 25.0 aL
+MCHC 30.6 aL
+RDW 12.8 
+PLT 198 V
+MPV 7.1 V
+G06
+02
+DEFINIT Hypochromia
+DEFINIT H&H Check Failed
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 3.2 
+MO# 0.4 
+NE# 3.3 
+EO# 0.1 
+BA# 01B1B03.1 
+G04
+05
+LY% 45.2 H
+MO% 5.8 
+NE% 46.1 
+EO% 1.3 
+BA% 1.6 H
+
+
+--------------
+                                                                                                                                                                        1A56
+[Success][04-01-2017 06:51:57]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:53:16]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 06:53:18]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/04/17
+TIME 18:39:21
+ID1 test4
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.1 
+RBC 5.22 
+HGB 140 
+HCT B0AB0242.5 
+MCV 81.4 
+MCH 26.8 aL
+MCHC 32.9 
+RDW 13.0 
+PLT 167 
+MPV 8.1 
+G06
+01
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 3.2 
+MO# 0.4 
+NE# 3.3 
+EO# 0.1 
+BA# 0.1 
+G04
+05
+LY% 44.9 
+MO% 5.7 
+NEEB3203% 46.6 
+EO% 1.3 
+BA% 1.5 
+
+
+--------------
+                                                                                                                                                                                                               BDC8
+[Success][04-01-2017 06:53:18]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:54:43]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:54:45]:Save Huyet Hoc LH500 Success
+[Success][04-01-2017 06:54:45]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 06:59:31]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 06:59:33]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/04/17
+TIME 18:45:36
+ID1 dung
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.7 
+RBC 5.43 
+HGB 160 
+HCT 4E476027.5 
+MCV 87.5 
+MCH 29.5 
+MCHC 33.7 
+RDW 11.9 
+PLT 321 
+MPV 6.7 L
+G06
+01
+DEFINIT Eosinophilia #
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.7 
+MO# 0.6 
+NE# 5.0 
+EO# 1.4 aH
+BA# 0.0 
+G04
+05
+LY% 27.9 
+MO% 6.7 F82503
+NE% 50.3 
+EO% 14.9 H
+BA% 0.2 L
+
+
+--------------
+                                                                                                                                                                                                         A156
+[Success][04-01-2017 06:59:33]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 07:00:54]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 07:00:56]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/04/17
+TIME 18:46:59
+ID1 dung1
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.8 
+RBC 5.39 
+HGB 160 
+HCT 7DDB0247.5 
+MCV 88.0 
+MCH 29.6 
+MCHC 33.7 
+RDW 12.1 
+PLT 313 
+MPV 7.0 
+G06
+01
+DEFINIT Eosinophilia #
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.8 
+MO# 0.7 
+NE# 4.8 
+EO# 1.5 aH
+BA# 0.0 
+G04
+05
+LY% 28.2 
+MO% 7.0 ADBD03
+NE% 49.7 
+EO% 15.0 H
+BA% 0.1 L
+
+
+--------------
+                                                                                                                                                                                                         771E
+[Success][04-01-2017 07:00:56]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 07:14:35]:Begin recieved from Cell-Dyn 1800 
+[Success][04-01-2017 07:14:37]:Save Huyet Hoc LH500 Success
+[Success][04-01-2017 07:14:37]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 07:16:16]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 07:16:18]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+06
+G01
+0A
+DATE 01/04/17
+TIME 19:02:21
+ID1 0862600
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 3.6 L
+RBC 1.79 L
+HGB 46 cLCC0102
+HCT 14.5 cL
+MCV 80.8 
+MCH 25.7 aL
+MCHC 31.8 L
+RDW 16.3 H
+PLT 72 L
+MPV 9.7 
+G06
+02
+DEFINIT Anemia
+DEFINIT Hypochromia
+G07
+03
+SUSPECT Ne Blasts
+SUSPECT Imm. NE 1
+SUSPECT Variant LY
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIC49C03FF
+02
+G03
+05
+LY# 1.8 
+MO# 0.2 L
+NE# 1.5 L
+EO# 0.1 
+BA# 0.0 
+G04
+05
+LY% 48.6 H
+MO% 5.1 
+NE% 42.8 
+EO% 3.4 
+BA% 0.1 L
+
+
+--------------
+                                                                                                        6631
+[Success][04-01-2017 07:16:18]:End recieved from Cell-Dyn 1800 
+[Success][04-01-2017 07:22:29]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-01-2017 07:22:31]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+06
+G01
+0A
+DATE 01/04/17
+TIME 19:08:34
+ID1 882600
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 3.7 L
+RBC 1.82 L
+HGB 47 cL
+7ED802HCT 14.6 cL
+MCV 80.1 L
+MCH 25.6 aL
+MCHC 32.0 L
+RDW 16.4 H
+PLT 76 L
+MPV 9.6 
+G06
+02
+DEFINIT Anemia
+DEFINIT Hypochromia
+G07
+03
+SUSPECT Ne Blasts
+SUSPECT Imm. NE 1
+SUSPECT Variant LY
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDI732E03FF
+02
+G03
+05
+LY# 1.8 
+MO# 0.2 L
+NE# 1.6 L
+EO# 0.1 
+BA# 0.0 
+G04
+05
+LY% 47.2 H
+MO% 5.4 
+NE% 43.9 
+EO% 3.4 
+BA% 0.1 L
+
+
+--------------
+                                                                                                        A9F5
+[Success][04-01-2017 07:22:31]:End recieved from Cell-Dyn 1800 

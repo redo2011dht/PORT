@@ -1,0 +1,29 @@
+***[***Fail][19-07-2016 08:55:09]:Save Reruls Au480 Error: DQ       Q001                           002E002127.17  003  7.15  004423.76  005 12.28  006 27.17  007122.16  008  3.33  009528.72  010142.21  DQ       Q001                           003E016  0.90  DQ       Q001                           004E016  1.78  
+[Success][19-07-2016 09:05:30]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 09:05:35]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 09:16:25]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 09:16:37]:Save Reruls Au480 Success
+[Success][19-07-2016 09:17:38]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 09:17:45]:Save Reruls Au480 Success
+[Success][19-07-2016 10:03:01]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 10:03:11]:Save Huyet Hoc LH500 Success
+[Success][19-07-2016 10:03:11]:End recieved from Cell-Dyn 1800 
+[Success][19-07-2016 10:06:43]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 10:06:50]:Save Huyet Hoc LH500 Success
+[Success][19-07-2016 10:06:50]:End recieved from Cell-Dyn 1800 
+[Success][19-07-2016 11:41:55]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 11:42:02]:Save Huyet Hoc LH500 Success
+[Success][19-07-2016 11:42:02]:End recieved from Cell-Dyn 1800 
+[Success][19-07-2016 11:45:40]:Start program
+[Success][19-07-2016 11:45:44]:Connect to SQL Server
+[Success][19-07-2016 11:45:44]:Connect to Au480
+[Success][19-07-2016 11:45:44]:Connect to Lh500
+[Success][19-07-2016 03:28:21]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 03:28:29]:Save Huyet Hoc LH500 Success
+[Success][19-07-2016 03:28:29]:End recieved from Cell-Dyn 1800 
+[Success][19-07-2016 04:01:08]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 04:01:15]:Save Huyet Hoc LH500 Success
+[Success][19-07-2016 04:01:15]:End recieved from Cell-Dyn 1800 
+[Success][19-07-2016 04:45:25]:Begin recieved from Cell-Dyn 1800 
+[Success][19-07-2016 04:45:33]:Save Huyet Hoc LH500 Success
+[Success][19-07-2016 04:45:33]:End recieved from Cell-Dyn 1800 

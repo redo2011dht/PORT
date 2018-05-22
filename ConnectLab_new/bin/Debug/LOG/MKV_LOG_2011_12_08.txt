@@ -1,0 +1,14 @@
+[Success][08-12-2011 06:27:42]:Start program
+[Success][08-12-2011 06:27:45]:Connect to SQL Server
+[Success][08-12-2011 06:27:45]:Connect to Cell-Dyn 1800
+***[***Fail][08-12-2011 06:27:45]:Connect to ERBA LX 200
+[Success][08-12-2011 06:27:45]:Connect to Laura Smart
+[Success][08-12-2011 06:27:47]:Start form config
+[Success][08-12-2011 06:28:04]:Close form config
+[Success][08-12-2011 06:31:21]:Start program
+[Success][08-12-2011 06:31:26]:Connect to SQL Server
+[Success][08-12-2011 06:31:26]:Connect to Cell-Dyn 1800
+***[***Fail][08-12-2011 06:31:26]:Connect to ERBA LX 200
+[Success][08-12-2011 06:31:26]:Connect to Laura Smart
+[Success][08-12-2011 06:31:40]:Save SpecimenID: 07122011-131; Patient: LUONG T XUYEN; Sequence: 0493
+[Success][08-12-2011 06:31:40]:End recieved from Cell-Dyn 1800 

@@ -1,0 +1,295 @@
+[Success][21-12-2011 07:19:30]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:19:30]:Save SpecimenID: 111221-002; Patient: kim loan; Sequence: 0728
+[Success][21-12-2011 07:19:30]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:22:05]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:22:05]:Save SpecimenID: 111221-003; Patient: ng lu; Sequence: 0729
+[Success][21-12-2011 07:22:05]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:23:58]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:23:59]:Save SpecimenID: 111221-004; Patient: TRUONG T SANG; Sequence: 0730
+[Success][21-12-2011 07:23:59]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:26:06]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:26:13]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:26:13]:Save SpecimenID: 111221-004; Patient: TR T SANG; Sequence: 0731
+[Success][21-12-2011 07:26:13]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:28:40]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:28:40]:Save SpecimenID: 111221-006; Patient: NGO TAN SI; Sequence: 0732
+[Success][21-12-2011 07:28:40]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:30:24]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:30:25]:Save SpecimenID: 111221-008; Patient: LA THI DE; Sequence: 0733
+[Success][21-12-2011 07:30:25]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:34:36]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:34:36]:Save SpecimenID: 111221-010; Patient: EM; Sequence: 0734
+[Success][21-12-2011 07:34:36]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:40:54]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:40:54]:Save SpecimenID: 111221-012; Patient: KHANH TON; Sequence: 0735
+[Success][21-12-2011 07:40:54]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:43:57]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:45:06]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 07:45:07]:Save SpecimenID: 111221-013; Patient: LE THI THOA; Sequence: 0736
+[Success][21-12-2011 07:45:07]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:07:56]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:07:57]:Save SpecimenID: 111221-014; Patient: TRAN THI THEM; Sequence: 0737
+[Success][21-12-2011 08:07:57]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:09:29]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:09:29]:Save SpecimenID: 111221-015; Patient: LE THI TU; Sequence: 0738
+[Success][21-12-2011 08:09:29]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:12:24]:Start program
+[Success][21-12-2011 08:12:25]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:12:25]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:12:25]:Connect to SQL Server
+[Success][21-12-2011 08:12:25]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 08:12:25]:Connect to ERBA LX 200
+***[***Fail][21-12-2011 08:12:25]:Connect to Laura Smart
+[Success][21-12-2011 08:16:05]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:16:05]:Save SpecimenID: 111221-016; Patient: HOANG; Sequence: 0739
+[Success][21-12-2011 08:16:05]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:18:25]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:18:25]:Save SpecimenID: 111221-018; Patient: HUU; Sequence: 0740
+[Success][21-12-2011 08:18:25]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:26:40]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:26:41]:Save SpecimenID: 111221-003; Patient: ng lu; Sequence: 0729
+[Success][21-12-2011 08:26:41]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:27:16]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:30:23]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:30:24]:Save SpecimenID: 111221-008; Patient: LA THI DE; Sequence: 0733
+[Success][21-12-2011 08:30:24]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:32:05]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:32:06]:Save SpecimenID: 111221-010; Patient: EM; Sequence: 0734
+[Success][21-12-2011 08:32:06]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:43:29]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:43:29]:Save SpecimenID: 111221-012; Patient: KHANH TON; Sequence: 0735
+[Success][21-12-2011 08:43:29]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:43:38]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:43:39]:Save SpecimenID: 111221-013; Patient: LE THI THOA; Sequence: 0736
+[Success][21-12-2011 08:43:39]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:02]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:03]:Save SpecimenID: 111221-014; Patient: TRAN THI THEM; Sequence: 0737
+[Success][21-12-2011 08:45:03]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:16]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:16]:Save SpecimenID: 111221-015; Patient: LE THI TU; Sequence: 0738
+[Success][21-12-2011 08:45:16]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:25]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:25]:Save SpecimenID: 111221-016; Patient: HOANG; Sequence: 0739
+[Success][21-12-2011 08:45:25]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:39]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 08:45:40]:Save SpecimenID: 111221-018; Patient: HUU; Sequence: 0740
+[Success][21-12-2011 08:45:40]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:03:06]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:03:06]:Save SpecimenID: 111221-020; Patient: VANNA; Sequence: 0741
+[Success][21-12-2011 09:03:06]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:04:24]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:04:25]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:04:34]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:04:34]:Save SpecimenID: 111221-022; Patient: CUONG; Sequence: 0742
+[Success][21-12-2011 09:04:34]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:06:24]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:06:25]:Save SpecimenID: 111221-023; Patient: HOA; Sequence: 0743
+[Success][21-12-2011 09:06:25]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:09:55]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:09:55]:Save SpecimenID: 111221-023; Patient: HOA; Sequence: 0743
+[Success][21-12-2011 09:09:55]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:10:07]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:10:08]:Save SpecimenID: 111221-022; Patient: CUONG; Sequence: 0742
+[Success][21-12-2011 09:10:08]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:10:22]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:10:23]:Save SpecimenID: 111221-020; Patient: VANNA; Sequence: 0741
+[Success][21-12-2011 09:10:23]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:19:43]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:19:43]:Save SpecimenID: 111221-024; Patient: HOAI; Sequence: 0744
+[Success][21-12-2011 09:19:43]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:25:51]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:25:51]:Save SpecimenID: 111221-025; Patient: HIEN; Sequence: 0745
+[Success][21-12-2011 09:25:51]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:39:36]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:39:36]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 09:43:33]:Start form config
+[***Fail][21-12-2011 09:43:39]:Changed config
+[Success][21-12-2011 09:52:30]:Begin reload all config
+[Success][21-12-2011 09:52:30]:Connect to SQL Server
+[Success][21-12-2011 09:52:30]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 09:52:30]:Connect to ERBA LX 200
+[Success][21-12-2011 09:52:30]:End reload all config
+[Success][21-12-2011 09:52:30]:Close form config
+[Success][21-12-2011 10:04:23]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 10:04:24]:Save SpecimenID: 111221-027; Patient: DAO; Sequence: 0746
+[Success][21-12-2011 10:04:24]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 10:07:03]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 10:07:03]:Save SpecimenID: 111221-029; Patient: XUAN; Sequence: 0747
+[Success][21-12-2011 10:07:03]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 10:10:56]:Start program
+[Success][21-12-2011 10:10:56]:Connect to SQL Server
+[Success][21-12-2011 10:10:56]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 10:10:56]:Connect to ERBA LX 200
+***[***Fail][21-12-2011 10:10:56]:Connect to Laura Smart
+[Success][21-12-2011 10:11:06]:Start form config
+[***Fail][21-12-2011 10:11:12]:Changed config
+[Success][21-12-2011 10:11:18]:Begin reload all config
+[Success][21-12-2011 10:11:18]:Connect to SQL Server
+[Success][21-12-2011 10:11:18]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 10:11:18]:Connect to ERBA LX 200
+[Success][21-12-2011 10:11:18]:End reload all config
+[Success][21-12-2011 10:11:18]:Close form config
+[Success][21-12-2011 10:23:31]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 10:23:32]:Save SpecimenID: 111221-032; Patient: RAVY; Sequence: 0748
+[Success][21-12-2011 10:23:32]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 10:45:10]:Start form config
+[***Fail][21-12-2011 10:45:14]:Changed config
+[Success][21-12-2011 10:45:16]:Begin reload all config
+[Success][21-12-2011 10:45:16]:Connect to SQL Server
+[Success][21-12-2011 10:45:16]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 10:45:16]:Connect to ERBA LX 200
+[Success][21-12-2011 10:45:16]:End reload all config
+[Success][21-12-2011 10:45:16]:Close form config
+[Success][21-12-2011 10:45:49]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 10:45:49]:Save SpecimenID: 111221-035; Patient: BAO; Sequence: 0749
+[Success][21-12-2011 10:45:49]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 11:41:54]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 11:41:55]:Save SpecimenID: 111221-002; Patient: kim loan; Sequence: 0728
+[Success][21-12-2011 11:41:55]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 11:42:12]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 11:42:12]:Save SpecimenID: 111221-004; Patient: TRUONG T SANG; Sequence: 0730
+[Success][21-12-2011 11:42:12]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 12:03:44]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 12:06:49]:Start form config
+[***Fail][21-12-2011 12:06:54]:Changed config
+[Success][21-12-2011 12:06:56]:Begin reload all config
+[Success][21-12-2011 12:06:56]:Connect to SQL Server
+[Success][21-12-2011 12:06:56]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:06:56]:Connect to ERBA LX 200
+[Success][21-12-2011 12:06:56]:End reload all config
+[Success][21-12-2011 12:06:56]:Close form config
+[Success][21-12-2011 12:07:32]:Start form config
+[***Fail][21-12-2011 12:07:39]:Changed config
+[Success][21-12-2011 12:07:42]:Begin reload all config
+[Success][21-12-2011 12:07:42]:Connect to SQL Server
+[Success][21-12-2011 12:07:42]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:07:42]:Connect to ERBA LX 200
+[Success][21-12-2011 12:07:42]:End reload all config
+[Success][21-12-2011 12:07:42]:Close form config
+[Success][21-12-2011 12:17:16]:Start program
+[Success][21-12-2011 12:17:17]:Connect to SQL Server
+[Success][21-12-2011 12:17:17]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:17:17]:Connect to ERBA LX 200
+***[***Fail][21-12-2011 12:17:17]:Connect to Laura Smart
+[Success][21-12-2011 12:17:25]:Start form config
+[***Fail][21-12-2011 12:17:29]:Changed config
+[Success][21-12-2011 12:17:31]:Begin reload all config
+[Success][21-12-2011 12:17:31]:Connect to SQL Server
+[Success][21-12-2011 12:17:31]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:17:31]:Connect to ERBA LX 200
+[Success][21-12-2011 12:17:31]:End reload all config
+[Success][21-12-2011 12:17:31]:Close form config
+[Success][21-12-2011 12:30:23]:Start form config
+[Success][21-12-2011 12:30:24]:Close form config
+[Success][21-12-2011 12:30:57]:Start program
+[Success][21-12-2011 12:30:58]:Connect to SQL Server
+[Success][21-12-2011 12:30:58]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:30:58]:Connect to ERBA LX 200
+***[***Fail][21-12-2011 12:30:58]:Connect to Laura Smart
+[Success][21-12-2011 12:31:05]:Start form config
+[***Fail][21-12-2011 12:31:08]:Changed config
+[***Fail][21-12-2011 12:31:12]:Changed config
+[***Fail][21-12-2011 12:31:16]:Changed config
+[Success][21-12-2011 12:31:19]:Begin reload all config
+[Success][21-12-2011 12:31:19]:Connect to SQL Server
+[Success][21-12-2011 12:31:19]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:31:19]:Connect to ERBA LX 200
+[Success][21-12-2011 12:31:19]:Connect to Stago Start 4
+[Success][21-12-2011 12:31:19]:End reload all config
+[Success][21-12-2011 12:31:19]:Close form config
+[Success][21-12-2011 12:39:43]:Start program
+[Success][21-12-2011 12:39:44]:Connect to SQL Server
+[Success][21-12-2011 12:39:44]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:39:44]:Connect to ERBA LX 200
+***[***Fail][21-12-2011 12:39:44]:Connect to Laura Smart
+[Success][21-12-2011 12:41:37]:Start form config
+[Success][21-12-2011 12:41:44]:Changed config
+[Success][21-12-2011 12:41:44]:Begin reload all config
+[Success][21-12-2011 12:41:44]:Connect to SQL Server
+[Success][21-12-2011 12:41:44]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:41:44]:Connect to ERBA LX 200
+[Success][21-12-2011 12:41:44]:Connect to Stago Start 4
+[Success][21-12-2011 12:41:44]:End reload all config
+[Success][21-12-2011 12:41:44]:Close form config
+[Success][21-12-2011 12:44:52]:Start program
+[Success][21-12-2011 12:44:52]:Connect to SQL Server
+[Success][21-12-2011 12:44:52]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:44:52]:Connect to ERBA LX 200
+[Success][21-12-2011 12:44:52]:Connect to Laura Smart
+[Success][21-12-2011 12:48:25]:Start program
+[Success][21-12-2011 12:48:25]:Connect to SQL Server
+[Success][21-12-2011 12:48:25]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 12:48:25]:Connect to ERBA LX 200
+[Success][21-12-2011 12:48:25]:Connect to Laura Smart
+[Success][21-12-2011 12:48:25]:Connect to Stago Start 4
+[Success][21-12-2011 12:48:34]:Start form config
+[Success][21-12-2011 12:48:44]:Close form config
+[[Start4: COM]: ][21-12-2011 01:27:27]:ST4  TR 1 1IN
+[Success][21-12-2011 01:27:27]:Begin recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][21-12-2011 01:27:27]:R    13.281 1
+[[Start4: COM]: ][21-12-2011 01:27:28]:   
+[[Start4: COM]: ][21-12-2011 01:27:28]:       38S  12.
+[[Start4: COM]: ][21-12-2011 01:27:28]:300 100.000   0
+[[Start4: COM]: ][21-12-2011 01:27:28]:.910i  
+[Success][21-12-2011 01:44:17]:Start program
+[Success][21-12-2011 01:44:18]:Connect to SQL Server
+[Success][21-12-2011 01:44:18]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 01:44:18]:Connect to ERBA LX 200
+[Success][21-12-2011 01:44:18]:Connect to Laura Smart
+[Success][21-12-2011 01:44:18]:Connect to Stago Start 4
+[Success][21-12-2011 01:48:30]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 01:48:31]:Save SpecimenID: 111221-037; Patient: DAI DONG; Sequence: 0750
+[Success][21-12-2011 01:48:31]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 01:49:56]:Start form config
+[***Fail][21-12-2011 01:50:02]:Changed config
+[***Fail][21-12-2011 01:50:41]:Changed config
+[Success][21-12-2011 01:50:42]:Begin reload all config
+[Success][21-12-2011 01:50:43]:Connect to SQL Server
+[Success][21-12-2011 01:50:43]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 01:50:43]:Connect to ERBA LX 200
+[Success][21-12-2011 01:50:43]:Connect to Laura Smart
+***[***Fail][21-12-2011 01:50:43]:Connect toStago Start 4
+[Success][21-12-2011 01:50:43]:End reload all config
+[Success][21-12-2011 01:50:43]:Close form config
+[Success][21-12-2011 01:51:14]:Start form config
+[Success][21-12-2011 01:51:19]:Close form config
+[Success][21-12-2011 01:54:58]:Start form config
+[Success][21-12-2011 01:55:06]:Changed config
+[Success][21-12-2011 01:55:06]:Begin reload all config
+[Success][21-12-2011 01:55:06]:Connect to SQL Server
+[Success][21-12-2011 01:55:06]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 01:55:06]:Connect to ERBA LX 200
+[Success][21-12-2011 01:55:06]:Connect to Laura Smart
+[Success][21-12-2011 01:55:06]:Connect to Stago Start 4
+[Success][21-12-2011 01:55:06]:End reload all config
+[Success][21-12-2011 01:55:06]:Close form config
+[Success][21-12-2011 01:56:06]:Start program
+[Success][21-12-2011 01:56:06]:Connect to SQL Server
+[Success][21-12-2011 01:56:06]:Connect to Cell-Dyn 1800
+[Success][21-12-2011 01:56:06]:Connect to ERBA LX 200
+[Success][21-12-2011 01:56:06]:Connect to Laura Smart
+[Success][21-12-2011 01:56:06]:Connect to Stago Start 4
+[Success][21-12-2011 01:56:15]:Start form config
+[Success][21-12-2011 01:56:23]:Close form config
+[Success][21-12-2011 02:46:38]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 02:46:39]:Save SpecimenID: 111221-039; Patient: HANH; Sequence: 0751
+[Success][21-12-2011 02:46:39]:End recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][21-12-2011 02:56:51]:ST4  TR 1 1
+[Success][21-12-2011 02:56:51]:Begin recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][21-12-2011 02:56:51]:INR    13.281 1
+[[Start4: COM]: ][21-12-2011 02:56:51]:          39S  
+[[Start4: COM]: ][21-12-2011 02:56:51]:12.600 100.000  
+[[Start4: COM]: ][21-12-2011 02:56:51]: 0.930o  
+[[Start4:] ][21-12-2011 02:56:51]:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at ConnectLab.StagoStart4Result..ctor(String ouputFromLaura)
+   at ConnectLab.StagoStart4Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e)
+[Success][21-12-2011 03:07:36]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 03:07:36]:Save SpecimenID: 111221-039; Patient: HANH; Sequence: 0751
+[Success][21-12-2011 03:07:36]:End recieved from Cell-Dyn 1800 
+[Success][21-12-2011 03:32:53]:Begin recieved from Cell-Dyn 1800 
+[Success][21-12-2011 03:32:53]:Save SpecimenID: 111221-040; Patient: MINH THIEN; Sequence: 0752
+[Success][21-12-2011 03:32:53]:End recieved from Cell-Dyn 1800 

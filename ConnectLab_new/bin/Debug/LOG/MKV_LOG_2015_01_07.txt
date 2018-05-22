@@ -1,0 +1,76 @@
+[Success][07-01-2015 11:04:12]:Start form config
+[***Fail][07-01-2015 11:04:25]:Changed config
+[Success][07-01-2015 11:04:27]:Begin reload all config
+[Success][07-01-2015 11:04:27]:Connect to SQL Server
+***[***Fail][07-01-2015 11:04:27]:Connect to Cell-Dyn 1800
+***[***Fail][07-01-2015 11:04:27]:Connect to ERBA LX 200
+***[***Fail][07-01-2015 11:04:27]:Connect to Laura Smart
+***[***Fail][07-01-2015 11:04:27]:Connect toStago Start 4
+***[***Fail][07-01-2015 11:04:27]:Connect toStago Start 4
+[Success][07-01-2015 11:04:27]:End reload all config
+[Success][07-01-2015 11:04:27]:Close form config
+[Success][07-01-2015 11:04:35]:Start form config
+[Success][07-01-2015 11:04:39]:Close form config
+[Success][07-01-2015 11:05:12]:Start program
+[Success][07-01-2015 11:05:13]:Connect to SQL Server
+[Success][07-01-2015 11:05:13]:Connect to Au480
+[Success][07-01-2015 11:05:13]:Connect to Lh500
+[Success][07-01-2015 11:05:29]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:05:30]:Save Reruls Au480 Success
+[Success][07-01-2015 11:07:57]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:07:58]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 11:07:58]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:37:50]:Start program
+[Success][07-01-2015 11:37:51]:Connect to SQL Server
+[Success][07-01-2015 11:37:51]:Connect to Au480
+[Success][07-01-2015 11:37:51]:Connect to Lh500
+[Success][07-01-2015 11:38:25]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:38:25]:Save Reruls Au480 Success
+[Success][07-01-2015 11:38:33]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:38:34]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 11:38:34]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:39:58]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:39:59]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 11:39:59]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:41:30]:Start program
+[Success][07-01-2015 11:41:30]:Connect to SQL Server
+[Success][07-01-2015 11:41:30]:Connect to Au480
+[Success][07-01-2015 11:41:30]:Connect to Lh500
+[Success][07-01-2015 11:41:35]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:41:36]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 11:41:36]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:42:57]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:42:58]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 11:42:58]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:43:14]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:43:14]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 11:43:14]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:56:25]:Start program
+[Success][07-01-2015 11:56:26]:Connect to SQL Server
+[Success][07-01-2015 11:56:26]:Connect to Au480
+[Success][07-01-2015 11:56:26]:Connect to Lh500
+[Success][07-01-2015 11:56:35]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:56:36]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 11:56:36]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:57:01]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:57:01]:Save Reruls Au480 Success
+[Success][07-01-2015 11:57:16]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 11:57:16]:Save Reruls Au480 Success
+[Success][07-01-2015 12:05:26]:Start program
+[Success][07-01-2015 12:05:27]:Connect to SQL Server
+[Success][07-01-2015 12:05:27]:Connect to Au480
+[Success][07-01-2015 12:05:27]:Connect to Lh500
+[Success][07-01-2015 12:05:55]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 12:05:57]:Save Huyet Hoc LH500 Success
+[Success][07-01-2015 12:05:57]:End recieved from Cell-Dyn 1800 
+[Success][07-01-2015 12:11:18]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 12:11:30]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 12:11:35]:Begin recieved from Cell-Dyn 1800 
+[Success][07-01-2015 12:13:31]:Start program
+[Success][07-01-2015 12:13:32]:Connect to SQL Server
+[Success][07-01-2015 12:13:32]:Connect to Au480
+[Success][07-01-2015 12:13:32]:Connect to Lh500
+[Success][07-01-2015 04:10:26]:Start program
+[Success][07-01-2015 04:10:27]:Connect to SQL Server
+[Success][07-01-2015 04:10:27]:Connect to Au480
+[Success][07-01-2015 04:10:27]:Connect to Lh500

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConnectLab">
+</Property><Property Name="Solution File" Value="C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\ConnectLab.sln">
+</Property><Property Name="Date" Value="Wednesday, September 24, 2014">
+</Property><Property Name="Time" Value="8:12:17 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="4" Project="ConnectLab" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj" Description="Project file successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\ConnectLab.csproj">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj.user" Description="Project user file successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\ConnectLab.csproj.user">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\AppUntil.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\AppUntil.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmChanePassword.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmChanePassword.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmChanePassword.Designer.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmChanePassword.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\DOCOMConfig.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\DOCOMConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmPassword.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmPassword.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmPassword.Designer.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmPassword.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\IDevice.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\IDevice.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Au480\Au480Config.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Au480\Au480Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Au480\Au480Connect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Au480\Au480Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="CellDyn1800\CD1800Config.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\CellDyn1800\CD1800Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="CellDyn1800\CD1800Connect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\CellDyn1800\CD1800Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\AppParams.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\AppParams.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmConfig.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmConfig.Designer.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmConfig.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\DOSQLConfig.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\DOSQLConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\ASTM.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Elecsys2010\ASTM.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\Elecsys2010Config.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Elecsys2010\Elecsys2010Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\Elecsys2010Connect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Elecsys2010\Elecsys2010Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\Elecsys2010Result.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Elecsys2010\Elecsys2010Result.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\TestParams.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Elecsys2010\TestParams.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Lh500\Lh500Config.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Lh500\Lh500Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Lh500\Lh500Connect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Lh500\Lh500Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Report\frmInKetQua.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Report\frmInKetQua.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Report\frmInKetQua.Designer.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Report\frmInKetQua.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Report\rptXetNghiemTieuDe.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Report\rptXetNghiemTieuDe.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="StagoStart4\StagoStart4Config.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\StagoStart4\StagoStart4Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="StagoStart4\StagoStart4Connect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\StagoStart4\StagoStart4Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="StagoStart4\StagoStart4Result.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\StagoStart4\StagoStart4Result.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="LauraSmart\LauraSmartConfig.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\LauraSmart\LauraSmartConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="LauraSmart\LauraSmartConnect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\LauraSmart\LauraSmartConnect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="LauraSmart\LauraSmartResult.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\LauraSmart\LauraSmartResult.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="EBLX200\EBLX200Config.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\EBLX200\EBLX200Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="EBLX200\EBLX200Connect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\EBLX200\EBLX200Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="frmMain.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\LogProgram.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\LogProgram.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Program.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="CellDyn1800\CD1800Result.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\CellDyn1800\CD1800Result.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\SQLConnect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\SQLConnect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Server\ServerConfig.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Server\ServerConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Server\ServerConnect.cs" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Server\ServerConnect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="App.config" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\App.config">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\Icon1.ico" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Resources\Icon1.ico">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\Smart-Meter-Security.jpg" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Resources\Smart-Meter-Security.jpg">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\comodo-logo.png" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Resources\comodo-logo.png">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\network_security.jpg" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Resources\network_security.jpg">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="warmconect.ico" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\warmconect.ico">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="connect.ico" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\connect.ico">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmChanePassword.resx" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmChanePassword.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmConfig.resx" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmConfig.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmPassword.resx" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Applications\frmPassword.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\licenses.licx" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Report\frmInKetQua.resx" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Report\frmInKetQua.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Report\rptXetNghiemTieuDe.rpt" Description="File successfully backed up as C:\Users\DinhKhoa\Desktop\MKV\ConnectLab\Backup1\Report\rptXetNghiemTieuDe.rpt">
+</Event><Event ErrorLevel="1" Project="ConnectLab" Source="ConnectLab.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConnectLab" Source="ConnectLab.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,40 @@
+[Success][13-05-2017 02:19:10]:Start program
+[Success][13-05-2017 02:19:10]:Connect to SQL Server
+[Success][13-05-2017 02:19:10]:Connect to Au480
+[Success][13-05-2017 02:19:10]:Connect to Lh500
+[Success][13-05-2017 02:44:53]:Start program
+[Success][13-05-2017 02:44:54]:Connect to SQL Server
+[Success][13-05-2017 02:44:54]:Connect to Au480
+[Success][13-05-2017 02:44:54]:Connect to Lh500
+[Success][13-05-2017 02:46:03]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:46:04]:Save Reruls Au480 Success
+[Success][13-05-2017 02:46:57]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:46:58]:Save Reruls Au480 Success
+[Success][13-05-2017 02:47:47]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:47:48]:Save Reruls Au480 Success
+[Success][13-05-2017 02:48:53]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:48:53]:Save Reruls Au480 Success
+[Success][13-05-2017 02:49:27]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:49:28]:Save Reruls Au480 Success
+[Success][13-05-2017 02:50:56]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:50:57]:Save Reruls Au480 Success
+[Success][13-05-2017 02:51:34]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:51:35]:Save Reruls Au480 Success
+[Success][13-05-2017 02:52:27]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:52:28]:Save Reruls Au480 Success
+[Success][13-05-2017 02:53:06]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:53:07]:Save Reruls Au480 Success
+[Success][13-05-2017 02:54:05]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:54:05]:Save Reruls Au480 Success
+[Success][13-05-2017 02:54:42]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:54:43]:Save Reruls Au480 Success
+[Success][13-05-2017 02:55:20]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:55:20]:Save Reruls Au480 Success
+[Success][13-05-2017 02:55:56]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:55:56]:Save Reruls Au480 Success
+[Success][13-05-2017 02:56:30]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:56:30]:Save Reruls Au480 Success
+[Success][13-05-2017 02:56:47]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:56:48]:Save Reruls Au480 Success
+[Success][13-05-2017 02:57:04]:Begin recieved from Cell-Dyn 1800 
+[Success][13-05-2017 02:57:05]:Save Reruls Au480 Success

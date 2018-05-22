@@ -1,0 +1,3 @@
+[Success][27-09-2012 09:48:53]:Begin recieved from Cell-Dyn 1800 
+[Success][27-09-2012 09:48:53]:Save SpecimenID: 120927-001; Patient: hien; Sequence: 7683
+[Success][27-09-2012 09:48:53]:End recieved from Cell-Dyn 1800 

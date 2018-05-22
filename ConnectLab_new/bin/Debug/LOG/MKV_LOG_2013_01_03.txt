@@ -1,0 +1,3 @@
+[Success][03-01-2013 08:35:12]:Begin recieved from Cell-Dyn 1800 
+[Success][03-01-2013 08:35:12]:Save SpecimenID: 130103-003; Patient: thang; Sequence: 0839
+[Success][03-01-2013 08:35:12]:End recieved from Cell-Dyn 1800 

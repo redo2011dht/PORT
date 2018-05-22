@@ -1,0 +1,13 @@
+[Success][02-12-2011 10:18:13]:Start program
+[Success][02-12-2011 10:18:13]:Connect to SQL Server
+[Success][02-12-2011 10:18:13]:Connect to Cell-Dyn 1800
+[Success][02-12-2011 10:18:13]:Connect to ERBA LX 200
+[Success][02-12-2011 10:18:34]:Start program
+[Success][02-12-2011 10:18:35]:Connect to SQL Server
+[Success][02-12-2011 10:18:35]:Connect to Cell-Dyn 1800
+[Success][02-12-2011 10:18:35]:Connect to ERBA LX 200
+[Success][02-12-2011 01:41:05]:Start program
+[Success][02-12-2011 01:41:08]:Connect to SQL Server
+[Success][02-12-2011 01:41:08]:Connect to Cell-Dyn 1800
+[Success][02-12-2011 01:41:08]:Connect to ERBA LX 200
+[Success][02-12-2011 01:41:46]:Start program

@@ -1,0 +1,137 @@
+[Success][15-10-2014 08:10:45]:Begin recieved from Cell-Dyn 1800 
+[[Au480]:][15-10-2014 08:10:45]:System.ArgumentOutOfRangeException: StartIndex cannot be less than zero.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 152
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 117
+[Success][15-10-2014 08:10:49]:Begin recieved from Cell-Dyn 1800 
+[[Au480]:][15-10-2014 08:10:49]:System.ArgumentOutOfRangeException: StartIndex cannot be less than zero.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 152
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 117
+[Success][15-10-2014 08:19:36]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:19:37]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:19:37]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:20:25]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:20:26]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:20:26]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:21:23]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:21:24]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:21:24]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:22:03]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:22:04]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:22:04]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:22:53]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:22:54]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:22:54]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:23:42]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:23:43]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:23:43]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:24:30]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:24:31]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:24:32]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:25:17]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:25:18]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:25:18]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:31:52]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:31:53]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:31:53]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:34:35]:Begin recieved from Cell-Dyn 1800 
+[[Au480]:][15-10-2014 08:34:35]:System.ArgumentOutOfRangeException: StartIndex cannot be less than zero.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 152
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 117
+[Success][15-10-2014 08:34:38]:Begin recieved from Cell-Dyn 1800 
+[[Au480]:][15-10-2014 08:34:38]:System.ArgumentOutOfRangeException: StartIndex cannot be less than zero.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at ConnectLab.Au480Connect.LuuKetQuaSinhHoa(String strChuoi) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 152
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\ConnectLab\Au480\Au480Connect.cs:line 117
+[Success][15-10-2014 08:34:48]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:36:31]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:36:32]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:36:32]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:42:24]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:42:25]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:42:25]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:46:40]:Save Reruls Au480 Success
+[Success][15-10-2014 08:46:40]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:47:25]:Save Reruls Au480 Success
+[Success][15-10-2014 08:48:10]:Save Reruls Au480 Success
+[Success][15-10-2014 08:48:50]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:48:51]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 08:48:51]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 08:48:55]:Save Reruls Au480 Success
+***[***Fail][15-10-2014 08:49:39]:Save Reruls Au480 Error: D 002005 0005               15102014004    E002      %?004      %?005      %?007      %?009      %?
+[Success][15-10-2014 08:57:04]:Save Reruls Au480 Success
+[Success][15-10-2014 08:57:49]:Save Reruls Au480 Success
+[Success][15-10-2014 08:58:35]:Save Reruls Au480 Success
+[Success][15-10-2014 09:01:13]:Start program
+[Success][15-10-2014 09:01:16]:Connect to SQL Server
+[Success][15-10-2014 09:01:16]:Connect to Au480
+[Success][15-10-2014 09:01:16]:Connect to Lh500
+***[***Fail][15-10-2014 09:01:16]:Connect to Cell-Dyn 1800
+***[***Fail][15-10-2014 09:01:16]:Connect to ERBA LX 200
+***[***Fail][15-10-2014 09:01:16]:Connect to Laura Smart
+***[***Fail][15-10-2014 09:01:16]:Connect toStago Start 4
+***[***Fail][15-10-2014 09:01:16]:Connect toStago Start 4
+[Success][15-10-2014 09:02:03]:Save Reruls Au480 Success
+[Success][15-10-2014 09:26:45]:Start program
+[Success][15-10-2014 09:26:49]:Connect to SQL Server
+[Success][15-10-2014 09:26:49]:Connect to Au480
+[Success][15-10-2014 09:26:49]:Connect to Lh500
+***[***Fail][15-10-2014 09:26:49]:Connect to Cell-Dyn 1800
+***[***Fail][15-10-2014 09:26:49]:Connect to ERBA LX 200
+***[***Fail][15-10-2014 09:26:49]:Connect to Laura Smart
+***[***Fail][15-10-2014 09:26:49]:Connect toStago Start 4
+***[***Fail][15-10-2014 09:26:49]:Connect toStago Start 4
+[Success][15-10-2014 09:27:54]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:27:57]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 09:27:57]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:30:28]:Start program
+[Success][15-10-2014 09:30:31]:Connect to SQL Server
+[Success][15-10-2014 09:30:31]:Connect to Au480
+[Success][15-10-2014 09:30:31]:Connect to Lh500
+***[***Fail][15-10-2014 09:30:31]:Connect to Cell-Dyn 1800
+***[***Fail][15-10-2014 09:30:31]:Connect to ERBA LX 200
+***[***Fail][15-10-2014 09:30:31]:Connect to Laura Smart
+***[***Fail][15-10-2014 09:30:31]:Connect toStago Start 4
+***[***Fail][15-10-2014 09:30:31]:Connect toStago Start 4
+[Success][15-10-2014 09:30:38]:Start form config
+[Success][15-10-2014 09:30:42]:Changed config
+[Success][15-10-2014 09:30:43]:Begin reload all config
+[Success][15-10-2014 09:30:46]:Connect to SQL Server
+***[***Fail][15-10-2014 09:30:46]:Connect to Cell-Dyn 1800
+***[***Fail][15-10-2014 09:30:46]:Connect to ERBA LX 200
+***[***Fail][15-10-2014 09:30:46]:Connect to Laura Smart
+***[***Fail][15-10-2014 09:30:46]:Connect toStago Start 4
+***[***Fail][15-10-2014 09:30:46]:Connect toStago Start 4
+[Success][15-10-2014 09:30:46]:End reload all config
+[Success][15-10-2014 09:30:46]:Close form config
+[Success][15-10-2014 09:30:58]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:30:59]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 09:31:00]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:31:44]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:31:48]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 09:31:48]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:32:05]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:32:06]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 09:32:06]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:33:02]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:40:41]:Begin recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:40:42]:Save Huyet Hoc LH500 Success
+[Success][15-10-2014 09:40:42]:End recieved from Cell-Dyn 1800 
+[Success][15-10-2014 09:40:50]:Save Reruls Au480 Success
+***[***Fail][15-10-2014 09:41:33]:Save Reruls Au480 Error: D 002002 0013               06082014007    E002      %?004      %?005      %?007      %?009      %?
+[Success][15-10-2014 09:43:32]:Save Reruls Au480 Success
+[Success][15-10-2014 09:50:01]:Save Reruls Au480 Success
+[Success][15-10-2014 09:55:45]:Save Reruls Au480 Success
+[Success][15-10-2014 11:19:28]:Start program
+[Success][15-10-2014 11:21:26]:Start program
+[Success][15-10-2014 11:25:41]:Start program

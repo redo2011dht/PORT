@@ -1,0 +1,103 @@
+***[***Fail][07-03-2016 08:05:48]:Save Reruls Au480 Error: DQ       Q001                           001E002 47.68  003  4.01  004118.29  005  5.40  006  6.40  007 44.19  008  1.71  009339.20  010 55.65  
+[Success][07-03-2016 08:05:48]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][07-03-2016 08:05:48]:Save Reruls Au480 Error: DQ       Q001                           002E002141.55  003  7.50  004425.29  005 12.73  006 28.53  007125.76  008  3.61  009542.39  010149.12  DQ       Q001                           003E016  0.89  
+[Success][07-03-2016 08:05:48]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:08:12]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:08:20]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:08:20]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:14:14]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:14:18]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:14:23]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:17:37]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:17:45]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:17:45]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:18:23]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:18:31]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:18:31]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:19:14]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:19:22]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:19:22]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:20:05]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:20:13]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:20:13]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:20:56]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:21:04]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:21:04]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:23:15]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:23:23]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:23:23]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:24:51]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:24:58]:Save Reruls Au480 Success
+[Success][07-03-2016 08:25:45]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:25:52]:Save Reruls Au480 Success
+[Success][07-03-2016 08:25:59]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:26:07]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:26:07]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:26:12]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:26:15]:Save Reruls Au480 Success
+[Success][07-03-2016 08:28:12]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:28:20]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:28:20]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:33:05]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:33:10]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:33:14]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:43:48]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:43:52]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:43:52]:Save Reruls Au480 Success
+[Success][07-03-2016 08:43:56]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:43:56]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:44:15]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:44:46]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:44:53]:Save Reruls Au480 Success
+[Success][07-03-2016 08:46:07]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:46:14]:Save Reruls Au480 Success
+[Success][07-03-2016 08:54:43]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][07-03-2016 08:54:50]:Save Reruls Au480 Error: D 001701 0007               07032016003    E002      %?004      %?005      %?007      %?009      %?
+[Success][07-03-2016 08:55:52]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:56:23]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:56:30]:Save Reruls Au480 Success
+[Success][07-03-2016 09:06:30]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 09:06:37]:Save Reruls Au480 Success
+[Success][07-03-2016 09:11:19]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 09:11:26]:Save Reruls Au480 Success
+[Success][07-03-2016 09:31:11]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 09:31:19]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 09:31:19]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 09:32:11]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 09:32:23]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 09:43:27]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 09:43:34]:Save Reruls Au480 Success
+[Success][07-03-2016 10:12:25]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:12:33]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 10:12:33]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:24:13]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:24:21]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 10:24:21]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:31:43]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:31:58]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:39:49]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:43:30]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:43:37]:Save Reruls Au480 Success
+[Success][07-03-2016 10:45:01]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 10:45:09]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 10:45:09]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:05:43]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:16:52]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:16:59]:Save Reruls Au480 Success
+[Success][07-03-2016 03:19:08]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:19:17]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:19:26]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:19:35]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:19:44]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:19:53]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:33:52]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:45:05]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:45:12]:Save Reruls Au480 Success
+[Success][07-03-2016 03:45:23]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 03:45:30]:Save Reruls Au480 Success
+[Success][07-03-2016 05:23:24]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 05:23:32]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 05:23:32]:End recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:53:52]:Begin recieved from Cell-Dyn 1800 
+[Success][07-03-2016 08:54:00]:Save Huyet Hoc LH500 Success
+[Success][07-03-2016 08:54:00]:End recieved from Cell-Dyn 1800 

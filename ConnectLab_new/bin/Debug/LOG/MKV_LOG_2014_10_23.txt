@@ -1,0 +1,248 @@
+[Success][23-10-2014 07:39:14]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 07:39:14]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 07:51:48]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 07:51:50]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 07:51:51]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 07:54:27]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 07:54:28]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 07:54:28]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:12:25]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:12:28]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:12:37]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:23:33]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:23:36]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 08:23:36]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:24:11]:Save Reruls Au480 Success
+[Success][23-10-2014 08:24:47]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:24:48]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 08:24:48]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:28:42]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:28:43]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 08:28:43]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:29:10]:Save Reruls Au480 Success
+[Success][23-10-2014 08:39:53]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:39:56]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 08:39:56]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:46:19]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:46:20]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 08:46:20]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:51:45]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 08:52:00]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][23-10-2014 09:03:23]:Save Reruls Au480 Error: D 001101 0003               23102014005    E002      %?004      %?005      %?007      %?009      %?
+[Success][23-10-2014 09:07:40]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 09:07:43]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 09:07:43]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 09:08:12]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 09:08:13]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 09:08:13]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 09:09:23]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 09:09:24]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 09:09:24]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 09:11:06]:Save Reruls Au480 Success
+[Success][23-10-2014 09:23:28]:Save Reruls Au480 Success
+[Success][23-10-2014 09:24:14]:Save Reruls Au480 Success
+[Success][23-10-2014 09:37:03]:Save Reruls Au480 Success
+[Success][23-10-2014 09:41:35]:Save Reruls Au480 Success
+[Success][23-10-2014 09:50:32]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 09:50:33]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 09:50:33]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:02:33]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:02:34]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 10:02:34]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:03:49]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:03:52]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 10:03:52]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:14:54]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:15:08]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:26:32]:Save Reruls Au480 Success
+[Success][23-10-2014 10:27:17]:Save Reruls Au480 Success
+***[***Fail][23-10-2014 10:36:01]:Save Reruls Au480 Error: D 001101 0010               23102014010    E002      %?003      %?004      %?005      %?007      %?
+[Success][23-10-2014 10:36:42]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:36:45]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 10:36:45]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 10:48:16]:Save Reruls Au480 Success
+[Success][23-10-2014 11:15:16]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 11:15:19]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 11:15:19]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 01:43:44]:Start form config
+[Success][23-10-2014 01:44:02]:Close form config
+[Success][23-10-2014 01:57:06]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 01:57:10]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 01:57:10]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 01:58:56]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 01:58:59]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 01:58:59]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 02:38:36]:Start program
+***[***Fail][23-10-2014 02:38:39]:Connect to SQL Server
+***[***Fail][23-10-2014 02:38:39]:Connect to Au480
+***[***Fail][23-10-2014 02:38:39]:Connect to Lh500
+***[***Fail][23-10-2014 02:38:39]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 02:38:39]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 02:38:39]:Connect to Laura Smart
+***[***Fail][23-10-2014 02:38:39]:Connect toStago Start 4
+***[***Fail][23-10-2014 02:38:39]:Connect toStago Start 4
+[Success][23-10-2014 03:42:04]:Start program
+[Success][23-10-2014 03:42:16]:Connect to SQL Server
+[Success][23-10-2014 03:42:16]:Connect to Au480
+***[***Fail][23-10-2014 03:42:16]:Connect to Lh500
+***[***Fail][23-10-2014 03:42:16]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 03:42:16]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 03:42:16]:Connect to Laura Smart
+***[***Fail][23-10-2014 03:42:16]:Connect toStago Start 4
+***[***Fail][23-10-2014 03:42:16]:Connect toStago Start 4
+[Success][23-10-2014 03:42:46]:Start program
+[Success][23-10-2014 03:42:49]:Connect to SQL Server
+[Success][23-10-2014 03:42:49]:Connect to Au480
+***[***Fail][23-10-2014 03:42:49]:Connect to Lh500
+***[***Fail][23-10-2014 03:42:49]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 03:42:49]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 03:42:49]:Connect to Laura Smart
+***[***Fail][23-10-2014 03:42:49]:Connect toStago Start 4
+***[***Fail][23-10-2014 03:42:49]:Connect toStago Start 4
+[Success][23-10-2014 03:43:03]:Start form config
+[Success][23-10-2014 03:43:17]:Close form config
+[Success][23-10-2014 03:46:03]:Start program
+[Success][23-10-2014 03:46:06]:Connect to SQL Server
+[Success][23-10-2014 03:46:06]:Connect to Au480
+[Success][23-10-2014 03:46:06]:Connect to Lh500
+***[***Fail][23-10-2014 03:46:06]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 03:46:06]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 03:46:06]:Connect to Laura Smart
+***[***Fail][23-10-2014 03:46:06]:Connect toStago Start 4
+***[***Fail][23-10-2014 03:46:06]:Connect toStago Start 4
+[Success][23-10-2014 03:46:10]:Start form config
+[Success][23-10-2014 03:46:17]:Changed config
+[Success][23-10-2014 03:46:19]:Begin reload all config
+[Success][23-10-2014 03:46:22]:Connect to SQL Server
+***[***Fail][23-10-2014 03:46:22]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 03:46:22]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 03:46:22]:Connect to Laura Smart
+***[***Fail][23-10-2014 03:46:22]:Connect toStago Start 4
+***[***Fail][23-10-2014 03:46:22]:Connect toStago Start 4
+[Success][23-10-2014 03:46:22]:End reload all config
+[Success][23-10-2014 03:46:22]:Close form config
+[Success][23-10-2014 03:46:54]:Start program
+[Success][23-10-2014 03:46:57]:Connect to SQL Server
+[Success][23-10-2014 03:46:57]:Connect to Au480
+[Success][23-10-2014 03:46:57]:Connect to Lh500
+***[***Fail][23-10-2014 03:46:57]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 03:46:57]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 03:46:57]:Connect to Laura Smart
+***[***Fail][23-10-2014 03:46:57]:Connect toStago Start 4
+***[***Fail][23-10-2014 03:46:57]:Connect toStago Start 4
+[Success][23-10-2014 03:47:07]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 03:47:13]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 03:47:13]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 03:47:54]:Start form config
+[Success][23-10-2014 03:47:59]:Close form config
+[Success][23-10-2014 03:56:11]:Start program
+[Success][23-10-2014 03:56:15]:Connect to SQL Server
+[Success][23-10-2014 03:56:15]:Connect to Au480
+[Success][23-10-2014 03:56:15]:Connect to Lh500
+***[***Fail][23-10-2014 03:56:15]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 03:56:15]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 03:56:15]:Connect to Laura Smart
+***[***Fail][23-10-2014 03:56:15]:Connect toStago Start 4
+***[***Fail][23-10-2014 03:56:15]:Connect toStago Start 4
+[Success][23-10-2014 03:56:20]:Start form config
+[Success][23-10-2014 03:56:23]:Changed config
+[Success][23-10-2014 03:56:25]:Begin reload all config
+[Success][23-10-2014 03:56:27]:Connect to SQL Server
+***[***Fail][23-10-2014 03:56:27]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 03:56:27]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 03:56:27]:Connect to Laura Smart
+***[***Fail][23-10-2014 03:56:27]:Connect toStago Start 4
+***[***Fail][23-10-2014 03:56:27]:Connect toStago Start 4
+[Success][23-10-2014 03:56:27]:End reload all config
+[Success][23-10-2014 03:56:27]:Close form config
+[Success][23-10-2014 04:06:31]:Start program
+[Success][23-10-2014 04:06:37]:Connect to SQL Server
+[Success][23-10-2014 04:06:37]:Connect to Au480
+***[***Fail][23-10-2014 04:06:37]:Connect to Lh500
+***[***Fail][23-10-2014 04:06:37]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 04:06:37]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 04:06:37]:Connect to Laura Smart
+***[***Fail][23-10-2014 04:06:37]:Connect toStago Start 4
+***[***Fail][23-10-2014 04:06:37]:Connect toStago Start 4
+[Success][23-10-2014 04:21:17]:Start program
+[Success][23-10-2014 04:21:19]:Connect to SQL Server
+***[***Fail][23-10-2014 04:21:19]:Connect to Au480
+***[***Fail][23-10-2014 04:21:19]:Connect to Lh500
+***[***Fail][23-10-2014 04:21:19]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 04:21:19]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 04:21:19]:Connect to Laura Smart
+***[***Fail][23-10-2014 04:21:19]:Connect toStago Start 4
+***[***Fail][23-10-2014 04:21:19]:Connect toStago Start 4
+[Success][23-10-2014 04:21:24]:Start form config
+[Success][23-10-2014 04:21:35]:Changed config
+[Success][23-10-2014 04:21:37]:Begin reload all config
+[Success][23-10-2014 04:21:40]:Connect to SQL Server
+***[***Fail][23-10-2014 04:21:40]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 04:21:40]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 04:21:40]:Connect to Laura Smart
+***[***Fail][23-10-2014 04:21:40]:Connect toStago Start 4
+***[***Fail][23-10-2014 04:21:40]:Connect toStago Start 4
+[Success][23-10-2014 04:21:40]:End reload all config
+[Success][23-10-2014 04:21:40]:Close form config
+[Success][23-10-2014 04:21:51]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 04:21:53]:Save Reruls Au480 Success
+[Success][23-10-2014 04:33:47]:Start program
+[Success][23-10-2014 04:33:51]:Connect to SQL Server
+[Success][23-10-2014 04:33:51]:Connect to Au480
+***[***Fail][23-10-2014 04:33:51]:Connect to Lh500
+***[***Fail][23-10-2014 04:33:51]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 04:33:51]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 04:33:51]:Connect to Laura Smart
+***[***Fail][23-10-2014 04:33:51]:Connect toStago Start 4
+***[***Fail][23-10-2014 04:33:51]:Connect toStago Start 4
+[Success][23-10-2014 05:00:46]:Start program
+[Success][23-10-2014 05:00:49]:Connect to SQL Server
+[Success][23-10-2014 05:00:49]:Connect to Au480
+***[***Fail][23-10-2014 05:00:49]:Connect to Lh500
+***[***Fail][23-10-2014 05:00:49]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 05:00:49]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 05:00:49]:Connect to Laura Smart
+***[***Fail][23-10-2014 05:00:49]:Connect toStago Start 4
+***[***Fail][23-10-2014 05:00:49]:Connect toStago Start 4
+[Success][23-10-2014 05:37:14]:Start program
+[Success][23-10-2014 05:37:17]:Connect to SQL Server
+[Success][23-10-2014 05:37:17]:Connect to Au480
+***[***Fail][23-10-2014 05:37:17]:Connect to Lh500
+***[***Fail][23-10-2014 05:37:17]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 05:37:17]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 05:37:17]:Connect to Laura Smart
+***[***Fail][23-10-2014 05:37:17]:Connect toStago Start 4
+***[***Fail][23-10-2014 05:37:17]:Connect toStago Start 4
+[Success][23-10-2014 05:41:21]:Start program
+[Success][23-10-2014 05:41:24]:Connect to SQL Server
+[Success][23-10-2014 05:41:24]:Connect to Au480
+***[***Fail][23-10-2014 05:41:24]:Connect to Lh500
+***[***Fail][23-10-2014 05:41:24]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 05:41:24]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 05:41:24]:Connect to Laura Smart
+***[***Fail][23-10-2014 05:41:24]:Connect toStago Start 4
+***[***Fail][23-10-2014 05:41:24]:Connect toStago Start 4
+[Success][23-10-2014 05:47:18]:Start program
+[Success][23-10-2014 05:47:20]:Connect to SQL Server
+[Success][23-10-2014 05:47:20]:Connect to Au480
+***[***Fail][23-10-2014 05:47:20]:Connect to Lh500
+***[***Fail][23-10-2014 05:47:20]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 05:47:20]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 05:47:20]:Connect to Laura Smart
+***[***Fail][23-10-2014 05:47:20]:Connect toStago Start 4
+***[***Fail][23-10-2014 05:47:20]:Connect toStago Start 4
+[Success][23-10-2014 05:47:28]:Start form config
+[Success][23-10-2014 05:47:46]:Changed config
+[Success][23-10-2014 05:47:48]:Begin reload all config
+[Success][23-10-2014 05:47:51]:Connect to SQL Server
+***[***Fail][23-10-2014 05:47:51]:Connect to Cell-Dyn 1800
+***[***Fail][23-10-2014 05:47:51]:Connect to ERBA LX 200
+***[***Fail][23-10-2014 05:47:51]:Connect to Laura Smart
+***[***Fail][23-10-2014 05:47:51]:Connect toStago Start 4
+***[***Fail][23-10-2014 05:47:51]:Connect toStago Start 4
+[Success][23-10-2014 05:47:51]:End reload all config
+[Success][23-10-2014 05:47:51]:Close form config
+[Success][23-10-2014 05:47:53]:Begin recieved from Cell-Dyn 1800 
+[Success][23-10-2014 05:47:56]:Save Huyet Hoc LH500 Success
+[Success][23-10-2014 05:47:56]:End recieved from Cell-Dyn 1800 
+[Success][23-10-2014 05:48:23]:Save Reruls Au480 Success

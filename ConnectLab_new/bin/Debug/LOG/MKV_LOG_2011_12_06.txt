@@ -1,0 +1,97 @@
+[Success][06-12-2011 02:55:33]:Connect to SQL Server
+[Success][06-12-2011 02:55:33]:Connect to Cell-Dyn 1800
+***[***Fail][06-12-2011 02:55:33]:Connect to ERBA LX 200
+[Success][06-12-2011 02:55:33]:Connect to Laura Smart
+[Success][06-12-2011 02:55:42]:Start form config
+[***Fail][06-12-2011 02:55:52]:Changed config
+[***Fail][06-12-2011 02:56:32]:Changed config
+[Success][06-12-2011 02:57:35]:Changed config
+[Success][06-12-2011 02:57:35]:Begin reload all config
+[Success][06-12-2011 02:57:35]:Connect to SQL Server
+[Success][06-12-2011 02:57:35]:Connect to Cell-Dyn 1800
+[Success][06-12-2011 02:57:35]:Connect to ERBA LX 200
+[Success][06-12-2011 02:57:35]:End reload all config
+[Success][06-12-2011 02:57:35]:Close form config
+[Success][06-12-2011 02:57:42]:Start form config
+[***Fail][06-12-2011 02:57:51]:Changed config
+[***Fail][06-12-2011 02:57:57]:Changed config
+[Success][06-12-2011 03:13:05]:Start program
+[Success][06-12-2011 03:13:05]:Connect to SQL Server
+[Success][06-12-2011 03:13:05]:Connect to Cell-Dyn 1800
+[Success][06-12-2011 03:13:05]:Connect to ERBA LX 200
+[Success][06-12-2011 03:13:05]:Connect to Laura Smart
+[Success][06-12-2011 03:13:09]:Start form config
+[Success][06-12-2011 03:13:44]:Start program
+[Success][06-12-2011 03:13:45]:Connect to SQL Server
+[Success][06-12-2011 03:13:45]:Connect to Cell-Dyn 1800
+[Success][06-12-2011 03:13:45]:Connect to ERBA LX 200
+[Success][06-12-2011 03:13:45]:Connect to Laura Smart
+[Success][06-12-2011 03:13:46]:Start form config
+[***Fail][06-12-2011 03:13:55]:Changed config
+[***Fail][06-12-2011 03:14:01]:Changed config
+[Success][06-12-2011 03:14:10]:Changed config
+[Success][06-12-2011 03:14:10]:Begin reload all config
+[Success][06-12-2011 03:14:10]:Connect to SQL Server
+[Success][06-12-2011 03:14:10]:Connect to Cell-Dyn 1800
+[Success][06-12-2011 03:14:10]:Connect to ERBA LX 200
+[Success][06-12-2011 03:14:10]:End reload all config
+[Success][06-12-2011 03:14:10]:Close form config
+[Success][06-12-2011 03:20:47]:Start form config
+[Success][06-12-2011 03:20:51]:Changed config
+[Success][06-12-2011 03:20:51]:Begin reload all config
+[Success][06-12-2011 03:20:51]:Connect to SQL Server
+[Success][06-12-2011 03:20:51]:Connect to Cell-Dyn 1800
+[Success][06-12-2011 03:20:51]:Connect to ERBA LX 200
+[Success][06-12-2011 03:20:51]:End reload all config
+[Success][06-12-2011 03:20:51]:Close form config
+[Success][06-12-2011 04:40:56]:Start program
+[Success][06-12-2011 04:41:00]:Connect to SQL Server
+[Success][06-12-2011 04:41:00]:Connect to Cell-Dyn 1800
+***[***Fail][06-12-2011 04:41:00]:Connect to ERBA LX 200
+[Success][06-12-2011 04:41:00]:Connect to Laura Smart
+[Success][06-12-2011 04:42:00]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 04:45:53]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 04:46:42]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 04:47:59]:Start program
+[Success][06-12-2011 04:48:01]:Connect to SQL Server
+[Success][06-12-2011 04:48:01]:Connect to Cell-Dyn 1800
+***[***Fail][06-12-2011 04:48:01]:Connect to ERBA LX 200
+[Success][06-12-2011 04:48:01]:Connect to Laura Smart
+[Success][06-12-2011 04:48:29]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 04:49:16]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 04:50:07]:Start form config
+[Success][06-12-2011 04:50:08]:Close form config
+[Success][06-12-2011 04:52:59]:Start program
+[Success][06-12-2011 04:53:01]:Connect to SQL Server
+[Success][06-12-2011 04:53:01]:Connect to Cell-Dyn 1800
+***[***Fail][06-12-2011 04:53:01]:Connect to ERBA LX 200
+[Success][06-12-2011 04:53:01]:Connect to Laura Smart
+[Success][06-12-2011 04:53:32]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:00:17]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:00:17]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:00:55]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:01:11]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:01:11]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:01:18]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:02:09]:Start program
+[Success][06-12-2011 05:02:11]:Connect to SQL Server
+[Success][06-12-2011 05:02:11]:Connect to Cell-Dyn 1800
+***[***Fail][06-12-2011 05:02:11]:Connect to ERBA LX 200
+[Success][06-12-2011 05:02:11]:Connect to Laura Smart
+[Success][06-12-2011 05:02:23]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:02:24]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:02:24]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:02:28]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:02:29]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:02:35]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:03:13]:Start program
+[Success][06-12-2011 05:03:15]:Connect to SQL Server
+[Success][06-12-2011 05:03:15]:Connect to Cell-Dyn 1800
+***[***Fail][06-12-2011 05:03:15]:Connect to ERBA LX 200
+[Success][06-12-2011 05:03:15]:Connect to Laura Smart
+[Success][06-12-2011 05:03:20]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:04:03]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:04:03]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:04:19]:Begin recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:06:23]:End recieved from Cell-Dyn 1800 
+[Success][06-12-2011 05:06:23]:Begin recieved from Cell-Dyn 1800 

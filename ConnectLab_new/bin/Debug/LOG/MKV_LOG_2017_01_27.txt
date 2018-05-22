@@ -1,0 +1,140 @@
+[Success][27-01-2017 02:15:14]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][27-01-2017 02:15:15]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/27/17
+TIME 14:00:16
+ID1 BN-07112014-101
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 4.5 
+RBC 5.12 
+HGB 7EC002146 
+HCT 43.7 
+MCV 85.3 
+MCH 28.5 
+MCHC 33.4 
+RDW 11.4 L
+PLT 120 L
+MPV 7.4 
+G07
+02
+SUSPECT Mo Blasts
+SUSPECT Verify Diff
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.6 RL
+MO# 1.0 RH
+NE# 2.9 R
+EO# 0.0 RL0E9103
+BA# 0.0 R
+G04
+05
+LY% 14.4 RL
+MO% 21.5 RH
+NE% 63.6 R
+EO% 0.3 RL
+BA% 0.2 RL
+
+
+--------------
+                                                                                                                                                         8693
+[Success][27-01-2017 02:15:15]:End recieved from Cell-Dyn 1800 
+[Success][27-01-2017 02:23:37]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][27-01-2017 02:23:38]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/27/17
+TIME 14:08:38
+ID1 BN-07112014-101
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 4.3 
+RBC 4.99 
+HGB 847702141 
+HCT 43.0 
+MCV 86.1 
+MCH 28.2 
+MCHC 32.7 
+RDW 11.8 
+PLT 110 L
+MPV 7.7 
+G07
+03
+SUSPECT Ne Blasts
+SUSPECT Mo Blasts
+SUSPECT Verify Diff
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.6 RL
+MO# 0.9 R
+NE# 24AE603.8 R
+EO# 0.0 RL
+BA# 0.0 R
+G04
+05
+LY% 14.5 RL
+MO% 20.6 RH
+NE% 64.2 R
+EO% 0.2 RL
+BA% 0.5 R
+
+
+--------------
+                                                                                                                                         438F
+[Success][27-01-2017 02:23:38]:End recieved from Cell-Dyn 1800 
+[Success][27-01-2017 07:45:56]:Begin recieved from Cell-Dyn 1800 
+[Success][27-01-2017 07:45:57]:Save Huyet Hoc LH500 Success
+[Success][27-01-2017 07:45:57]:End recieved from Cell-Dyn 1800 

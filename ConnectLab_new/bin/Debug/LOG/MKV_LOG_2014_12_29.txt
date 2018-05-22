@@ -1,0 +1,10 @@
+[Success][29-12-2014 08:59:35]:Start program
+[Success][29-12-2014 08:59:35]:Connect to SQL Server
+[Success][29-12-2014 08:59:35]:Connect to Au480
+[Success][29-12-2014 08:59:35]:Connect to Lh500
+[Success][29-12-2014 09:05:06]:Begin recieved from Cell-Dyn 1800 
+[Success][29-12-2014 09:05:07]:Save Huyet Hoc LH500 Success
+[Success][29-12-2014 09:05:07]:End recieved from Cell-Dyn 1800 
+[Success][29-12-2014 03:33:01]:Begin recieved from Cell-Dyn 1800 
+[Success][29-12-2014 03:33:02]:Save Huyet Hoc LH500 Success
+[Success][29-12-2014 03:33:02]:End recieved from Cell-Dyn 1800 

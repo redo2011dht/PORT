@@ -1,0 +1,43 @@
+[Success][05-12-2011 04:02:35]:Start program
+[Success][05-12-2011 04:02:43]:Connect to SQL Server
+[Success][05-12-2011 04:02:43]:Connect to Cell-Dyn 1800
+***[***Fail][05-12-2011 04:02:43]:Connect to ERBA LX 200
+***[***Fail][05-12-2011 04:02:43]:Connect to Laura Smart
+[Success][05-12-2011 04:02:47]:Start form config
+[***Fail][05-12-2011 04:02:59]:Changed config
+[***Fail][05-12-2011 04:03:31]:Changed config
+[Success][05-12-2011 04:03:34]:Begin reload all config
+[Success][05-12-2011 04:03:34]:Connect to SQL Server
+[Success][05-12-2011 04:03:34]:Connect to Cell-Dyn 1800
+***[***Fail][05-12-2011 04:03:34]:Connect to ERBA LX 200
+[Success][05-12-2011 04:03:34]:End reload all config
+[Success][05-12-2011 04:03:34]:Close form config
+[Success][05-12-2011 04:04:47]:Start program
+[Success][05-12-2011 04:04:49]:Connect to SQL Server
+[Success][05-12-2011 04:04:49]:Connect to Cell-Dyn 1800
+***[***Fail][05-12-2011 04:04:49]:Connect to ERBA LX 200
+***[***Fail][05-12-2011 04:04:49]:Connect to Laura Smart
+[Success][05-12-2011 04:04:57]:Start form config
+[Success][05-12-2011 04:05:45]:Start program
+[Success][05-12-2011 04:05:47]:Connect to SQL Server
+[Success][05-12-2011 04:05:47]:Connect to Cell-Dyn 1800
+***[***Fail][05-12-2011 04:05:47]:Connect to ERBA LX 200
+***[***Fail][05-12-2011 04:05:47]:Connect to Laura Smart
+[Success][05-12-2011 04:08:34]:Start form config
+[***Fail][05-12-2011 04:09:24]:Changed config
+[Success][05-12-2011 04:09:27]:Begin reload all config
+[Success][05-12-2011 04:09:27]:Connect to SQL Server
+[Success][05-12-2011 04:09:27]:Connect to Cell-Dyn 1800
+***[***Fail][05-12-2011 04:09:27]:Connect to ERBA LX 200
+[Success][05-12-2011 04:09:27]:End reload all config
+[Success][05-12-2011 04:09:27]:Close form config
+[Success][05-12-2011 04:09:29]:Start form config
+[***Fail][05-12-2011 04:11:36]:Changed config
+[***Fail][05-12-2011 04:11:47]:Changed config
+[***Fail][05-12-2011 04:12:10]:Changed config
+[Success][05-12-2011 04:15:49]:Begin reload all config
+[Success][05-12-2011 04:15:49]:Connect to SQL Server
+[Success][05-12-2011 04:15:49]:Connect to Cell-Dyn 1800
+***[***Fail][05-12-2011 04:15:49]:Connect to ERBA LX 200
+[Success][05-12-2011 04:15:49]:End reload all config
+[Success][05-12-2011 04:15:49]:Close form config

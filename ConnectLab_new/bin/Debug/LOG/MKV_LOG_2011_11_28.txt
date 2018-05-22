@@ -1,0 +1,78 @@
+[Success][28-11-2011 02:21:21]:Changed config
+[Success][28-11-2011 02:21:21]:Begin reload all config
+[Success][28-11-2011 02:21:21]:Connect to SQL Server
+[Success][28-11-2011 02:21:21]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 02:21:21]:Connect to ERBA LX 200
+[Success][28-11-2011 02:21:21]:End reload all config
+[Success][28-11-2011 02:21:21]:Close form config
+[Success][28-11-2011 02:23:51]:Start program
+[Success][28-11-2011 02:23:51]:Connect to SQL Server
+[Success][28-11-2011 02:23:51]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 02:23:51]:Connect to ERBA LX 200
+[Success][28-11-2011 02:24:58]:Start form config
+[***Fail][28-11-2011 02:25:10]:Changed config
+[Success][28-11-2011 02:25:56]:Changed config
+[Success][28-11-2011 02:25:56]:Begin reload all config
+[Success][28-11-2011 02:25:56]:Connect to SQL Server
+[Success][28-11-2011 02:25:56]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 02:25:56]:Connect to ERBA LX 200
+[Success][28-11-2011 02:25:56]:End reload all config
+[Success][28-11-2011 02:25:56]:Close form config
+[Success][28-11-2011 02:25:59]:Start form config
+[Success][28-11-2011 02:26:03]:Changed config
+[Success][28-11-2011 02:26:03]:Begin reload all config
+[Success][28-11-2011 02:26:03]:Connect to SQL Server
+[Success][28-11-2011 02:26:03]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 02:26:03]:Connect to ERBA LX 200
+[Success][28-11-2011 02:26:03]:End reload all config
+[Success][28-11-2011 02:26:03]:Close form config
+[Success][28-11-2011 03:34:09]:Start program
+[Success][28-11-2011 03:34:10]:Connect to SQL Server
+[Success][28-11-2011 03:34:10]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 03:34:10]:Connect to ERBA LX 200
+[Success][28-11-2011 03:34:13]:Start form config
+[Success][28-11-2011 03:35:06]:Start program
+[Success][28-11-2011 03:35:06]:Connect to SQL Server
+[Success][28-11-2011 03:35:06]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 03:35:06]:Connect to ERBA LX 200
+[Success][28-11-2011 03:36:15]:Start program
+[Success][28-11-2011 03:36:15]:Connect to SQL Server
+[Success][28-11-2011 03:36:15]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 03:36:15]:Connect to ERBA LX 200
+[Success][28-11-2011 03:50:36]:Start program
+[Success][28-11-2011 03:50:36]:Connect to SQL Server
+[Success][28-11-2011 03:50:36]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 03:50:36]:Connect to ERBA LX 200
+[Success][28-11-2011 03:53:00]:Start program
+[Success][28-11-2011 03:53:00]:Connect to SQL Server
+[Success][28-11-2011 03:53:00]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 03:53:00]:Connect to ERBA LX 200
+[Success][28-11-2011 03:53:07]:Start form config
+[Success][28-11-2011 04:14:06]:Start program
+[Success][28-11-2011 04:14:06]:Connect to SQL Server
+[Success][28-11-2011 04:14:06]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 04:14:06]:Connect to ERBA LX 200
+[Success][28-11-2011 04:17:17]:Start program
+[Success][28-11-2011 04:17:17]:Connect to SQL Server
+[Success][28-11-2011 04:17:17]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 04:17:17]:Connect to ERBA LX 200
+[Success][28-11-2011 04:18:04]:Start program
+[Success][28-11-2011 04:18:04]:Connect to SQL Server
+[Success][28-11-2011 04:18:04]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 04:18:04]:Connect to ERBA LX 200
+[Success][28-11-2011 04:20:03]:Start program
+[Success][28-11-2011 04:20:03]:Connect to SQL Server
+[Success][28-11-2011 04:20:03]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 04:20:03]:Connect to ERBA LX 200
+[Success][28-11-2011 04:21:48]:Start program
+[Success][28-11-2011 04:21:48]:Connect to SQL Server
+[Success][28-11-2011 04:21:48]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 04:21:48]:Connect to ERBA LX 200
+[Success][28-11-2011 04:25:23]:Start program
+[Success][28-11-2011 04:25:23]:Connect to SQL Server
+[Success][28-11-2011 04:25:23]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 04:25:23]:Connect to ERBA LX 200
+[Success][28-11-2011 04:26:04]:Start program
+[Success][28-11-2011 04:26:04]:Connect to SQL Server
+[Success][28-11-2011 04:26:04]:Connect to Cell-Dyn 1800
+[Success][28-11-2011 04:26:04]:Connect to ERBA LX 200

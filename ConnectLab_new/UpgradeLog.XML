@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ConnectLab">
+</Property><Property Name="Solution File" Value="D:\Nvk\ConnectLab\ConnectLab\ConnectLab.sln">
+</Property><Property Name="User Options File" Value="D:\Nvk\ConnectLab\ConnectLab\ConnectLab.suo">
+</Property><Property Name="Date" Value="Monday, July 28, 2014">
+</Property><Property Name="Time" Value="9:47 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ConnectLab.sln" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\ConnectLab.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ConnectLab.suo" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\ConnectLab.suo">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj" Description="Project file successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\ConnectLab.csproj">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj.user" Description="Project user file successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\ConnectLab.csproj.user">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\AppUntil.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\AppUntil.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmChanePassword.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmChanePassword.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmChanePassword.Designer.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmChanePassword.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\DOCOMConfig.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\DOCOMConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmPassword.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmPassword.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmPassword.Designer.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmPassword.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\IDevice.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\IDevice.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="CellDyn1800\CD1800Config.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\CellDyn1800\CD1800Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="CellDyn1800\CD1800Connect.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\CellDyn1800\CD1800Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\AppParams.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\AppParams.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmConfig.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmConfig.Designer.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmConfig.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\DOSQLConfig.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\DOSQLConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\ASTM.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Elecsys2010\ASTM.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\Elecsys2010Config.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Elecsys2010\Elecsys2010Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\Elecsys2010Connect.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Elecsys2010\Elecsys2010Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\Elecsys2010Result.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Elecsys2010\Elecsys2010Result.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Elecsys2010\TestParams.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Elecsys2010\TestParams.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="StagoStart4\StagoStart4Config.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\StagoStart4\StagoStart4Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="StagoStart4\StagoStart4Connect.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\StagoStart4\StagoStart4Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="StagoStart4\StagoStart4Result.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\StagoStart4\StagoStart4Result.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="LauraSmart\LauraSmartConfig.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\LauraSmart\LauraSmartConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="LauraSmart\LauraSmartConnect.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\LauraSmart\LauraSmartConnect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="LauraSmart\LauraSmartResult.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\LauraSmart\LauraSmartResult.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="EBLX200\EBLX200Config.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\EBLX200\EBLX200Config.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="EBLX200\EBLX200Connect.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\EBLX200\EBLX200Connect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="frmMain.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\LogProgram.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\LogProgram.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Program.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="CellDyn1800\CD1800Result.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\CellDyn1800\CD1800Result.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\SQLConnect.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\SQLConnect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Server\ServerConfig.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Server\ServerConfig.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Server\ServerConnect.cs" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Server\ServerConnect.cs">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="App.config" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\Icon1.ico" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Resources\Icon1.ico">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\Smart-Meter-Security.jpg" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Resources\Smart-Meter-Security.jpg">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\comodo-logo.png" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Resources\comodo-logo.png">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Resources\network_security.jpg" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Resources\network_security.jpg">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="warmconect.ico" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\warmconect.ico">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="connect.ico" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\connect.ico">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmChanePassword.resx" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmChanePassword.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmConfig.resx" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmConfig.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Applications\frmPassword.resx" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Applications\frmPassword.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\licenses.licx" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Properties\licenses.licx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Nvk\ConnectLab\ConnectLab\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConnectLab" Source="ConnectLab.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ConnectLab.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ConnectLab.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConnectLab" Source="ConnectLab.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,277 @@
+[Success][29-06-2012 06:49:50]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:49:50]:Save SpecimenID: b120629-001; Patient: beo; Sequence: 4734
+[Success][29-06-2012 06:49:50]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:51:38]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:51:39]:Save SpecimenID: 120629-002; Patient: SANG; Sequence: 4735
+[Success][29-06-2012 06:51:39]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:53:26]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:53:27]:Save SpecimenID: 120629-003; Patient: DUNG; Sequence: 4736
+[Success][29-06-2012 06:53:27]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:55:36]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:55:36]:Save SpecimenID: 120629-003; Patient: DUNG; Sequence: 4737
+[Success][29-06-2012 06:55:36]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:57:38]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:57:39]:Save SpecimenID: 120629-004; Patient: DIEM; Sequence: 4738
+[Success][29-06-2012 06:57:39]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:59:45]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 06:59:45]:Save SpecimenID: 120629-006; Patient: NHIEM; Sequence: 4739
+[Success][29-06-2012 06:59:45]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:01:43]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:01:44]:Save SpecimenID: 120629-007; Patient: TUOI; Sequence: 4740
+[Success][29-06-2012 07:01:44]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:07:22]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:07:23]:Save SpecimenID: 120629-008; Patient: LAN; Sequence: 4741
+[Success][29-06-2012 07:07:23]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:09:21]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:09:22]:Save SpecimenID: 120629-009; Patient: HUNG; Sequence: 4742
+[Success][29-06-2012 07:09:22]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:11:55]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:11:56]:Save SpecimenID: 120629-010; Patient: MUM; Sequence: 4743
+[Success][29-06-2012 07:11:56]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:13:27]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:13:28]:Save SpecimenID: 120629-011; Patient: NHAN; Sequence: 4744
+[Success][29-06-2012 07:13:28]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:15:26]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:15:26]:Save SpecimenID: 120629-012; Patient: HOI; Sequence: 4745
+[Success][29-06-2012 07:15:26]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:17:43]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:17:43]:Save SpecimenID: 120629-013; Patient: KHENG; Sequence: 4746
+[Success][29-06-2012 07:17:43]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:19:16]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:19:16]:Save SpecimenID: 120629-015; Patient: THAO; Sequence: 4747
+[Success][29-06-2012 07:19:16]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:22:36]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:22:37]:Save SpecimenID: 120629-016; Patient: PRACK; Sequence: 4748
+[Success][29-06-2012 07:22:37]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:26:46]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:26:46]:Save SpecimenID: 120629-028; Patient: HONG; Sequence: 4749
+[Success][29-06-2012 07:26:46]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:29:34]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:29:35]:Save SpecimenID: 120629-017; Patient: MY; Sequence: 4750
+[Success][29-06-2012 07:29:35]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:35:54]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:35:55]:Save SpecimenID: 120629-018; Patient: AU; Sequence: 4751
+[Success][29-06-2012 07:35:55]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:41:24]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:41:24]:Save SpecimenID: 120629-019; Patient: THUY; Sequence: 4752
+[Success][29-06-2012 07:41:24]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:43:36]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:43:37]:Save SpecimenID: 120629-020; Patient: BAY; Sequence: 4753
+[Success][29-06-2012 07:43:37]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:45:33]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:45:34]:Save SpecimenID: 120629-021; Patient: TUONG; Sequence: 4754
+[Success][29-06-2012 07:45:34]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:53:58]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:53:58]:Save SpecimenID: 120629-029; Patient: NUONG; Sequence: 4755
+[Success][29-06-2012 07:53:58]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:55:15]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:55:15]:Save SpecimenID: 120629-030; Patient: PHE; Sequence: 4756
+[Success][29-06-2012 07:55:15]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:56:29]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:56:30]:Save SpecimenID: 120629-023; Patient: PH; Sequence: 4757
+[Success][29-06-2012 07:56:30]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:58:09]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:58:09]:Save SpecimenID: 120629-025; Patient: BANG; Sequence: 4758
+[Success][29-06-2012 07:58:09]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:59:39]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 07:59:40]:Save SpecimenID: 120629-026; Patient: BE; Sequence: 4759
+[Success][29-06-2012 07:59:40]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:00:52]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:00:52]:Save SpecimenID: 120629-027; Patient: NGOA; Sequence: 4760
+[Success][29-06-2012 08:00:52]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:02:04]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:02:05]:Save SpecimenID: 120629-031; Patient: VAN; Sequence: 4761
+[Success][29-06-2012 08:02:05]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:03:17]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:03:18]:Save SpecimenID: 120629-033; Patient: GIAC; Sequence: 4762
+[Success][29-06-2012 08:03:18]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:04:32]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:04:33]:Save SpecimenID: 120629-034; Patient: CAM; Sequence: 4763
+[Success][29-06-2012 08:04:33]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:14:43]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:14:43]:Save SpecimenID: 120629-046; Patient: LONG; Sequence: 4764
+[Success][29-06-2012 08:14:43]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:18:50]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:18:50]:Save SpecimenID: 120629-047; Patient: O; Sequence: 4765
+[Success][29-06-2012 08:18:50]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:22:36]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:22:37]:Save SpecimenID: 120629-017; Patient: MY; Sequence: 4750
+[Success][29-06-2012 08:22:37]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:39]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:39]:Save SpecimenID: 120629-019; Patient: THUY; Sequence: 4752
+[Success][29-06-2012 08:23:39]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:45]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:45]:Save SpecimenID: 120629-021; Patient: TUONG; Sequence: 4754
+[Success][29-06-2012 08:23:45]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:48]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:48]:Save SpecimenID: 120629-029; Patient: NUONG; Sequence: 4755
+[Success][29-06-2012 08:23:48]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:51]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:52]:Save SpecimenID: 120629-023; Patient: PH; Sequence: 4757
+[Success][29-06-2012 08:23:52]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:53]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:54]:Save SpecimenID: 120629-025; Patient: BANG; Sequence: 4758
+[Success][29-06-2012 08:23:54]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:55]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:55]:Save SpecimenID: 120629-025; Patient: BANG; Sequence: 4758
+[Success][29-06-2012 08:23:55]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:56]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:57]:Save SpecimenID: 120629-025; Patient: BANG; Sequence: 4758
+[Success][29-06-2012 08:23:57]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:59]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:23:59]:Save SpecimenID: 120629-026; Patient: BE; Sequence: 4759
+[Success][29-06-2012 08:23:59]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:25:43]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:25:44]:Save SpecimenID: 120629-039; Patient: TAM; Sequence: 4766
+[Success][29-06-2012 08:25:44]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:27:54]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:27:54]:Save SpecimenID: 120629-041; Patient: PHEA; Sequence: 4767
+[Success][29-06-2012 08:27:54]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:30:35]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:30:35]:Save SpecimenID: 120629-042; Patient: SIEK; Sequence: 4768
+[Success][29-06-2012 08:30:35]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:34:13]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:34:14]:Save SpecimenID: 120629-045; Patient: PHUOC; Sequence: 4769
+[Success][29-06-2012 08:34:14]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:45:57]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:45:58]:Save SpecimenID: 120629-049; Patient: HUYEN; Sequence: 4770
+[Success][29-06-2012 08:45:58]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:47:25]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:47:26]:Save SpecimenID: 120629-052; Patient: TIEN; Sequence: 4771
+[Success][29-06-2012 08:47:26]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:50:16]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:50:17]:Save SpecimenID: 120629-054; Patient: THANG; Sequence: 4772
+[Success][29-06-2012 08:50:17]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:52:47]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 08:52:47]:Save SpecimenID: 120629-055; Patient: THUY; Sequence: 4773
+[Success][29-06-2012 08:52:47]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:12:54]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:12:55]:Save SpecimenID: 120629-056; Patient: DUNG; Sequence: 4774
+[Success][29-06-2012 09:12:55]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:14:26]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:14:26]:Save SpecimenID: 120629-057; Patient: KIEM; Sequence: 4775
+[Success][29-06-2012 09:14:26]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:15:45]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:15:45]:Save SpecimenID: 120629-059; Patient: HUNG; Sequence: 4776
+[Success][29-06-2012 09:15:45]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:55:27]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:55:28]:Save SpecimenID: 120629-061; Patient: HOA; Sequence: 4777
+[Success][29-06-2012 09:55:28]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:59:02]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 09:59:02]:Save SpecimenID: 120629-066; Patient: NAM; Sequence: 4778
+[Success][29-06-2012 09:59:02]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:05:31]:Start program
+[Success][29-06-2012 01:05:34]:Connect to SQL Server
+[Success][29-06-2012 01:05:34]:Connect to Cell-Dyn 1800
+[Success][29-06-2012 01:05:34]:Connect to ERBA LX 200
+[Success][29-06-2012 01:05:34]:Connect to Laura Smart
+[Success][29-06-2012 01:05:34]:Connect to Stago Start 4
+[Success][29-06-2012 01:05:34]:Connect to Stago Start 4
+[Success][29-06-2012 01:09:10]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:09:11]:Save SpecimenID: BACKGRD; Patient: ; Sequence: 4779
+[Success][29-06-2012 01:09:11]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:21:14]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:21:14]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:27:15]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:27:16]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:27:59]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:27:59]:Save SpecimenID: 120629-068; Patient: dung; Sequence: 4780
+[Success][29-06-2012 01:27:59]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:29:50]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:29:51]:Save SpecimenID: 120629-069; Patient: dao; Sequence: 4781
+[Success][29-06-2012 01:29:51]:End recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 01:31:08]:ST4  TR 
+[Success][29-06-2012 01:31:08]:Begin recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 01:31:08]:1 1INR    13.281
+[[Start4: COM]: ][29-06-2012 01:31:08]: 4
+[[Start4: COM]: ][29-06-2012 01:31:08]:          61S
+[[Start4: COM]: ][29-06-2012 01:31:08]:  14.700  81.10
+[[Start4: COM]: ][29-06-2012 01:31:08]:0   1.140
+[[Start4: COM]: ][29-06-2012 01:31:08]:          66S
+[[Start4: COM]: ][29-06-2012 01:31:08]:  13.500  96.500
+[[Start4: COM]: ][29-06-2012 01:31:08]:   1.020
+[[Start4: COM]: ][29-06-2012 01:31:08]:          67S
+[[Start4: COM]: ][29-06-2012 01:31:08]:  13.300  99.700
+[[Start4: COM]: ][29-06-2012 01:31:08]:   1.000
+[[Start4: COM]: ][29-06-2012 01:31:08]:          68
+[[Start4: COM]: ][29-06-2012 01:31:08]:S  12.700 100.0
+[[Start4: COM]: ][29-06-2012 01:31:08]:00   0.940t  
+[Stago Result:][29-06-2012 01:31:08]:ST4  TR1 1INR    13.281461S14.700  81.100   1.14066S13.500  96.5001.02067S13.300  99.7001.00068S  12.700 100.000   0.940t  
+[[Start4:] ][29-06-2012 01:31:08]:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at ConnectLab.StagoStart4Result..ctor(String ouputFromLaura) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Result.cs:line 39
+   at ConnectLab.StagoStart4Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Connect.cs:line 61
+[Success][29-06-2012 01:31:10]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 01:31:10]:Save SpecimenID: 120629-067; Patient: nga; Sequence: 4782
+[Success][29-06-2012 01:31:10]:End recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 01:31:32]:ST4  TR 
+[Success][29-06-2012 01:31:32]:Begin recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 01:31:32]:1 1INR    13.28
+[[Start4: COM]: ][29-06-2012 01:31:32]:1 1
+[[Start4: COM]: ][29-06-2012 01:31:32]:          69S
+[[Start4: COM]: ][29-06-2012 01:31:32]:  15.000  78.00
+[[Start4: COM]: ][29-06-2012 01:31:32]:0   1.170x  
+[Stago Result:][29-06-2012 01:31:32]:ST4  TR1 1INR    13.281461S14.700  81.100   1.14066S13.500  96.5001.02067S13.300  99.7001.00068S  12.700 100.000   0.940t  ST4  TR1 1INR    13.281 169S15.000  78.000   1.170x  
+[[Start4:] ][29-06-2012 01:31:32]:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at ConnectLab.StagoStart4Result..ctor(String ouputFromLaura) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Result.cs:line 39
+   at ConnectLab.StagoStart4Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Connect.cs:line 61
+[Success][29-06-2012 02:05:00]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 02:05:00]:Save SpecimenID: 120629-074; Patient: deo; Sequence: 4783
+[Success][29-06-2012 02:05:00]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 02:06:17]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 02:06:18]:Save SpecimenID: 120629-075; Patient: tuan; Sequence: 4784
+[Success][29-06-2012 02:06:18]:End recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 02:13:55]:ST4  TR
+[Success][29-06-2012 02:13:55]:Begin recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 02:13:55]: 1 1INR    13.28
+[[Start4: COM]: ][29-06-2012 02:13:55]:1 2
+[[Start4: COM]: ][29-06-2012 02:13:55]:          74
+[[Start4: COM]: ][29-06-2012 02:13:55]:S  13.600  95.0
+[[Start4: COM]: ][29-06-2012 02:13:55]:00   1.030
+[[Start4: COM]: ][29-06-2012 02:13:55]:          7
+[[Start4: COM]: ][29-06-2012 02:13:55]:5S  15.500  73.
+[[Start4: COM]: ][29-06-2012 02:13:55]:300   1.220i  
+[Stago Result:][29-06-2012 02:13:55]:ST4  TR1 1INR    13.281461S14.700  81.100   1.14066S13.500  96.5001.02067S13.300  99.7001.00068S  12.700 100.000   0.940t  ST4  TR1 1INR    13.281 169S15.000  78.000   1.170x  ST4  TR1 1INR    13.281 274S  13.600  95.000   1.03075S  15.500  73.300   1.220i  
+[[Start4:] ][29-06-2012 02:13:55]:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at ConnectLab.StagoStart4Result..ctor(String ouputFromLaura) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Result.cs:line 39
+   at ConnectLab.StagoStart4Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Connect.cs:line 61
+[Success][29-06-2012 02:31:07]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 02:31:08]:Save SpecimenID: 120629-077; Patient: yom; Sequence: 4785
+[Success][29-06-2012 02:31:08]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 03:00:16]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 03:00:16]:Save SpecimenID: 120629-078; Patient: saret; Sequence: 4786
+[Success][29-06-2012 03:00:16]:End recieved from Cell-Dyn 1800 
+[Success][29-06-2012 03:02:03]:Begin recieved from Cell-Dyn 1800 
+[Success][29-06-2012 03:02:04]:Save SpecimenID: 120629-079; Patient: sokha; Sequence: 4787
+[Success][29-06-2012 03:02:04]:End recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 03:06:37]:S
+[Success][29-06-2012 03:06:37]:Begin recieved from Cell-Dyn 1800 
+[[Start4: COM]: ][29-06-2012 03:06:37]:T4  TR 1 1INR  
+[[Start4: COM]: ][29-06-2012 03:06:37]:  13.281 2
+[[Start4: COM]: ][29-06-2012 03:06:38]:     
+[[Start4: COM]: ][29-06-2012 03:06:38]:     78S  15.30
+[[Start4: COM]: ][29-06-2012 03:06:38]:0  75.200   1.2
+[[Start4: COM]: ][29-06-2012 03:06:38]:00
+[[Start4: COM]: ][29-06-2012 03:06:38]:    
+[[Start4: COM]: ][29-06-2012 03:06:38]:      79S  13.2
+[[Start4: COM]: ][29-06-2012 03:06:38]:00 100.000   0.9
+[[Start4: COM]: ][29-06-2012 03:06:38]:90q  
+[Stago Result:][29-06-2012 03:06:38]:ST4  TR1 1INR    13.281461S14.700  81.100   1.14066S13.500  96.5001.02067S13.300  99.7001.00068S  12.700 100.000   0.940t  ST4  TR1 1INR    13.281 169S15.000  78.000   1.170x  ST4  TR1 1INR    13.281 274S  13.600  95.000   1.03075S  15.500  73.300   1.220i  ST4  TR 1 1INR13.281 278S  15.300  75.200   1.20079S  13.200 100.000   0.990q  
+[[Start4:] ][29-06-2012 03:06:38]:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at ConnectLab.StagoStart4Result..ctor(String ouputFromLaura) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Result.cs:line 39
+   at ConnectLab.StagoStart4Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\Soft Manage\SOURCE\ConnectLab\StagoStart4\StagoStart4Connect.cs:line 61

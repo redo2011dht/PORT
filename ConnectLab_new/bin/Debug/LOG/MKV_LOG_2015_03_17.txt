@@ -1,0 +1,57 @@
+[Success][17-03-2015 08:54:35]:Save Huyet Hoc LH500 Success
+[Success][17-03-2015 08:54:35]:End recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:17:00]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:17:01]:Save Huyet Hoc LH500 Success
+[Success][17-03-2015 09:17:01]:End recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:20:03]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:23:15]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:23:16]:Save Huyet Hoc LH500 Success
+[Success][17-03-2015 09:23:16]:End recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:32:06]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-03-2015 09:32:06]:Save Reruls Au480 Error: DBDR       R001                              E00211.3990  00221.3969  00310.0612  00320.0592  00410.0018  00420.0022  00510.1646  00520.1396  00711.2720  00721.2701  00810.0005  00820.0190  00910.0002  00920.0010  01610.0019  01620.0042  
+[Success][17-03-2015 09:34:31]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:34:31]:Save Reruls Au480 Success
+[Success][17-03-2015 09:34:39]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:39:47]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-03-2015 09:39:47]:Save Reruls Au480 Error: DQ       Q001                           001E002 45.23  003  3.86  004118.16  005  5.10  006  6.02  007 37.79  008  1.65  009319.63  011 22.38  013 17.25  
+[Success][17-03-2015 09:39:50]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:39:50]:Save Reruls Au480 Success
+[Success][17-03-2015 09:39:52]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 09:39:54]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:03:19]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:07:33]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:07:33]:Save Reruls Au480 Success
+[Success][17-03-2015 10:14:48]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:14:48]:Save Reruls Au480 Success
+[Success][17-03-2015 10:15:15]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:15:15]:Save Reruls Au480 Success
+[Success][17-03-2015 10:19:55]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:19:55]:Save Reruls Au480 Success
+[Success][17-03-2015 10:24:36]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:24:36]:Save Reruls Au480 Success
+[Success][17-03-2015 10:32:17]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:32:18]:Save Reruls Au480 Success
+[Success][17-03-2015 10:46:47]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-03-2015 10:46:47]:Save Reruls Au480 Error: D     01 P008           BN-18082014-030    E002 14.66  003  0.19G 004  8.53  007- 0.23  008  0.01G 016  0.02G 017  0.17G 
+[Success][17-03-2015 10:47:05]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:47:05]:Save Reruls Au480 Success
+[Success][17-03-2015 10:47:23]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 10:47:23]:Save Reruls Au480 Success
+[Success][17-03-2015 11:02:21]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 11:13:29]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 11:13:29]:Save Reruls Au480 Success
+[Success][17-03-2015 11:27:31]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 11:27:31]:Save Reruls Au480 Success
+[Success][17-03-2015 12:13:29]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 12:13:30]:Save Huyet Hoc LH500 Success
+[Success][17-03-2015 12:13:30]:End recieved from Cell-Dyn 1800 
+[Success][17-03-2015 04:10:33]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 04:10:47]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 04:29:24]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 04:29:24]:Save Reruls Au480 Success
+[Success][17-03-2015 04:34:34]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 04:34:34]:Save Huyet Hoc LH500 Success
+[Success][17-03-2015 04:34:34]:End recieved from Cell-Dyn 1800 
+[Success][17-03-2015 06:05:48]:Begin recieved from Cell-Dyn 1800 
+[Success][17-03-2015 06:05:49]:Save Huyet Hoc LH500 Success
+[Success][17-03-2015 06:05:49]:End recieved from Cell-Dyn 1800 

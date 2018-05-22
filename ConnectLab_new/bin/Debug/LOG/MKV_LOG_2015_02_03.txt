@@ -1,0 +1,100 @@
+[Success][03-02-2015 09:06:18]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:06:20]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:18:29]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:30:04]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:30:04]:Save Reruls Au480 Success
+[Success][03-02-2015 09:30:27]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:30:28]:Save Huyet Hoc LH500 Success
+[Success][03-02-2015 09:30:28]:End recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:31:35]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:31:43]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:33:32]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:33:34]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:33:36]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:33:39]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:34:22]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:34:27]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:34:31]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:34:37]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:44:24]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:44:24]:Save Reruls Au480 Success
+[Success][03-02-2015 09:45:18]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:45:18]:Save Reruls Au480 Success
+[Success][03-02-2015 09:45:36]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:45:36]:Save Reruls Au480 Success
+[Success][03-02-2015 09:46:39]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:46:39]:Save Reruls Au480 Success
+[Success][03-02-2015 09:56:51]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:56:56]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:57:00]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:57:05]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:57:09]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 09:57:14]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:05:31]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:05:31]:Save Reruls Au480 Success
+[Success][03-02-2015 10:05:49]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:05:49]:Save Reruls Au480 Success
+[Success][03-02-2015 10:06:07]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:06:07]:Save Reruls Au480 Success
+[Success][03-02-2015 10:07:19]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:07:19]:Save Reruls Au480 Success
+[Success][03-02-2015 10:08:23]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:08:23]:Save Reruls Au480 Success
+[Success][03-02-2015 10:08:59]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:08:59]:Save Reruls Au480 Success
+[Success][03-02-2015 10:09:22]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:09:28]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:09:53]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:09:53]:Save Reruls Au480 Success
+[Success][03-02-2015 10:10:38]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:10:39]:Save Reruls Au480 Success
+[Success][03-02-2015 10:11:06]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:11:06]:Save Reruls Au480 Success
+[Success][03-02-2015 10:20:00]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:20:00]:Save Reruls Au480 Success
+[Success][03-02-2015 10:24:50]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:24:50]:Save Reruls Au480 Success
+[Success][03-02-2015 10:25:08]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:25:08]:Save Reruls Au480 Success
+[Success][03-02-2015 10:33:07]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:33:07]:Save Reruls Au480 Success
+[Success][03-02-2015 10:33:31]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:43:41]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 10:43:41]:Save Reruls Au480 Success
+[Success][03-02-2015 11:05:55]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 11:05:56]:Save Huyet Hoc LH500 Success
+[Success][03-02-2015 11:05:56]:End recieved from Cell-Dyn 1800 
+[Success][03-02-2015 11:17:42]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 11:18:01]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 11:36:03]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 11:36:03]:Save Reruls Au480 Success
+[Success][03-02-2015 11:36:21]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 11:36:21]:Save Reruls Au480 Success
+[Success][03-02-2015 11:53:22]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 12:04:24]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 12:04:24]:Save Reruls Au480 Success
+[Success][03-02-2015 12:06:08]:Start form config
+[Success][03-02-2015 12:06:50]:Changed config
+[Success][03-02-2015 12:06:54]:Begin reload all config
+[Success][03-02-2015 12:06:54]:Connect to SQL Server
+***[***Fail][03-02-2015 12:06:54]:Connect to Cell-Dyn 1800
+***[***Fail][03-02-2015 12:06:54]:Connect to ERBA LX 200
+***[***Fail][03-02-2015 12:06:54]:Connect to Laura Smart
+***[***Fail][03-02-2015 12:06:54]:Connect toStago Start 4
+***[***Fail][03-02-2015 12:06:54]:Connect toStago Start 4
+[Success][03-02-2015 12:06:54]:End reload all config
+[Success][03-02-2015 12:06:54]:Close form config
+[Success][03-02-2015 03:03:31]:Begin recieved from Cell-Dyn 1800 
+[Success][03-02-2015 03:03:32]:Save Huyet Hoc LH500 Success
+[Success][03-02-2015 03:03:32]:End recieved from Cell-Dyn 1800 
+[Success][03-02-2015 05:45:54]:Start form config
+[Success][03-02-2015 05:46:02]:Changed config
+[Success][03-02-2015 05:46:05]:Begin reload all config
+[Success][03-02-2015 05:46:05]:Connect to SQL Server
+***[***Fail][03-02-2015 05:46:05]:Connect to Cell-Dyn 1800
+***[***Fail][03-02-2015 05:46:05]:Connect to ERBA LX 200
+***[***Fail][03-02-2015 05:46:05]:Connect to Laura Smart
+***[***Fail][03-02-2015 05:46:05]:Connect toStago Start 4
+***[***Fail][03-02-2015 05:46:05]:Connect toStago Start 4
+[Success][03-02-2015 05:46:05]:End reload all config
+[Success][03-02-2015 05:46:05]:Close form config

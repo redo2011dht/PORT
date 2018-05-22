@@ -1,0 +1,11 @@
+bin\Debug\ConnectLab.exe.config
+obj\Debug\ConnectLab.exe
+obj\Debug\ConnectLab.pdb
+bin\Debug\ConnectLab.exe
+bin\Debug\ConnectLab.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConnectLab.frmChanePassword.resources
+obj\Debug\ConnectLab.frmConfig.resources
+obj\Debug\ConnectLab.frmPassword.resources
+obj\Debug\ConnectLab.Properties.Resources.resources
+obj\Debug\ConnectLab.csproj.GenerateResource.Cache

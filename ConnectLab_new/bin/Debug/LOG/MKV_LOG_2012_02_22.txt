@@ -1,0 +1,69 @@
+[Success][22-02-2012 06:21:58]:Begin recieved from CD1800
+[Success][22-02-2012 06:21:58]:Save SpecimenID: 120221-075; Patient: nguon; Sequence: 1873
+[Success][22-02-2012 06:21:58]:End recieved from CD1800
+[Success][22-02-2012 06:51:21]:Begin recieved from CD1800
+[Success][22-02-2012 06:51:21]:Save SpecimenID: 120222-001; Patient: hoa; Sequence: 1874
+[Success][22-02-2012 06:51:21]:End recieved from CD1800
+[Success][22-02-2012 06:52:40]:Begin recieved from CD1800
+[Success][22-02-2012 06:52:40]:Save SpecimenID: 120222-003; Patient: tu; Sequence: 1875
+[Success][22-02-2012 06:52:40]:End recieved from CD1800
+[Success][22-02-2012 07:23:17]:Begin recieved from CD1800
+[Success][22-02-2012 07:23:17]:Save SpecimenID: 120222-008; Patient: phung; Sequence: 1876
+[Success][22-02-2012 07:23:17]:End recieved from CD1800
+[Success][22-02-2012 07:40:45]:Begin recieved from CD1800
+[Success][22-02-2012 07:40:46]:Save SpecimenID: 120222-009; Patient: santy; Sequence: 1877
+[Success][22-02-2012 07:40:46]:End recieved from CD1800
+[Success][22-02-2012 08:17:27]:Begin recieved from CD1800
+[Success][22-02-2012 08:17:27]:Save SpecimenID: 120222-011; Patient: huu; Sequence: 1878
+[Success][22-02-2012 08:17:27]:End recieved from CD1800
+[Success][22-02-2012 08:37:42]:Begin recieved from CD1800
+[Success][22-02-2012 08:37:43]:Save SpecimenID: 120222-013; Patient: ha; Sequence: 1879
+[Success][22-02-2012 08:37:43]:End recieved from CD1800
+[Success][22-02-2012 09:03:33]:Begin recieved from CD1800
+[Success][22-02-2012 09:03:33]:Save SpecimenID: 120222-014; Patient: nguyet; Sequence: 1880
+[Success][22-02-2012 09:03:33]:End recieved from CD1800
+[Success][22-02-2012 09:04:56]:Begin recieved from CD1800
+[Success][22-02-2012 09:04:57]:Save SpecimenID: 120222-015; Patient: ve; Sequence: 1881
+[Success][22-02-2012 09:04:57]:End recieved from CD1800
+[Success][22-02-2012 09:47:26]:Begin recieved from CD1800
+[Success][22-02-2012 09:47:27]:Save SpecimenID: 120222-019; Patient: nam; Sequence: 1882
+[Success][22-02-2012 09:47:27]:End recieved from CD1800
+[Success][22-02-2012 11:22:55]:Begin recieved from CD1800
+[Success][22-02-2012 11:22:56]:Save SpecimenID: BACKGRD; Patient: ; Sequence: 1883
+[Success][22-02-2012 11:22:56]:End recieved from CD1800
+[Success][22-02-2012 12:36:09]:Begin recieved from CD1800
+[Success][22-02-2012 12:36:09]:Save SpecimenID: 120222-021; Patient: kong; Sequence: 1884
+[Success][22-02-2012 12:36:09]:End recieved from CD1800
+[Success][22-02-2012 12:39:27]:Begin recieved from CD1800
+[Success][22-02-2012 12:39:27]:Save SpecimenID: 120222-022; Patient: samay; Sequence: 1885
+[Success][22-02-2012 12:39:27]:End recieved from CD1800
+[Success][22-02-2012 12:41:06]:Begin recieved from CD1800
+[Success][22-02-2012 12:41:06]:Save SpecimenID: 120222-023; Patient: huoy; Sequence: 1886
+[Success][22-02-2012 12:41:06]:End recieved from CD1800
+[Success][22-02-2012 12:42:50]:Begin recieved from CD1800
+[Success][22-02-2012 12:42:50]:Save SpecimenID: 120222-024; Patient: ya; Sequence: 1887
+[Success][22-02-2012 12:42:50]:End recieved from CD1800
+[Success][22-02-2012 12:44:15]:Begin recieved from CD1800
+[Success][22-02-2012 12:44:15]:Save SpecimenID: 120222-025; Patient: amara; Sequence: 1888
+[Success][22-02-2012 12:44:15]:End recieved from CD1800
+[Success][22-02-2012 12:45:49]:Begin recieved from CD1800
+[Success][22-02-2012 12:45:50]:Save SpecimenID: 120222-026; Patient: ; Sequence: 1889
+[Success][22-02-2012 12:45:50]:End recieved from CD1800
+[Success][22-02-2012 01:41:16]:Begin recieved from LASM
+[Success][22-02-2012 01:41:16]:Save Laura Smart ID: 120222-021; Patient: ; DateExcute: 2012-02-22 9:01
+[Success][22-02-2012 01:41:17]:End recieved from LASM
+[Success][22-02-2012 01:41:25]:Begin recieved from LASM
+[Success][22-02-2012 01:41:25]:Save Laura Smart ID: 120222-021; Patient: ; DateExcute: 2012-02-22 9:01
+[Success][22-02-2012 01:41:25]:End recieved from LASM
+[Success][22-02-2012 01:43:42]:Begin recieved from LASM
+[Success][22-02-2012 01:43:42]:Save Laura Smart ID: 120222-22; Patient: ; DateExcute: 2012-02-22 9:03
+[Success][22-02-2012 01:43:42]:End recieved from LASM
+[Success][22-02-2012 01:48:30]:Begin recieved from LASM
+[Success][22-02-2012 01:48:30]:Save Laura Smart ID: 120222-023; Patient: ; DateExcute: 2012-02-22 9:08
+[Success][22-02-2012 01:48:30]:End recieved from LASM
+[Success][22-02-2012 01:55:43]:Begin recieved from LASM
+[Success][22-02-2012 01:55:43]:Save Laura Smart ID: 120222-024; Patient: ; DateExcute: 2012-02-22 9:15
+[Success][22-02-2012 01:55:43]:End recieved from LASM
+[Success][22-02-2012 01:59:16]:Begin recieved from LASM
+[Success][22-02-2012 01:59:16]:Save Laura Smart ID: 120222-025; Patient: ; DateExcute: 2012-02-22 9:19
+[Success][22-02-2012 01:59:16]:End recieved from LASM

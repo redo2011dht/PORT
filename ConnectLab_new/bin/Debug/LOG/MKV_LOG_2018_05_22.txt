@@ -1,0 +1,5 @@
+[Success][22-05-2018 09:33:57]:Start program
+***[***Fail][22-05-2018 09:34:45]:Connect to SQL Server
+***[***Fail][22-05-2018 09:34:45]:Connect to Au480
+***[***Fail][22-05-2018 09:34:45]:Connect to Lh500
+[Success][22-05-2018 09:47:08]:Start program

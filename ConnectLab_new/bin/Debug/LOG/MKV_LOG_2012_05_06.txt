@@ -1,0 +1,46 @@
+[Success][06-05-2012 06:34:25]:Begin recieved from CD1800
+[Success][06-05-2012 06:34:25]:Save SpecimenID: 120506-001; Patient: sau; Sequence: 3531
+[Success][06-05-2012 06:34:25]:End recieved from CD1800
+[Success][06-05-2012 06:35:42]:Begin recieved from CD1800
+[Success][06-05-2012 06:35:43]:Save SpecimenID: 120506-002; Patient: thach; Sequence: 3532
+[Success][06-05-2012 06:35:43]:End recieved from CD1800
+[Success][06-05-2012 07:01:08]:Begin recieved from LASM
+[Success][06-05-2012 07:01:08]:Save Laura Smart ID: 120506-002; Patient: ; DateExcute: 2012-05-06 2:30
+[Success][06-05-2012 07:01:08]:End recieved from LASM
+[Success][06-05-2012 07:30:56]:Begin recieved from CD1800
+[Success][06-05-2012 07:30:56]:Save SpecimenID: 120506-010; Patient: thang; Sequence: 3533
+[Success][06-05-2012 07:30:56]:End recieved from CD1800
+[Success][06-05-2012 07:32:23]:Begin recieved from CD1800
+[Success][06-05-2012 07:32:23]:Save SpecimenID: 120506-011; Patient: an; Sequence: 3534
+[Success][06-05-2012 07:32:23]:End recieved from CD1800
+[Success][06-05-2012 07:46:43]:Begin recieved from CD1800
+[Success][06-05-2012 07:46:43]:Save SpecimenID: 120506-013; Patient: mich; Sequence: 3535
+[Success][06-05-2012 07:46:43]:End recieved from CD1800
+[Success][06-05-2012 08:13:54]:Begin recieved from CD1800
+[Success][06-05-2012 08:13:55]:Save SpecimenID: 120506-011; Patient: an; Sequence: 3534
+[Success][06-05-2012 08:13:55]:End recieved from CD1800
+[Success][06-05-2012 08:15:50]:Begin recieved from CD1800
+[Success][06-05-2012 08:15:50]:Save SpecimenID: 120506-011; Patient: an; Sequence: 3534
+[Success][06-05-2012 08:15:50]:End recieved from CD1800
+[Success][06-05-2012 08:25:25]:Begin recieved from CD1800
+[Success][06-05-2012 08:25:25]:Save SpecimenID: 120506-014; Patient: an; Sequence: 3536
+[Success][06-05-2012 08:25:25]:End recieved from CD1800
+[Success][06-05-2012 09:24:15]:Begin recieved from CD1800
+[Success][06-05-2012 09:24:15]:Save SpecimenID: 120506-016; Patient: kha; Sequence: 3537
+[Success][06-05-2012 09:24:15]:End recieved from CD1800
+[Success][06-05-2012 01:06:38]:Start form config
+[***Fail][06-05-2012 01:07:17]:Changed config
+[Success][06-05-2012 01:07:41]:Begin reload all config
+[Success][06-05-2012 01:07:42]:Connect to SQL Server
+[Success][06-05-2012 01:07:42]:Connect to Cell-Dyn 1800
+***[***Fail][06-05-2012 01:07:42]:Connect to ERBA LX 200
+[Success][06-05-2012 01:07:42]:Connect to Laura Smart
+[Success][06-05-2012 01:07:42]:Connect to Stago Start 4
+[Success][06-05-2012 01:07:42]:End reload all config
+[Success][06-05-2012 01:07:42]:Close form config
+[Success][06-05-2012 04:11:17]:Start program
+[Success][06-05-2012 04:11:22]:Connect to SQL Server
+[Success][06-05-2012 04:11:22]:Connect to Cell-Dyn 1800
+***[***Fail][06-05-2012 04:11:22]:Connect to ERBA LX 200
+[Success][06-05-2012 04:11:22]:Connect to Laura Smart
+[Success][06-05-2012 04:11:22]:Connect to Stago Start 4

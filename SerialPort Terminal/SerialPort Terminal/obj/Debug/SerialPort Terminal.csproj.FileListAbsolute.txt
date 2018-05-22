@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\obj\Debug\SerialPort Terminal.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\obj\Debug\SerialPort Terminal.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\Administrator\Desktop\SourCode\SerialPort Terminal\SerialPort Terminal\obj\Debug\SerialPort Terminal.pdb

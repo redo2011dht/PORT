@@ -1,0 +1,26 @@
+[Success][12-01-2012 11:06:23]:Begin recieved from CD1800
+[Success][12-01-2012 11:06:24]:Save SpecimenID: 120112-003; Patient: ; Sequence: 1189
+[Success][12-01-2012 11:06:24]:End recieved from CD1800
+[Success][12-01-2012 11:06:54]:Start form config
+[Success][12-01-2012 11:07:00]:Close form config
+[Success][12-01-2012 11:09:55]:Begin recieved from CD1800
+[Success][12-01-2012 11:09:56]:Save SpecimenID: 120112-004; Patient: chan tha; Sequence: 1190
+[Success][12-01-2012 11:09:56]:End recieved from CD1800
+[Success][12-01-2012 11:31:24]:Begin recieved from CD1800
+[Success][12-01-2012 11:31:25]:Save SpecimenID: 120112-005; Patient: 005; Sequence: 1191
+[Success][12-01-2012 11:31:25]:End recieved from CD1800
+[Success][12-01-2012 01:00:16]:Begin recieved from LASM
+[Success][12-01-2012 01:00:16]:Save Laura Smart ID: 120112-004; Patient: ; DateExcute: 2012-01-12 8:15
+[Success][12-01-2012 01:00:16]:End recieved from LASM
+[Success][12-01-2012 01:06:09]:Begin recieved from LASM
+[Success][12-01-2012 01:06:09]:Save Laura Smart ID: 120112-003; Patient: ; DateExcute: 2012-01-12 8:21
+[Success][12-01-2012 01:06:09]:End recieved from LASM
+[Success][12-01-2012 01:09:30]:Begin recieved from LASM
+[Success][12-01-2012 01:09:31]:Save Laura Smart ID: 120112-005; Patient: ; DateExcute: 2012-01-12 8:25
+[Success][12-01-2012 01:09:31]:End recieved from LASM
+[Success][12-01-2012 01:32:20]:Begin recieved from LASM
+[Success][12-01-2012 01:32:20]:Save Laura Smart ID: 005; Patient: ; DateExcute: 2012-01-12 8:48
+[Success][12-01-2012 01:32:20]:End recieved from LASM
+[Success][12-01-2012 01:35:13]:Begin recieved from LASM
+[Success][12-01-2012 01:35:14]:Save Laura Smart ID: 004; Patient: ; DateExcute: 2012-01-12 8:50
+[Success][12-01-2012 01:35:14]:End recieved from LASM

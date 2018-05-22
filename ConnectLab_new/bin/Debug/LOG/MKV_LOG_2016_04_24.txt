@@ -1,0 +1,200 @@
+[Success][24-04-2016 11:05:19]:Save Huyet Hoc LH500 Success
+[Success][24-04-2016 11:05:19]:End recieved from Cell-Dyn 1800 
+[Success][24-04-2016 05:01:04]:Begin recieved from Cell-Dyn 1800 
+[Success][24-04-2016 05:01:12]:Save Huyet Hoc LH500 Success
+[Success][24-04-2016 05:01:12]:End recieved from Cell-Dyn 1800 
+[Success][24-04-2016 06:20:38]:Begin recieved from Cell-Dyn 1800 
+[Success][24-04-2016 06:21:27]:Save Huyet Hoc LH500 Success
+[Success][24-04-2016 06:21:27]:End recieved from Cell-Dyn 1800 
+[Success][24-04-2016 07:09:08]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][24-04-2016 07:10:39]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+04
+G01
+0A
+DATE 04/24/16
+TIME 17:57:58
+ID1 thuc
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.6 
+RBC 4.74 
+HGB 144 
+HCT 4ED79024.1 
+MCV 93.0 
+MCH 30.4 
+MCHC 32.7 
+RDW 12.4 
+PLT 221 
+MPV 6.8 L
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.9 L
+MO# 0.9 
+NE# 5.7 
+EO# 0.0 L
+BA# 0.1 
+G04
+05
+LY% 11.3 L
+MO% 12.0 H
+NE% 74.7 H
+EO% 0.4 L
+BA% 1.D368036 H
+
+
+--------------
+                                                                                                                                                                                                                                       DB4B
+[Success][24-04-2016 07:10:39]:End recieved from Cell-Dyn 1800 
+[Success][24-04-2016 07:59:03]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][24-04-2016 08:00:34]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+04
+G01
+0A
+DATE 04/24/16
+TIME 18:47:54
+ID1 vinh
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 4.6 
+RBC 5.19 
+HGB 156 
+HCT 470C6025.4 
+MCV 87.5 
+MCH 30.0 
+MCHC 34.2 
+RDW 12.6 
+PLT 147 L
+MPV 6.9 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 1.0 L
+MO# 0.2 L
+NE# 3.4 
+EO# 0.0 L
+BA# 0.0 
+G04
+05
+LY% 22.2 
+MO% 4.6 L
+NE% 72.4 
+EO% 0.2 L
+BA% 0.6 DEF003
+
+
+--------------
+                                                                                                                                                                                                                                          F61B
+[Success][24-04-2016 08:00:34]:End recieved from Cell-Dyn 1800 
+[Success][24-04-2016 08:28:31]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][24-04-2016 08:30:03]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+04
+G01
+0A
+DATE 04/24/16
+TIME 19:17:22
+ID1 ngoc
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 15.6 H
+RBC 4.60 
+HGB 139 
+HCT824402 41.0 
+MCV 89.2 
+MCH 30.1 
+MCHC 33.7 
+RDW 12.6 
+PLT 216 
+MPV 5.8 L
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.2 
+MO# 1.6 H
+NE# 11.6 H
+EO# 0.2 
+BA# 0.0 
+G04
+05
+LY% 13.8 L
+MO% 10.2 
+NE% 74.7 H
+EO% 1.1 
+BA% 0DCFC03.2 L
+
+
+--------------
+                                                                                                                                                                                                                                      E785
+[Success][24-04-2016 08:30:03]:End recieved from Cell-Dyn 1800 

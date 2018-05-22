@@ -1,0 +1,122 @@
+[Success][05-11-2014 08:17:49]:Start program
+***[***Fail][05-11-2014 08:17:50]:Save Huyet Hoc LH500 Error: ????j
+ID1 10062014008
+CASSPOS A008002
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 13.0 H
+RBC 4.70 
+HGB 1571B5023 
+HCT 45.5 
+MCV 96.8 H
+MCH 32.6 
+MCHC 33.7 
+RDW 12.7 
+PLT 335 
+MPV 7.9 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 4.4 H
+MO# 1.3 H
+NE# 7.1 H
+EO# 0.1 
+BA# 0.1 
+G04
+05
+LY% 34.1 
+MO% 10.1 
+NE% 54.4 
+EO% 0.9 
+83B503BA% 0.5 
+
+
+--------------
+                                                                                                                                                                                                                                  0952
+[[CD1800]:][05-11-2014 08:17:50]:System.NullReferenceException: Object reference not set to an instance of an object.
+   at ConnectLab.Lh500Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\NewVersion\ConnectLab\Lh500\Lh500Connect.cs:line 61
+[Success][05-11-2014 08:17:51]:Begin recieved from Cell-Dyn 1800 
+[[CD1800]:][05-11-2014 08:17:51]:System.NullReferenceException: Object reference not set to an instance of an object.
+   at ConnectLab.Lh500Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\NewVersion\ConnectLab\Lh500\Lh500Connect.cs:line 52
+[Success][05-11-2014 08:17:52]:Connect to SQL Server
+[Success][05-11-2014 08:17:52]:Connect to Au480
+[Success][05-11-2014 08:17:52]:Connect to Lh500
+***[***Fail][05-11-2014 08:17:52]:Connect to Cell-Dyn 1800
+***[***Fail][05-11-2014 08:17:52]:Connect to ERBA LX 200
+***[***Fail][05-11-2014 08:17:52]:Connect to Laura Smart
+***[***Fail][05-11-2014 08:17:52]:Connect toStago Start 4
+***[***Fail][05-11-2014 08:17:52]:Connect toStago Start 4
+[Success][05-11-2014 08:17:53]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:17:53]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:17:53]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:17:54]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:17:54]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:17:55]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:17:56]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:17:56]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:17:57]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:17:58]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:17:58]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:17:59]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:18:00]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:18:00]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:18:00]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:18:02]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:18:02]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:19:53]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:19:55]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:19:55]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:33:39]:Save Reruls Au480 Success
+[Success][05-11-2014 08:34:23]:Save Reruls Au480 Success
+[Success][05-11-2014 08:35:09]:Save Reruls Au480 Success
+[Success][05-11-2014 08:38:10]:Save Reruls Au480 Success
+[Success][05-11-2014 08:39:58]:Save Reruls Au480 Success
+[Success][05-11-2014 08:40:42]:Save Reruls Au480 Success
+[Success][05-11-2014 08:42:30]:Save Reruls Au480 Success
+[Success][05-11-2014 08:42:41]:Save Reruls Au480 Success
+[Success][05-11-2014 08:46:06]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:46:09]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:46:09]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:49:33]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:49:38]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:49:38]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:52:40]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:52:43]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:52:43]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:52:59]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 08:53:02]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 08:53:02]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 09:01:14]:Save Reruls Au480 Success
+[Success][05-11-2014 09:05:14]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 09:05:15]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 09:05:15]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 09:06:58]:Save Reruls Au480 Success
+[Success][05-11-2014 09:20:51]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 09:20:54]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 09:20:54]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 09:22:56]:Save Reruls Au480 Success
+[Success][05-11-2014 09:34:07]:Save Reruls Au480 Success
+[Success][05-11-2014 09:42:44]:Save Reruls Au480 Success
+[Success][05-11-2014 10:15:06]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 10:15:07]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 10:15:07]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 10:45:03]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 10:45:03]:Save Huyet Hoc LH500 Success
+[Success][05-11-2014 10:45:03]:End recieved from Cell-Dyn 1800 
+[Success][05-11-2014 10:55:32]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 10:55:48]:Begin recieved from Cell-Dyn 1800 
+[Success][05-11-2014 11:07:13]:Save Reruls Au480 Success
+[Success][05-11-2014 11:23:13]:Save Reruls Au480 Success

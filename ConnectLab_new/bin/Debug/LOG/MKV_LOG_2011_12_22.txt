@@ -1,0 +1,6 @@
+[Success][22-12-2011 12:42:57]:Begin recieved from Cell-Dyn 1800 
+[Success][22-12-2011 12:42:58]:Save SpecimenID: BACKGRD; Patient: ; Sequence: 0753
+[Success][22-12-2011 12:42:58]:End recieved from Cell-Dyn 1800 
+[Success][22-12-2011 12:50:21]:Begin recieved from Cell-Dyn 1800 
+[Success][22-12-2011 12:50:22]:Save SpecimenID: 111222-001; Patient: dung; Sequence: 0754
+[Success][22-12-2011 12:50:22]:End recieved from Cell-Dyn 1800 

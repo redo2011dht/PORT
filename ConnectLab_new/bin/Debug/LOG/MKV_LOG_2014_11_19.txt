@@ -1,0 +1,62 @@
+[Success][19-11-2014 08:19:15]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:19:16]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:19:16]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:20:43]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:20:44]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:20:44]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:21:45]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:21:46]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:21:46]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:22:58]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:22:59]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:22:59]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:23:53]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:23:53]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:23:54]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:25:06]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:25:06]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:25:06]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:25:51]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:25:52]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:25:52]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:26:43]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:26:44]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:26:44]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:27:57]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:27:58]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:27:58]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:28:48]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:28:49]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:28:49]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:29:40]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:29:41]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:29:41]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:30:31]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:30:32]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:30:32]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:31:46]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:31:47]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:31:47]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:32:34]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:32:35]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:32:35]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:33:48]:Begin recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:33:49]:Save Huyet Hoc LH500 Success
+[Success][19-11-2014 08:33:49]:End recieved from Cell-Dyn 1800 
+[Success][19-11-2014 08:34:23]:Save Reruls Au480 Success
+[Success][19-11-2014 08:35:09]:Save Reruls Au480 Success
+[Success][19-11-2014 08:35:54]:Save Reruls Au480 Success
+[Success][19-11-2014 08:36:39]:Save Reruls Au480 Success
+[Success][19-11-2014 08:38:19]:Save Reruls Au480 Success
+***[***Fail][19-11-2014 08:39:04]:Save Reruls Au480 Error: D 001302 0006               13062014010    E002      %?004      %?005      %?007      %?009      %?
+[Success][19-11-2014 08:47:58]:Save Reruls Au480 Success
+[Success][19-11-2014 08:48:43]:Save Reruls Au480 Success
+[Success][19-11-2014 08:49:29]:Save Reruls Au480 Success
+[Success][19-11-2014 08:50:14]:Save Reruls Au480 Success
+[Success][19-11-2014 08:50:59]:Save Reruls Au480 Success
+[Success][19-11-2014 08:51:44]:Save Reruls Au480 Success
+[Success][19-11-2014 08:53:06]:Save Reruls Au480 Success
+[Success][19-11-2014 08:53:51]:Save Reruls Au480 Success
+***[***Fail][19-11-2014 08:54:36]:Save Reruls Au480 Error: D 001403 0015               19112014006    E002 20.85  004      %?005      %?007      %?009      %?
+[Success][19-11-2014 08:56:25]:Save Reruls Au480 Success
+[Success][19-11-2014 09:09:51]:Save Reruls Au480 Success

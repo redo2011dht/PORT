@@ -1,0 +1,346 @@
+[Success][17-12-2016 02:16:36]:Begin recieved from Cell-Dyn 1800 
+[Success][17-12-2016 02:16:37]:Save Huyet Hoc LH500 Success
+[Success][17-12-2016 02:16:37]:End recieved from Cell-Dyn 1800 
+[Success][17-12-2016 08:17:30]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-12-2016 08:17:33]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 12/17/16
+TIME 20:03:30
+ID1 BN-14112014-070
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.7 
+RBC 6.05 aH
+HG0DB102B 158 
+HCT 49.8 
+MCV 82.4 
+MCH 26.1 aL
+MCHC 31.7 L
+RDW 12.8 
+PLT 215 
+MPV 7.2 
+G06
+02
+DEFINIT Erythrocytosis
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.5 
+MO# 0.7 
+NE# 4.1 
+EO# 0.4 
+BA# 0699503.0 
+G04
+05
+LY% 32.7 
+MO% 8.9 
+NE% 52.2 
+EO% 5.8 
+BA% 0.4 
+
+
+--------------
+                                                                                                                                                                          E76F
+[Success][17-12-2016 08:17:33]:End recieved from Cell-Dyn 1800 
+[Success][17-12-2016 08:18:12]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-12-2016 08:18:14]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 12/17/16
+TIME 20:03:30
+ID1 BN-14112014-070
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.7 
+RBC 6.05 aH
+HG0DB102B 158 
+HCT 49.8 
+MCV 82.4 
+MCH 26.1 aL
+MCHC 31.7 L
+RDW 12.8 
+PLT 215 
+MPV 7.2 
+G06
+02
+DEFINIT Erythrocytosis
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.5 
+MO# 0.7 
+NE# 4.1 
+EO# 0.4 
+BA# 0699503.0 
+G04
+05
+LY% 32.7 
+MO% 8.9 
+NE% 52.2 
+EO% 5.8 
+BA% 0.4 
+
+
+--------------
+                                                                                                                                                                          E76F
+[Success][17-12-2016 08:18:14]:End recieved from Cell-Dyn 1800 
+[Success][17-12-2016 08:18:26]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-12-2016 08:18:28]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 12/17/16
+TIME 20:03:30
+ID1 BN-14112014-070
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.7 
+RBC 6.05 aH
+HG0DB102B 158 
+HCT 49.8 
+MCV 82.4 
+MCH 26.1 aL
+MCHC 31.7 L
+RDW 12.8 
+PLT 215 
+MPV 7.2 
+G06
+02
+DEFINIT Erythrocytosis
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.5 
+MO# 0.7 
+NE# 4.1 
+EO# 0.4 
+BA# 0699503.0 
+G04
+05
+LY% 32.7 
+MO% 8.9 
+NE% 52.2 
+EO% 5.8 
+BA% 0.4 
+
+
+--------------
+                                                                                                                                                                          E76F
+[Success][17-12-2016 08:18:28]:End recieved from Cell-Dyn 1800 
+[Success][17-12-2016 08:18:42]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-12-2016 08:18:44]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 12/17/16
+TIME 20:03:30
+ID1 BN-14112014-070
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.7 
+RBC 6.05 aH
+HG0DB102B 158 
+HCT 49.8 
+MCV 82.4 
+MCH 26.1 aL
+MCHC 31.7 L
+RDW 12.8 
+PLT 215 
+MPV 7.2 
+G06
+02
+DEFINIT Erythrocytosis
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.5 
+MO# 0.7 
+NE# 4.1 
+EO# 0.4 
+BA# 0699503.0 
+G04
+05
+LY% 32.7 
+MO% 8.9 
+NE% 52.2 
+EO% 5.8 
+BA% 0.4 
+
+
+--------------
+                                                                                                                                                                          E76F
+[Success][17-12-2016 08:18:44]:End recieved from Cell-Dyn 1800 
+[Success][17-12-2016 08:18:51]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][17-12-2016 08:18:52]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 12/17/16
+TIME 20:03:30
+ID1 BN-14112014-070
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.7 
+RBC 6.05 aH
+HG0DB102B 158 
+HCT 49.8 
+MCV 82.4 
+MCH 26.1 aL
+MCHC 31.7 L
+RDW 12.8 
+PLT 215 
+MPV 7.2 
+G06
+02
+DEFINIT Erythrocytosis
+DEFINIT Hypochromia
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.5 
+MO# 0.7 
+NE# 4.1 
+EO# 0.4 
+BA# 0699503.0 
+G04
+05
+LY% 32.7 
+MO% 8.9 
+NE% 52.2 
+EO% 5.8 
+BA% 0.4 
+
+
+--------------
+                                                                                                                                                                          E76F
+[Success][17-12-2016 08:18:52]:End recieved from Cell-Dyn 1800 
+[Success][17-12-2016 08:40:23]:Begin recieved from Cell-Dyn 1800 
+[Success][17-12-2016 08:40:24]:Save Huyet Hoc LH500 Success
+[Success][17-12-2016 08:40:24]:End recieved from Cell-Dyn 1800 

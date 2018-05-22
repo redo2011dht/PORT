@@ -1,0 +1,208 @@
+[Success][14-02-2017 07:45:04]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:45:06]:Save Huyet Hoc LH500 Success
+[Success][14-02-2017 07:45:06]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:47:05]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:47:07]:Save Huyet Hoc LH500 Success
+[Success][14-02-2017 07:47:07]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:50:59]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:51:00]:Save Reruls Au480 Success
+[Success][14-02-2017 07:52:29]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:52:38]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:56:52]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:56:52]:Save Reruls Au480 Success
+[Success][14-02-2017 07:56:54]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:56:55]:Save Reruls Au480 Success
+[Success][14-02-2017 07:56:57]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 07:56:59]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:00:47]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][14-02-2017 08:00:48]:Save Reruls Au480 Error: D     01 P001                       QC1    E018 0.457  019 10.40  020  6.17  
+[Success][14-02-2017 08:01:23]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][14-02-2017 08:01:24]:Save Reruls Au480 Error: D     02 P002                       QC2    E018 0.937  019  9.92  020 10.79  
+[Success][14-02-2017 08:01:56]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:02:27]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:02:28]:Save Huyet Hoc LH500 Success
+[Success][14-02-2017 08:02:28]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:03:35]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:03:40]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:03:44]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:03:49]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:03:53]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:08:47]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:08:47]:Save Reruls Au480 Success
+[Success][14-02-2017 08:11:48]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:11:48]:Save Reruls Au480 Success
+[Success][14-02-2017 08:14:09]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:14:14]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:14:31]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:14:31]:Save Reruls Au480 Success
+[Success][14-02-2017 08:15:43]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:15:44]:Save Reruls Au480 Success
+[Success][14-02-2017 08:16:38]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:16:38]:Save Reruls Au480 Success
+[Success][14-02-2017 08:17:05]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:17:05]:Save Reruls Au480 Success
+[Success][14-02-2017 08:18:18]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:18:18]:Save Reruls Au480 Success
+[Success][14-02-2017 08:22:00]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:22:05]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:24:56]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:24:56]:Save Reruls Au480 Success
+[Success][14-02-2017 08:25:50]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:25:50]:Save Reruls Au480 Success
+[Success][14-02-2017 08:32:55]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:32:56]:Save Reruls Au480 Success
+[Success][14-02-2017 08:33:59]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:33:59]:Save Reruls Au480 Success
+[Success][14-02-2017 08:40:15]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 08:40:17]:Save Huyet Hoc LH500 Success
+[Success][14-02-2017 08:40:17]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:01:34]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:01:36]:Save Huyet Hoc LH500 Success
+[Success][14-02-2017 09:01:36]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:25:55]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:32:27]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:37:03]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:37:03]:Save Reruls Au480 Success
+[Success][14-02-2017 09:43:04]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:43:05]:Save Reruls Au480 Success
+[Success][14-02-2017 09:48:23]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 09:48:25]:Save Huyet Hoc LH500 Success
+[Success][14-02-2017 09:48:25]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 01:45:29]:Begin recieved from Cell-Dyn 1800 
+[Success][14-02-2017 01:45:31]:Save Huyet Hoc LH500 Success
+[Success][14-02-2017 01:45:31]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 01:55:44]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][14-02-2017 01:55:46]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 02/14/17
+TIME 13:41:03
+ID1 MAU 1
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 6.5 
+RBC 5.24 
+HGB 155 
+HCT 9CA20246.7 
+MCV 89.1 
+MCH 29.5 
+MCHC 33.1 
+RDW 13.1 
+PLT 78 L
+MPV 7.9 
+G07
+02
+SUSPECT Imm. NE 1
+SUSPECT Verify Diff
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# .....
+MO# .....
+NE# .....
+EO# .....
+BA# .....
+G04BC2703
+05
+LY% .....
+MO% .....
+NE% .....
+EO% .....
+BA% .....
+
+
+--------------
+                                                                                                                                                                               BDB2
+[Success][14-02-2017 01:55:46]:End recieved from Cell-Dyn 1800 
+[Success][14-02-2017 01:57:53]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][14-02-2017 01:57:55]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 02/14/17
+TIME 13:43:12
+ID1 MAU 2
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 6.7 
+RBC 5.26 
+HGB 155 
+HCT 47630246.6 
+MCV 88.6 
+MCH 29.4 
+MCHC 33.2 
+RDW 13.2 
+PLT 80 L
+MPV 7.9 
+G07
+01
+SUSPECT Verify Diff
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# .....
+MO# .....
+NE# .....
+EO# .....
+BA# .....
+G04
+05
+LY% .....
+MOFFCE03% .....
+NE% .....
+EO% .....
+BA% .....
+
+
+--------------
+                                                                                                                                                                                                  6C87
+[Success][14-02-2017 01:57:55]:End recieved from Cell-Dyn 1800 

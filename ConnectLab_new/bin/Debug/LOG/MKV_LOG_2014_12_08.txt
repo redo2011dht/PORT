@@ -1,0 +1,23 @@
+[Success][08-12-2014 09:09:36]:Start program
+[Success][08-12-2014 09:09:36]:Connect to SQL Server
+[Success][08-12-2014 09:09:36]:Connect to Au480
+[Success][08-12-2014 09:09:36]:Connect to Lh500
+[Success][08-12-2014 09:09:58]:Start program
+[Success][08-12-2014 09:09:59]:Connect to SQL Server
+[Success][08-12-2014 09:09:59]:Connect to Au480
+[Success][08-12-2014 09:09:59]:Connect to Lh500
+[Success][08-12-2014 09:10:20]:Start program
+[Success][08-12-2014 09:10:21]:Connect to SQL Server
+[Success][08-12-2014 09:10:21]:Connect to Au480
+[Success][08-12-2014 09:10:21]:Connect to Lh500
+[Success][08-12-2014 09:10:32]:Start program
+[Success][08-12-2014 09:10:33]:Connect to SQL Server
+[Success][08-12-2014 09:10:33]:Connect to Au480
+[Success][08-12-2014 09:10:33]:Connect to Lh500
+[Success][08-12-2014 09:10:53]:Start program
+[Success][08-12-2014 09:10:54]:Connect to SQL Server
+[Success][08-12-2014 09:10:54]:Connect to Au480
+[Success][08-12-2014 09:10:54]:Connect to Lh500
+[Success][08-12-2014 09:11:25]:Begin recieved from Cell-Dyn 1800 
+[Success][08-12-2014 09:12:42]:Save Reruls Au480 Success
+[Success][08-12-2014 09:18:08]:Save Reruls Au480 Success

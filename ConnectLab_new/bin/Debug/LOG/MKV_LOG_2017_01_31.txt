@@ -1,0 +1,67 @@
+[Success][31-01-2017 08:30:50]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][31-01-2017 08:30:52]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+05
+G01
+0A
+DATE 01/31/17
+TIME 20:15:41
+ID1 trang
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.9 
+RBC 4.33 L
+HGB 131 L
+HC054802T 39.7 
+MCV 91.7 
+MCH 30.3 
+MCHC 33.0 
+RDW 12.0 
+PLT 313 
+MPV 7.7 
+G06
+01
+DEFINIT Eosinophilia #
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 4.2 H
+MO# 0.6 
+NE# 4.2 
+EO# 0.9 aH
+BA# 0.0 
+G04
+05
+LY% 42.0 
+MO% 6.6A7D030 
+NE% 43.0 
+EO% 8.7 H
+BA% 0.3 
+
+
+--------------
+                                                                                                                                                                                                        EFEE
+[Success][31-01-2017 08:30:52]:End recieved from Cell-Dyn 1800 

@@ -1,0 +1,2213 @@
+[Success][28-11-2014 08:22:30]:Start program
+[Success][28-11-2014 08:22:31]:Connect to SQL Server
+[Success][28-11-2014 08:22:31]:Connect to Au480
+[Success][28-11-2014 08:22:31]:Connect to Lh500
+[Success][28-11-2014 08:23:27]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 08:32:16]:Save Reruls Au480 Success
+[Success][28-11-2014 08:34:22]:Save Reruls Au480 Success
+[Success][28-11-2014 08:36:06]:Start program
+[Success][28-11-2014 08:36:06]:Connect to SQL Server
+[Success][28-11-2014 08:36:06]:Connect to Au480
+[Success][28-11-2014 08:36:06]:Connect to Lh500
+[Success][28-11-2014 08:36:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 08:36:29]:Save Reruls Au480 Success
+[Success][28-11-2014 08:37:14]:Save Reruls Au480 Success
+[Success][28-11-2014 08:38:50]:Start program
+[Success][28-11-2014 08:38:50]:Connect to SQL Server
+[Success][28-11-2014 08:38:50]:Connect to Au480
+[Success][28-11-2014 08:38:50]:Connect to Lh500
+[Success][28-11-2014 08:39:30]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 08:39:30]:Save Reruls Au480 Success
+[Success][28-11-2014 08:40:16]:Save Reruls Au480 Success
+[Success][28-11-2014 08:40:35]:Start form config
+[Success][28-11-2014 08:40:44]:Changed config
+[Success][28-11-2014 08:40:45]:Begin reload all config
+[Success][28-11-2014 08:40:45]:Connect to SQL Server
+***[***Fail][28-11-2014 08:40:45]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 08:40:45]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 08:40:45]:Connect to Laura Smart
+***[***Fail][28-11-2014 08:40:45]:Connect toStago Start 4
+***[***Fail][28-11-2014 08:40:45]:Connect toStago Start 4
+[Success][28-11-2014 08:40:45]:End reload all config
+[Success][28-11-2014 08:40:45]:Close form config
+[Success][28-11-2014 08:40:59]:Start program
+[Success][28-11-2014 08:41:00]:Connect to SQL Server
+[Success][28-11-2014 08:41:00]:Connect to Au480
+[Success][28-11-2014 08:41:00]:Connect to Lh500
+[Success][28-11-2014 08:41:01]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 08:41:01]:Save Reruls Au480 Success
+[Success][28-11-2014 08:41:46]:Save Reruls Au480 Success
+[Success][28-11-2014 08:42:32]:Save Reruls Au480 Success
+[Success][28-11-2014 08:48:08]:Start program
+[Success][28-11-2014 08:48:08]:Connect to SQL Server
+[Success][28-11-2014 08:48:08]:Connect to Au480
+[Success][28-11-2014 08:48:08]:Connect to Lh500
+[Success][28-11-2014 08:54:28]:Start program
+[Success][28-11-2014 08:54:29]:Connect to SQL Server
+[Success][28-11-2014 08:54:29]:Connect to Au480
+[Success][28-11-2014 08:54:29]:Connect to Lh500
+[Success][28-11-2014 08:58:17]:Start program
+[Success][28-11-2014 08:58:17]:Connect to SQL Server
+[Success][28-11-2014 08:58:17]:Connect to Au480
+[Success][28-11-2014 08:58:17]:Connect to Lh500
+[Success][28-11-2014 09:03:08]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:14:21]:Save Reruls Au480 Success
+[Success][28-11-2014 09:15:07]:Save Reruls Au480 Success
+[Success][28-11-2014 09:15:52]:Save Reruls Au480 Success
+[Success][28-11-2014 09:16:37]:Save Reruls Au480 Success
+[Success][28-11-2014 09:17:22]:Save Reruls Au480 Success
+[Success][28-11-2014 09:18:07]:Save Reruls Au480 Success
+[Success][28-11-2014 09:18:53]:Save Reruls Au480 Success
+[Success][28-11-2014 09:19:38]:Save Reruls Au480 Success
+[Success][28-11-2014 09:20:23]:Save Reruls Au480 Success
+[Success][28-11-2014 09:21:09]:Save Reruls Au480 Success
+[Success][28-11-2014 09:21:54]:Save Reruls Au480 Success
+[Success][28-11-2014 09:22:39]:Save Reruls Au480 Success
+[Success][28-11-2014 09:23:24]:Save Reruls Au480 Success
+[Success][28-11-2014 09:24:10]:Save Reruls Au480 Success
+[Success][28-11-2014 09:24:55]:Save Reruls Au480 Success
+[Success][28-11-2014 09:25:40]:Save Reruls Au480 Success
+[Success][28-11-2014 09:26:25]:Save Reruls Au480 Success
+[Success][28-11-2014 09:27:11]:Save Reruls Au480 Success
+[Success][28-11-2014 09:27:56]:Save Reruls Au480 Success
+[Success][28-11-2014 09:28:41]:Save Reruls Au480 Success
+[Success][28-11-2014 09:29:27]:Save Reruls Au480 Success
+[Success][28-11-2014 09:30:12]:Save Reruls Au480 Success
+[Success][28-11-2014 09:30:57]:Save Reruls Au480 Success
+[Success][28-11-2014 09:31:42]:Save Reruls Au480 Success
+[Success][28-11-2014 09:32:28]:Save Reruls Au480 Success
+[Success][28-11-2014 09:33:13]:Save Reruls Au480 Success
+[Success][28-11-2014 09:33:58]:Save Reruls Au480 Success
+[Success][28-11-2014 09:34:43]:Save Reruls Au480 Success
+[Success][28-11-2014 09:35:28]:Save Reruls Au480 Success
+[Success][28-11-2014 09:36:14]:Save Reruls Au480 Success
+[Success][28-11-2014 09:36:59]:Save Reruls Au480 Success
+[Success][28-11-2014 09:37:44]:Save Reruls Au480 Success
+[Success][28-11-2014 09:38:30]:Save Reruls Au480 Success
+[Success][28-11-2014 09:39:15]:Save Reruls Au480 Success
+[Success][28-11-2014 09:40:00]:Save Reruls Au480 Success
+[Success][28-11-2014 09:40:46]:Save Reruls Au480 Success
+[Success][28-11-2014 09:41:31]:Save Reruls Au480 Success
+[Success][28-11-2014 09:42:16]:Save Reruls Au480 Success
+[Success][28-11-2014 09:43:01]:Save Reruls Au480 Success
+[Success][28-11-2014 09:43:46]:Save Reruls Au480 Success
+[Success][28-11-2014 09:44:32]:Save Reruls Au480 Success
+[Success][28-11-2014 09:45:17]:Save Reruls Au480 Success
+[Success][28-11-2014 09:46:02]:Save Reruls Au480 Success
+[Success][28-11-2014 09:46:48]:Save Reruls Au480 Success
+[Success][28-11-2014 09:47:33]:Save Reruls Au480 Success
+[Success][28-11-2014 09:48:18]:Save Reruls Au480 Success
+[Success][28-11-2014 09:49:03]:Save Reruls Au480 Success
+[Success][28-11-2014 09:49:48]:Save Reruls Au480 Success
+[Success][28-11-2014 09:50:34]:Save Reruls Au480 Success
+[Success][28-11-2014 09:51:19]:Save Reruls Au480 Success
+[Success][28-11-2014 09:52:04]:Save Reruls Au480 Success
+[Success][28-11-2014 09:52:50]:Save Reruls Au480 Success
+[Success][28-11-2014 09:53:35]:Save Reruls Au480 Success
+[Success][28-11-2014 09:54:20]:Save Reruls Au480 Success
+[Success][28-11-2014 09:55:05]:Save Reruls Au480 Success
+[Success][28-11-2014 09:57:13]:Start program
+[Success][28-11-2014 09:57:14]:Connect to SQL Server
+[Success][28-11-2014 09:57:14]:Connect to Au480
+[Success][28-11-2014 09:57:14]:Connect to Lh500
+[Success][28-11-2014 09:57:21]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:57:21]:Save Reruls Au480 Success
+[Success][28-11-2014 09:58:09]:Start program
+[Success][28-11-2014 09:58:09]:Connect to SQL Server
+[Success][28-11-2014 09:58:09]:Connect to Au480
+[Success][28-11-2014 09:58:09]:Connect to Lh500
+[Success][28-11-2014 09:58:10]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:11]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:11]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:12]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:13]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:13]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:14]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:15]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:15]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:16]:Save Reruls Au480 Success
+[Success][28-11-2014 09:58:16]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:17]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:17]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:18]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:19]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:19]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:20]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:21]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:21]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:22]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:22]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:22]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:23]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:24]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:24]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:25]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:26]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:26]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:27]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:28]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:28]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:30]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:30]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:31]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:32]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:32]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:33]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:33]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:34]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:34]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:35]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:39]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:39]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:41]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:41]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:42]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:43]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:43]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:45]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:45]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:46]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:46]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:46]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:47]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:48]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:48]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:50]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:50]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:51]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:52]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:52]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:53]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:54]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:54]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:55]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:56]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:56]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:57]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:58]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:58]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:58:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:58:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:01]:Save Reruls Au480 Success
+[Success][28-11-2014 09:59:01]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:01]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:02]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:03]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:03]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:04]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:05]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:05]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:06]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:07]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:07]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:08]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:09]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:09]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:10]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:11]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:11]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:11]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:12]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:13]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:14]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:14]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:15]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:16]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:16]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:17]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:18]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:18]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:19]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:20]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:20]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:21]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:22]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:22]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:23]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:24]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:24]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:25]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:25]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:26]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:27]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:27]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:28]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:29]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:29]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:30]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:31]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:31]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:32]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:33]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:33]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:34]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:35]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:38]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:38]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:39]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:40]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:40]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:41]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:42]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:42]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:43]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:44]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:44]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:45]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:46]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:46]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:46]:Save Reruls Au480 Success
+[Success][28-11-2014 09:59:47]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:48]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:48]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:56]:Start program
+[Success][28-11-2014 09:59:56]:Connect to SQL Server
+[Success][28-11-2014 09:59:56]:Connect to Au480
+[Success][28-11-2014 09:59:56]:Connect to Lh500
+***[***Fail][28-11-2014 09:59:57]:Save Huyet Hoc LH500 Error: 0A
+DATE 11/28/14
+TIME 09:11:19
+ID1 07082014012
+CASSPOS A008003
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 7.4 
+RBC 4.90 
+HGB 154 46F902
+HCT 44.5 
+MCV 90.8 
+MCH 31.5 
+MCHC 34.7 
+RDW 12.5 
+PLT 205 
+MPV 8.0 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 3.1 
+MO# 0.7 
+NE# 3.5 
+EO# 0.1 
+BA# 0.0 
+G04
+05
+LY% 41.6 
+MO% 9.5 
+NE% 47.9 
+EO% 0.8 L
+BA% 0.49D1032 L
+
+
+--------------
+                                                                                                                                                                                                                                       365F
+[Success][28-11-2014 09:59:57]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:58]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 09:59:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 09:59:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:01]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:02]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:02]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:03]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:04]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:04]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:05]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:06]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:06]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:07]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:08]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:08]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:09]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:10]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:10]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:11]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:12]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:12]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:13]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:13]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:14]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:15]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:15]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:16]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:17]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:17]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:18]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:19]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:19]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:20]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:21]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:21]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:22]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:23]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:23]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:24]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:24]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:25]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:26]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:26]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:27]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:28]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:28]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:30]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:30]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:31]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:31]:Save Reruls Au480 Success
+[Success][28-11-2014 10:00:32]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:32]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:33]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:34]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:34]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:35]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:35]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:39]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:39]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:41]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:41]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:42]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:43]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:43]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:45]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:45]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:46]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:47]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:47]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:47]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:48]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:48]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:50]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:50]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:51]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:52]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:52]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:53]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:54]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:54]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:55]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:56]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:56]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:57]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:58]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:58]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:00:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:00:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:01:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:01:01]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:01:01]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:01:02]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:01:03]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:01:03]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:01:16]:Save Reruls Au480 Success
+[Success][28-11-2014 10:01:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:01:25]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:01:25]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:02:02]:Save Reruls Au480 Success
+[Success][28-11-2014 10:02:15]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:02:16]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:02:16]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:02:47]:Save Reruls Au480 Success
+[Success][28-11-2014 10:03:12]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:03:13]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:03:13]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:03:32]:Save Reruls Au480 Success
+[Success][28-11-2014 10:04:18]:Save Reruls Au480 Success
+[Success][28-11-2014 10:05:03]:Save Reruls Au480 Success
+[Success][28-11-2014 10:05:48]:Save Reruls Au480 Success
+[Success][28-11-2014 10:06:33]:Save Reruls Au480 Success
+[Success][28-11-2014 10:07:19]:Save Reruls Au480 Success
+[Success][28-11-2014 10:08:03]:Start program
+[Success][28-11-2014 10:08:03]:Connect to SQL Server
+[Success][28-11-2014 10:08:03]:Connect to Au480
+[Success][28-11-2014 10:08:03]:Connect to Lh500
+[Success][28-11-2014 10:08:04]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:08:04]:Save Reruls Au480 Success
+[Success][28-11-2014 10:08:33]:Start program
+[Success][28-11-2014 10:08:33]:Connect to SQL Server
+[Success][28-11-2014 10:08:33]:Connect to Au480
+[Success][28-11-2014 10:08:33]:Connect to Lh500
+[Success][28-11-2014 10:08:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:08:49]:Save Reruls Au480 Success
+[Success][28-11-2014 10:09:34]:Save Reruls Au480 Success
+[Success][28-11-2014 10:09:52]:Start program
+[Success][28-11-2014 10:09:53]:Connect to SQL Server
+[Success][28-11-2014 10:09:53]:Connect to Au480
+[Success][28-11-2014 10:09:53]:Connect to Lh500
+[Success][28-11-2014 10:10:19]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:10:20]:Save Reruls Au480 Success
+[Success][28-11-2014 10:11:05]:Save Reruls Au480 Success
+[Success][28-11-2014 10:11:50]:Save Reruls Au480 Success
+[Success][28-11-2014 10:14:25]:Save Reruls Au480 Success
+[Success][28-11-2014 10:15:21]:Start program
+[Success][28-11-2014 10:15:22]:Connect to SQL Server
+[Success][28-11-2014 10:15:22]:Connect to Au480
+[Success][28-11-2014 10:15:22]:Connect to Lh500
+[Success][28-11-2014 10:15:48]:Start program
+[Success][28-11-2014 10:15:49]:Connect to SQL Server
+[Success][28-11-2014 10:15:49]:Connect to Au480
+[Success][28-11-2014 10:15:49]:Connect to Lh500
+[Success][28-11-2014 10:16:13]:Start program
+[Success][28-11-2014 10:16:14]:Connect to SQL Server
+[Success][28-11-2014 10:16:14]:Connect to Au480
+[Success][28-11-2014 10:16:14]:Connect to Lh500
+[Success][28-11-2014 10:16:51]:Start program
+[Success][28-11-2014 10:16:51]:Connect to SQL Server
+[Success][28-11-2014 10:16:51]:Connect to Au480
+[Success][28-11-2014 10:16:51]:Connect to Lh500
+[Success][28-11-2014 10:17:03]:Start program
+[Success][28-11-2014 10:17:04]:Connect to SQL Server
+[Success][28-11-2014 10:17:04]:Connect to Au480
+[Success][28-11-2014 10:17:04]:Connect to Lh500
+[Success][28-11-2014 10:17:38]:Start program
+[Success][28-11-2014 10:17:38]:Connect to SQL Server
+[Success][28-11-2014 10:17:38]:Connect to Au480
+[Success][28-11-2014 10:17:38]:Connect to Lh500
+[Success][28-11-2014 10:18:08]:Start program
+[Success][28-11-2014 10:18:09]:Connect to SQL Server
+[Success][28-11-2014 10:18:09]:Connect to Au480
+[Success][28-11-2014 10:18:09]:Connect to Lh500
+[Success][28-11-2014 10:19:23]:Start program
+[Success][28-11-2014 10:19:23]:Connect to SQL Server
+[Success][28-11-2014 10:19:23]:Connect to Au480
+[Success][28-11-2014 10:19:23]:Connect to Lh500
+[Success][28-11-2014 10:19:37]:Start program
+[Success][28-11-2014 10:19:38]:Connect to SQL Server
+[Success][28-11-2014 10:19:38]:Connect to Au480
+[Success][28-11-2014 10:19:38]:Connect to Lh500
+[Success][28-11-2014 10:20:30]:Start program
+[Success][28-11-2014 10:20:30]:Connect to SQL Server
+[Success][28-11-2014 10:20:30]:Connect to Au480
+[Success][28-11-2014 10:20:30]:Connect to Lh500
+[Success][28-11-2014 10:20:32]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:21:36]:Start program
+[Success][28-11-2014 10:21:36]:Connect to SQL Server
+[Success][28-11-2014 10:21:36]:Connect to Au480
+[Success][28-11-2014 10:21:36]:Connect to Lh500
+[Success][28-11-2014 10:23:05]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:29:32]:Start program
+[Success][28-11-2014 10:29:33]:Connect to SQL Server
+[Success][28-11-2014 10:29:33]:Connect to Au480
+[Success][28-11-2014 10:29:33]:Connect to Lh500
+[Success][28-11-2014 10:29:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:34]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:35]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:39]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:39]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:41]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:41]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:42]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:43]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:43]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:44]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:44]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:45]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:46]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:46]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:47]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:48]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:48]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:57]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:31:58]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:31:58]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:03]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:04]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:04]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:11]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:12]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:16]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:17]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:17]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:21]:Save Reruls Au480 Success
+[Success][28-11-2014 10:32:22]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:22]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:22]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:28]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:29]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:29]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:34]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:35]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:41]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:41]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:46]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:47]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:47]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:53]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:54]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:32:54]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:32:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:06]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:06]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:06]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:07]:Save Reruls Au480 Success
+[Success][28-11-2014 10:33:11]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:12]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:17]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:18]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:18]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:25]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:25]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:30]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:31]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:31]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:42]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:43]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:33:43]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:33:52]:Save Reruls Au480 Success
+[Success][28-11-2014 10:34:37]:Save Reruls Au480 Success
+[Success][28-11-2014 10:35:23]:Save Reruls Au480 Success
+[Success][28-11-2014 10:35:46]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:35:47]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:35:47]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:36:08]:Save Reruls Au480 Success
+[Success][28-11-2014 10:36:53]:Save Reruls Au480 Success
+[Success][28-11-2014 10:36:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:37:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:37:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:37:38]:Save Reruls Au480 Success
+[Success][28-11-2014 10:38:23]:Save Reruls Au480 Success
+[Success][28-11-2014 10:39:08]:Save Reruls Au480 Success
+[Success][28-11-2014 10:39:54]:Save Reruls Au480 Success
+[Success][28-11-2014 10:40:39]:Start program
+[Success][28-11-2014 10:40:39]:Connect to SQL Server
+[Success][28-11-2014 10:40:39]:Connect to Au480
+[Success][28-11-2014 10:40:39]:Connect to Lh500
+[Success][28-11-2014 10:41:12]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:41:21]:Start program
+[Success][28-11-2014 10:41:22]:Connect to SQL Server
+[Success][28-11-2014 10:41:22]:Connect to Au480
+[Success][28-11-2014 10:41:22]:Connect to Lh500
+[Success][28-11-2014 10:41:25]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:41:25]:Save Reruls Au480 Success
+[Success][28-11-2014 10:42:10]:Save Reruls Au480 Success
+[Success][28-11-2014 10:42:47]:Start program
+[Success][28-11-2014 10:42:48]:Connect to SQL Server
+[Success][28-11-2014 10:42:48]:Connect to Au480
+[Success][28-11-2014 10:42:48]:Connect to Lh500
+[Success][28-11-2014 10:42:55]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:42:55]:Save Reruls Au480 Success
+[Success][28-11-2014 10:43:34]:Start program
+[Success][28-11-2014 10:43:34]:Connect to SQL Server
+[Success][28-11-2014 10:43:34]:Connect to Au480
+[Success][28-11-2014 10:43:34]:Connect to Lh500
+[Success][28-11-2014 10:43:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:43:40]:Save Reruls Au480 Success
+[Success][28-11-2014 10:44:25]:Save Reruls Au480 Success
+[Success][28-11-2014 10:45:11]:Save Reruls Au480 Success
+[Success][28-11-2014 10:45:20]:Start program
+[Success][28-11-2014 10:45:21]:Connect to SQL Server
+[Success][28-11-2014 10:45:21]:Connect to Au480
+[Success][28-11-2014 10:45:21]:Connect to Lh500
+[Success][28-11-2014 10:45:30]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:45:56]:Save Reruls Au480 Success
+[Success][28-11-2014 10:46:41]:Save Reruls Au480 Success
+[Success][28-11-2014 10:50:54]:Start program
+[Success][28-11-2014 10:50:54]:Connect to SQL Server
+[Success][28-11-2014 10:50:54]:Connect to Au480
+[Success][28-11-2014 10:50:54]:Connect to Lh500
+[Success][28-11-2014 10:50:54]:Begin recieved from Cell-Dyn 1800 
+[[LH500]:][28-11-2014 10:50:54]:System.NullReferenceException: Object reference not set to an instance of an object.
+   at ConnectLab.Lh500Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\NewVersion\ConnectLab_new\Lh500\Lh500Connect.cs:line 52
+***[***Fail][28-11-2014 10:50:55]:Save Huyet Hoc LH500 Error: 02
+0A
+WBC 8.7 
+RBC 5.02 
+HGB 145 1A3D02
+HCT 43.5 
+MCV 86.6 
+MCH 29.0 
+MCHC 33.4 
+RDW 12.6 
+PLT 274 
+MPV 7.2 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 3.2 
+MO# 0.7 
+NE# 4.4 
+EO# 0.3 
+BA# 0.1 
+G04
+05
+LY% 36.4 
+MO% 8.0 
+NE% 50.9 
+EO% 3.9 
+BA% 0.8CD5303 
+
+
+--------------
+                                                                                                                                                                                                                                         1D63
+[Success][28-11-2014 10:50:55]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:50:56]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:50:57]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:50:57]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:50:58]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:50:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:50:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:01]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:01]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:02]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:03]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:03]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:04]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:04]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:05]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:06]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:06]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:06]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:07]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:08]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:08]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:09]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:10]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:10]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:18]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:19]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:19]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:25]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:25]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:30]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:30]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:35]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:36]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:36]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:42]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:42]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 10:51:42]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 10:51:49]:Save Reruls Au480 Success
+[Success][28-11-2014 10:54:15]:Save Reruls Au480 Success
+[Success][28-11-2014 10:54:59]:Save Reruls Au480 Success
+[Success][28-11-2014 10:55:44]:Save Reruls Au480 Success
+[Success][28-11-2014 10:56:30]:Save Reruls Au480 Success
+[Success][28-11-2014 10:57:15]:Save Reruls Au480 Success
+[Success][28-11-2014 10:58:00]:Save Reruls Au480 Success
+[Success][28-11-2014 10:58:45]:Save Reruls Au480 Success
+[Success][28-11-2014 10:59:31]:Save Reruls Au480 Success
+[Success][28-11-2014 11:00:16]:Save Reruls Au480 Success
+[Success][28-11-2014 11:01:01]:Save Reruls Au480 Success
+[Success][28-11-2014 11:01:46]:Save Reruls Au480 Success
+[Success][28-11-2014 11:02:32]:Save Reruls Au480 Success
+[Success][28-11-2014 11:03:17]:Save Reruls Au480 Success
+[Success][28-11-2014 11:04:11]:Save Reruls Au480 Success
+[Success][28-11-2014 11:04:57]:Save Reruls Au480 Success
+[Success][28-11-2014 11:05:42]:Save Reruls Au480 Success
+[Success][28-11-2014 11:06:27]:Save Reruls Au480 Success
+[Success][28-11-2014 11:07:12]:Save Reruls Au480 Success
+[Success][28-11-2014 11:07:57]:Save Reruls Au480 Success
+[Success][28-11-2014 11:08:43]:Save Reruls Au480 Success
+[Success][28-11-2014 11:09:28]:Save Reruls Au480 Success
+[Success][28-11-2014 11:10:13]:Save Reruls Au480 Success
+[Success][28-11-2014 11:10:59]:Save Reruls Au480 Success
+[Success][28-11-2014 11:11:44]:Save Reruls Au480 Success
+[Success][28-11-2014 11:12:38]:Save Reruls Au480 Success
+[Success][28-11-2014 11:13:32]:Save Reruls Au480 Success
+[Success][28-11-2014 11:14:18]:Save Reruls Au480 Success
+[Success][28-11-2014 11:15:03]:Save Reruls Au480 Success
+[Success][28-11-2014 11:15:48]:Save Reruls Au480 Success
+[Success][28-11-2014 11:16:34]:Save Reruls Au480 Success
+[Success][28-11-2014 11:17:19]:Save Reruls Au480 Success
+[Success][28-11-2014 11:18:04]:Save Reruls Au480 Success
+[Success][28-11-2014 11:18:49]:Save Reruls Au480 Success
+[Success][28-11-2014 11:19:34]:Save Reruls Au480 Success
+[Success][28-11-2014 11:20:20]:Save Reruls Au480 Success
+[Success][28-11-2014 11:21:05]:Save Reruls Au480 Success
+[Success][28-11-2014 11:21:50]:Save Reruls Au480 Success
+[Success][28-11-2014 11:22:36]:Save Reruls Au480 Success
+[Success][28-11-2014 11:23:21]:Save Reruls Au480 Success
+[Success][28-11-2014 11:24:06]:Save Reruls Au480 Success
+[Success][28-11-2014 11:24:51]:Save Reruls Au480 Success
+[Success][28-11-2014 11:25:46]:Save Reruls Au480 Success
+[Success][28-11-2014 11:26:31]:Save Reruls Au480 Success
+[Success][28-11-2014 11:27:16]:Save Reruls Au480 Success
+[Success][28-11-2014 11:28:01]:Save Reruls Au480 Success
+[Success][28-11-2014 11:28:47]:Save Reruls Au480 Success
+[Success][28-11-2014 11:29:32]:Save Reruls Au480 Success
+[Success][28-11-2014 11:30:17]:Save Reruls Au480 Success
+[Success][28-11-2014 11:31:02]:Save Reruls Au480 Success
+[Success][28-11-2014 11:31:48]:Save Reruls Au480 Success
+[Success][28-11-2014 11:32:33]:Save Reruls Au480 Success
+[Success][28-11-2014 11:33:18]:Save Reruls Au480 Success
+[Success][28-11-2014 11:34:03]:Save Reruls Au480 Success
+[Success][28-11-2014 11:34:49]:Save Reruls Au480 Success
+[Success][28-11-2014 11:35:34]:Save Reruls Au480 Success
+[Success][28-11-2014 11:36:19]:Save Reruls Au480 Success
+[Success][28-11-2014 11:37:05]:Save Reruls Au480 Success
+[Success][28-11-2014 11:37:50]:Save Reruls Au480 Success
+[Success][28-11-2014 11:38:35]:Save Reruls Au480 Success
+[Success][28-11-2014 11:39:20]:Save Reruls Au480 Success
+[Success][28-11-2014 11:40:06]:Save Reruls Au480 Success
+[Success][28-11-2014 11:40:51]:Save Reruls Au480 Success
+[Success][28-11-2014 11:41:36]:Save Reruls Au480 Success
+[Success][28-11-2014 11:42:21]:Save Reruls Au480 Success
+[Success][28-11-2014 11:43:25]:Save Reruls Au480 Success
+[Success][28-11-2014 11:44:10]:Save Reruls Au480 Success
+[Success][28-11-2014 11:44:55]:Save Reruls Au480 Success
+[Success][28-11-2014 11:45:22]:Save Reruls Au480 Success
+[Success][28-11-2014 11:46:08]:Save Reruls Au480 Success
+[Success][28-11-2014 11:46:53]:Save Reruls Au480 Success
+[Success][28-11-2014 11:47:38]:Save Reruls Au480 Success
+[Success][28-11-2014 11:48:23]:Save Reruls Au480 Success
+[Success][28-11-2014 11:49:18]:Save Reruls Au480 Success
+[Success][28-11-2014 11:50:03]:Save Reruls Au480 Success
+[Success][28-11-2014 11:50:48]:Save Reruls Au480 Success
+[Success][28-11-2014 11:51:33]:Save Reruls Au480 Success
+[Success][28-11-2014 11:52:19]:Save Reruls Au480 Success
+[Success][28-11-2014 11:53:04]:Save Reruls Au480 Success
+[Success][28-11-2014 11:53:58]:Save Reruls Au480 Success
+[Success][28-11-2014 11:54:44]:Save Reruls Au480 Success
+[Success][28-11-2014 11:55:29]:Save Reruls Au480 Success
+[Success][28-11-2014 11:56:14]:Save Reruls Au480 Success
+[Success][28-11-2014 11:56:59]:Save Reruls Au480 Success
+[Success][28-11-2014 11:57:45]:Save Reruls Au480 Success
+[Success][28-11-2014 11:58:30]:Save Reruls Au480 Success
+[Success][28-11-2014 11:59:15]:Save Reruls Au480 Success
+[Success][28-11-2014 12:00:01]:Save Reruls Au480 Success
+[Success][28-11-2014 12:00:46]:Save Reruls Au480 Success
+[Success][28-11-2014 12:01:31]:Save Reruls Au480 Success
+[Success][28-11-2014 12:02:16]:Save Reruls Au480 Success
+[Success][28-11-2014 12:03:01]:Save Reruls Au480 Success
+[Success][28-11-2014 12:03:47]:Save Reruls Au480 Success
+[Success][28-11-2014 12:04:32]:Save Reruls Au480 Success
+[Success][28-11-2014 12:05:17]:Save Reruls Au480 Success
+[Success][28-11-2014 12:06:03]:Save Reruls Au480 Success
+[Success][28-11-2014 12:06:57]:Save Reruls Au480 Success
+[Success][28-11-2014 12:07:42]:Save Reruls Au480 Success
+[Success][28-11-2014 12:08:27]:Save Reruls Au480 Success
+[Success][28-11-2014 12:09:13]:Save Reruls Au480 Success
+[Success][28-11-2014 12:09:58]:Save Reruls Au480 Success
+[Success][28-11-2014 12:10:43]:Save Reruls Au480 Success
+[Success][28-11-2014 12:11:28]:Save Reruls Au480 Success
+[Success][28-11-2014 12:12:14]:Save Reruls Au480 Success
+[Success][28-11-2014 12:12:59]:Save Reruls Au480 Success
+[Success][28-11-2014 12:13:44]:Save Reruls Au480 Success
+[Success][28-11-2014 12:14:29]:Save Reruls Au480 Success
+[Success][28-11-2014 12:14:59]:Start program
+[Success][28-11-2014 12:15:00]:Connect to SQL Server
+[Success][28-11-2014 12:15:00]:Connect to Au480
+[Success][28-11-2014 12:15:00]:Connect to Lh500
+[Success][28-11-2014 12:15:15]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:15:15]:Save Reruls Au480 Success
+[Success][28-11-2014 12:16:00]:Save Reruls Au480 Success
+[Success][28-11-2014 12:16:45]:Save Reruls Au480 Success
+[Success][28-11-2014 12:17:31]:Save Reruls Au480 Success
+[Success][28-11-2014 12:18:16]:Save Reruls Au480 Success
+[Success][28-11-2014 12:19:01]:Save Reruls Au480 Success
+[Success][28-11-2014 12:19:25]:Start program
+[Success][28-11-2014 12:19:26]:Connect to SQL Server
+[Success][28-11-2014 12:19:26]:Connect to Au480
+[Success][28-11-2014 12:19:26]:Connect to Lh500
+[Success][28-11-2014 12:19:41]:Start program
+[Success][28-11-2014 12:19:41]:Connect to SQL Server
+[Success][28-11-2014 12:19:41]:Connect to Au480
+[Success][28-11-2014 12:19:41]:Connect to Lh500
+[Success][28-11-2014 12:19:46]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:19:46]:Save Reruls Au480 Success
+[Success][28-11-2014 12:20:18]:Start program
+[Success][28-11-2014 12:20:19]:Connect to SQL Server
+[Success][28-11-2014 12:20:19]:Connect to Au480
+[Success][28-11-2014 12:20:19]:Connect to Lh500
+[Success][28-11-2014 12:20:31]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:20:31]:Save Reruls Au480 Success
+[Success][28-11-2014 12:20:54]:Start program
+[Success][28-11-2014 12:20:54]:Connect to SQL Server
+[Success][28-11-2014 12:20:54]:Connect to Au480
+[Success][28-11-2014 12:20:54]:Connect to Lh500
+[Success][28-11-2014 12:21:19]:Start program
+[Success][28-11-2014 12:21:19]:Connect to SQL Server
+[Success][28-11-2014 12:21:19]:Connect to Au480
+[Success][28-11-2014 12:21:19]:Connect to Lh500
+[Success][28-11-2014 12:21:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:21:44]:Save Reruls Au480 Success
+[Success][28-11-2014 12:22:26]:Start program
+[Success][28-11-2014 12:22:26]:Connect to SQL Server
+[Success][28-11-2014 12:22:26]:Connect to Au480
+[Success][28-11-2014 12:22:26]:Connect to Lh500
+[Success][28-11-2014 12:22:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:29]:Save Reruls Au480 Success
+[Success][28-11-2014 12:22:38]:Start form config
+[Success][28-11-2014 12:22:42]:Changed config
+[Success][28-11-2014 12:22:44]:Begin reload all config
+[Success][28-11-2014 12:22:44]:Connect to SQL Server
+***[***Fail][28-11-2014 12:22:44]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 12:22:44]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 12:22:44]:Connect to Laura Smart
+***[***Fail][28-11-2014 12:22:44]:Connect toStago Start 4
+***[***Fail][28-11-2014 12:22:44]:Connect toStago Start 4
+[Success][28-11-2014 12:22:44]:End reload all config
+[Success][28-11-2014 12:22:44]:Close form config
+[Success][28-11-2014 12:22:48]:Start program
+[Success][28-11-2014 12:22:49]:Begin recieved from Cell-Dyn 1800 
+[[Au480]:][28-11-2014 12:22:49]:System.NullReferenceException: Object reference not set to an instance of an object.
+   at ConnectLab.Au480Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\New folder\NewVersion\ConnectLab_new\Au480\Au480Connect.cs:line 53
+[Success][28-11-2014 12:22:49]:Connect to SQL Server
+[Success][28-11-2014 12:22:49]:Connect to Au480
+[Success][28-11-2014 12:22:49]:Connect to Lh500
+***[***Fail][28-11-2014 12:22:49]:Save Huyet Hoc LH500 Error:  13.9 
+PLT 195 
+MPV 6.8 L
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 2.0 
+MO# 0.5 
+NE# 6.1 
+EO# 0.3 
+BA# 0.1 
+G04
+05
+LY% 22.2 
+MO% 5.4 
+NE% 68.7 
+EO% 3.0 
+647903BA% 0.7 
+
+
+--------------
+                                                                                                                                                                                                                                  77B7
+[Success][28-11-2014 12:22:49]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:50]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:51]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 12:22:51]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:52]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:53]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 12:22:53]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:54]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:55]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 12:22:55]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:56]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:57]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 12:22:57]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:58]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:22:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 12:22:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:23:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:23:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 12:23:01]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:23:01]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:23:14]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:24:00]:Save Reruls Au480 Success
+[Success][28-11-2014 12:24:45]:Save Reruls Au480 Success
+[Success][28-11-2014 12:25:30]:Save Reruls Au480 Success
+[Success][28-11-2014 12:25:58]:Start program
+[Success][28-11-2014 12:25:59]:Connect to SQL Server
+[Success][28-11-2014 12:25:59]:Connect to Au480
+[Success][28-11-2014 12:25:59]:Connect to Lh500
+[Success][28-11-2014 12:26:08]:Start form config
+[Success][28-11-2014 12:26:12]:Changed config
+[Success][28-11-2014 12:26:13]:Begin reload all config
+[Success][28-11-2014 12:26:13]:Connect to SQL Server
+***[***Fail][28-11-2014 12:26:13]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 12:26:13]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 12:26:13]:Connect to Laura Smart
+***[***Fail][28-11-2014 12:26:13]:Connect toStago Start 4
+***[***Fail][28-11-2014 12:26:13]:Connect toStago Start 4
+[Success][28-11-2014 12:26:13]:End reload all config
+[Success][28-11-2014 12:26:13]:Close form config
+[Success][28-11-2014 12:26:15]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:26:15]:Save Reruls Au480 Success
+[Success][28-11-2014 12:26:17]:Start program
+[Success][28-11-2014 12:26:18]:Connect to SQL Server
+[Success][28-11-2014 12:26:18]:Connect to Au480
+[Success][28-11-2014 12:26:18]:Connect to Lh500
+[Success][28-11-2014 12:26:34]:Start program
+[Success][28-11-2014 12:26:35]:Connect to SQL Server
+[Success][28-11-2014 12:26:35]:Connect to Au480
+[Success][28-11-2014 12:26:35]:Connect to Lh500
+[Success][28-11-2014 12:26:48]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:27:01]:Save Reruls Au480 Success
+[Success][28-11-2014 12:27:46]:Save Reruls Au480 Success
+[Success][28-11-2014 12:28:31]:Save Reruls Au480 Success
+[Success][28-11-2014 12:29:16]:Save Reruls Au480 Success
+[Success][28-11-2014 12:30:02]:Save Reruls Au480 Success
+[Success][28-11-2014 12:30:47]:Save Reruls Au480 Success
+[Success][28-11-2014 12:31:32]:Save Reruls Au480 Success
+[Success][28-11-2014 12:32:18]:Save Reruls Au480 Success
+[Success][28-11-2014 12:33:03]:Save Reruls Au480 Success
+[Success][28-11-2014 12:33:48]:Save Reruls Au480 Success
+[Success][28-11-2014 12:34:33]:Save Reruls Au480 Success
+[Success][28-11-2014 12:34:51]:Start program
+[Success][28-11-2014 12:34:51]:Connect to SQL Server
+[Success][28-11-2014 12:34:51]:Connect to Au480
+[Success][28-11-2014 12:34:51]:Connect to Lh500
+[Success][28-11-2014 12:35:00]:Start program
+[Success][28-11-2014 12:35:00]:Connect to SQL Server
+[Success][28-11-2014 12:35:00]:Connect to Au480
+[Success][28-11-2014 12:35:01]:Connect to Lh500
+[Success][28-11-2014 12:35:19]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 12:35:19]:Save Reruls Au480 Success
+[Success][28-11-2014 12:36:04]:Save Reruls Au480 Success
+[Success][28-11-2014 12:36:49]:Save Reruls Au480 Success
+[Success][28-11-2014 12:37:35]:Save Reruls Au480 Success
+[Success][28-11-2014 12:50:02]:Save Reruls Au480 Success
+[Success][28-11-2014 12:51:40]:Start program
+[Success][28-11-2014 12:51:40]:Connect to SQL Server
+[Success][28-11-2014 12:51:40]:Connect to Au480
+[Success][28-11-2014 12:51:40]:Connect to Lh500
+[Success][28-11-2014 12:51:50]:Start form config
+[Success][28-11-2014 12:51:53]:Changed config
+[Success][28-11-2014 12:51:55]:Begin reload all config
+[Success][28-11-2014 12:51:55]:Connect to SQL Server
+***[***Fail][28-11-2014 12:51:55]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 12:51:55]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 12:51:55]:Connect to Laura Smart
+***[***Fail][28-11-2014 12:51:55]:Connect toStago Start 4
+***[***Fail][28-11-2014 12:51:55]:Connect toStago Start 4
+[Success][28-11-2014 12:51:55]:End reload all config
+[Success][28-11-2014 12:51:55]:Close form config
+[Success][28-11-2014 12:52:04]:Start program
+[Success][28-11-2014 12:52:04]:Connect to SQL Server
+[Success][28-11-2014 12:52:04]:Connect to Au480
+[Success][28-11-2014 12:52:04]:Connect to Lh500
+[Success][28-11-2014 12:52:13]:Start program
+[Success][28-11-2014 12:52:13]:Connect to SQL Server
+[Success][28-11-2014 12:52:13]:Connect to Au480
+[Success][28-11-2014 12:52:13]:Connect to Lh500
+[Success][28-11-2014 12:52:23]:Start form config
+[Success][28-11-2014 12:52:26]:Changed config
+[Success][28-11-2014 12:52:28]:Begin reload all config
+[Success][28-11-2014 12:52:28]:Connect to SQL Server
+***[***Fail][28-11-2014 12:52:28]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 12:52:28]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 12:52:28]:Connect to Laura Smart
+***[***Fail][28-11-2014 12:52:28]:Connect toStago Start 4
+***[***Fail][28-11-2014 12:52:28]:Connect toStago Start 4
+[Success][28-11-2014 12:52:28]:End reload all config
+[Success][28-11-2014 12:52:28]:Close form config
+[Success][28-11-2014 12:52:34]:Start program
+[Success][28-11-2014 12:52:34]:Connect to SQL Server
+[Success][28-11-2014 12:52:34]:Connect to Au480
+[Success][28-11-2014 12:52:34]:Connect to Lh500
+[Success][28-11-2014 12:52:58]:Start program
+[Success][28-11-2014 12:52:58]:Connect to SQL Server
+[Success][28-11-2014 12:52:58]:Connect to Au480
+[Success][28-11-2014 12:52:58]:Connect to Lh500
+[Success][28-11-2014 12:53:06]:Start form config
+[Success][28-11-2014 12:53:09]:Changed config
+[Success][28-11-2014 12:53:11]:Begin reload all config
+[Success][28-11-2014 12:53:11]:Connect to SQL Server
+***[***Fail][28-11-2014 12:53:11]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 12:53:11]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 12:53:11]:Connect to Laura Smart
+***[***Fail][28-11-2014 12:53:11]:Connect toStago Start 4
+***[***Fail][28-11-2014 12:53:11]:Connect toStago Start 4
+[Success][28-11-2014 12:53:11]:End reload all config
+[Success][28-11-2014 12:53:11]:Close form config
+[Success][28-11-2014 12:53:16]:Start program
+[Success][28-11-2014 12:53:16]:Connect to SQL Server
+[Success][28-11-2014 12:53:16]:Connect to Au480
+[Success][28-11-2014 12:53:16]:Connect to Lh500
+[Success][28-11-2014 12:53:58]:Start program
+[Success][28-11-2014 12:53:58]:Connect to SQL Server
+[Success][28-11-2014 12:53:58]:Connect to Au480
+[Success][28-11-2014 12:53:58]:Connect to Lh500
+[Success][28-11-2014 01:03:13]:Start program
+[Success][28-11-2014 01:03:14]:Connect to SQL Server
+[Success][28-11-2014 01:03:14]:Connect to Au480
+[Success][28-11-2014 01:03:14]:Connect to Lh500
+[Success][28-11-2014 01:04:43]:Start program
+[Success][28-11-2014 01:04:43]:Connect to SQL Server
+[Success][28-11-2014 01:04:43]:Connect to Au480
+[Success][28-11-2014 01:04:43]:Connect to Lh500
+[Success][28-11-2014 01:04:59]:Start form config
+[Success][28-11-2014 01:05:03]:Changed config
+[Success][28-11-2014 01:05:05]:Begin reload all config
+[Success][28-11-2014 01:05:05]:Connect to SQL Server
+***[***Fail][28-11-2014 01:05:05]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:05:05]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:05:05]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:05:05]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:05:05]:Connect toStago Start 4
+[Success][28-11-2014 01:05:05]:End reload all config
+[Success][28-11-2014 01:05:05]:Close form config
+[Success][28-11-2014 01:05:16]:Start program
+[Success][28-11-2014 01:05:17]:Connect to SQL Server
+[Success][28-11-2014 01:05:17]:Connect to Au480
+[Success][28-11-2014 01:05:17]:Connect to Lh500
+[Success][28-11-2014 01:06:01]:Start program
+[Success][28-11-2014 01:06:02]:Connect to SQL Server
+[Success][28-11-2014 01:06:02]:Connect to Au480
+[Success][28-11-2014 01:06:02]:Connect to Lh500
+[Success][28-11-2014 01:06:14]:Start form config
+[Success][28-11-2014 01:06:19]:Changed config
+[Success][28-11-2014 01:06:21]:Begin reload all config
+[Success][28-11-2014 01:06:21]:Connect to SQL Server
+***[***Fail][28-11-2014 01:06:21]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:06:21]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:06:21]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:06:21]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:06:21]:Connect toStago Start 4
+[Success][28-11-2014 01:06:21]:End reload all config
+[Success][28-11-2014 01:06:21]:Close form config
+[Success][28-11-2014 01:06:45]:Start program
+[Success][28-11-2014 01:06:45]:Connect to SQL Server
+[Success][28-11-2014 01:06:45]:Connect to Au480
+[Success][28-11-2014 01:06:45]:Connect to Lh500
+[Success][28-11-2014 01:07:26]:Start program
+[Success][28-11-2014 01:07:27]:Connect to SQL Server
+[Success][28-11-2014 01:07:27]:Connect to Au480
+[Success][28-11-2014 01:07:27]:Connect to Lh500
+[Success][28-11-2014 01:08:45]:Start program
+[Success][28-11-2014 01:08:46]:Connect to SQL Server
+[Success][28-11-2014 01:08:46]:Connect to Au480
+[Success][28-11-2014 01:08:46]:Connect to Lh500
+[Success][28-11-2014 01:11:06]:Start program
+[Success][28-11-2014 01:11:06]:Connect to SQL Server
+[Success][28-11-2014 01:11:06]:Connect to Au480
+[Success][28-11-2014 01:11:06]:Connect to Lh500
+[Success][28-11-2014 01:13:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:15:54]:Save Reruls Au480 Success
+[Success][28-11-2014 01:16:39]:Save Reruls Au480 Success
+[Success][28-11-2014 01:17:24]:Save Reruls Au480 Success
+[Success][28-11-2014 01:18:10]:Save Reruls Au480 Success
+[Success][28-11-2014 01:18:55]:Save Reruls Au480 Success
+[Success][28-11-2014 01:19:40]:Save Reruls Au480 Success
+[Success][28-11-2014 01:20:25]:Save Reruls Au480 Success
+[Success][28-11-2014 01:48:31]:Start program
+[Success][28-11-2014 01:48:32]:Connect to SQL Server
+[Success][28-11-2014 01:48:32]:Connect to Au480
+[Success][28-11-2014 01:48:32]:Connect to Lh500
+[Success][28-11-2014 01:48:45]:Start program
+[Success][28-11-2014 01:48:46]:Connect to SQL Server
+[Success][28-11-2014 01:48:46]:Connect to Au480
+[Success][28-11-2014 01:48:46]:Connect to Lh500
+[Success][28-11-2014 01:49:27]:Start program
+[Success][28-11-2014 01:49:28]:Connect to SQL Server
+[Success][28-11-2014 01:49:28]:Connect to Au480
+[Success][28-11-2014 01:49:28]:Connect to Lh500
+[Success][28-11-2014 01:49:35]:Start form config
+[Success][28-11-2014 01:49:38]:Changed config
+[Success][28-11-2014 01:49:39]:Begin reload all config
+[Success][28-11-2014 01:49:39]:Connect to SQL Server
+***[***Fail][28-11-2014 01:49:39]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:49:39]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:49:39]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:49:39]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:49:39]:Connect toStago Start 4
+[Success][28-11-2014 01:49:39]:End reload all config
+[Success][28-11-2014 01:49:39]:Close form config
+[Success][28-11-2014 01:49:46]:Start program
+[Success][28-11-2014 01:49:47]:Connect to SQL Server
+[Success][28-11-2014 01:49:47]:Connect to Au480
+[Success][28-11-2014 01:49:47]:Connect to Lh500
+[Success][28-11-2014 01:51:09]:Start program
+[Success][28-11-2014 01:51:09]:Connect to SQL Server
+[Success][28-11-2014 01:51:09]:Connect to Au480
+[Success][28-11-2014 01:51:09]:Connect to Lh500
+[Success][28-11-2014 01:51:16]:Start form config
+[Success][28-11-2014 01:51:19]:Changed config
+[Success][28-11-2014 01:51:21]:Begin reload all config
+[Success][28-11-2014 01:51:21]:Connect to SQL Server
+***[***Fail][28-11-2014 01:51:21]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:51:21]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:51:21]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:51:21]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:51:21]:Connect toStago Start 4
+[Success][28-11-2014 01:51:21]:End reload all config
+[Success][28-11-2014 01:51:21]:Close form config
+[Success][28-11-2014 01:51:28]:Start program
+[Success][28-11-2014 01:51:29]:Connect to SQL Server
+[Success][28-11-2014 01:51:29]:Connect to Au480
+[Success][28-11-2014 01:51:29]:Connect to Lh500
+[Success][28-11-2014 01:51:50]:Start program
+[Success][28-11-2014 01:51:50]:Connect to SQL Server
+[Success][28-11-2014 01:51:50]:Connect to Au480
+[Success][28-11-2014 01:51:50]:Connect to Lh500
+[Success][28-11-2014 01:51:57]:Start form config
+[Success][28-11-2014 01:52:03]:Changed config
+[Success][28-11-2014 01:52:05]:Begin reload all config
+[Success][28-11-2014 01:52:05]:Connect to SQL Server
+***[***Fail][28-11-2014 01:52:05]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:52:05]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:52:05]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:52:05]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:52:05]:Connect toStago Start 4
+[Success][28-11-2014 01:52:05]:End reload all config
+[Success][28-11-2014 01:52:05]:Close form config
+[Success][28-11-2014 01:53:40]:Start program
+[Success][28-11-2014 01:53:41]:Connect to SQL Server
+[Success][28-11-2014 01:53:41]:Connect to Au480
+***[***Fail][28-11-2014 01:53:41]:Connect to Lh500
+[Success][28-11-2014 01:53:46]:Start form config
+[Success][28-11-2014 01:53:51]:Changed config
+[Success][28-11-2014 01:53:52]:Begin reload all config
+[Success][28-11-2014 01:53:52]:Connect to SQL Server
+***[***Fail][28-11-2014 01:53:52]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:53:52]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:53:52]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:53:52]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:53:52]:Connect toStago Start 4
+[Success][28-11-2014 01:53:52]:End reload all config
+[Success][28-11-2014 01:53:52]:Close form config
+[Success][28-11-2014 01:53:58]:Start program
+[Success][28-11-2014 01:53:58]:Connect to SQL Server
+[Success][28-11-2014 01:53:58]:Connect to Au480
+***[***Fail][28-11-2014 01:53:58]:Connect to Lh500
+[Success][28-11-2014 01:54:03]:Start form config
+[Success][28-11-2014 01:54:10]:Changed config
+[Success][28-11-2014 01:54:11]:Begin reload all config
+[Success][28-11-2014 01:54:11]:Connect to SQL Server
+***[***Fail][28-11-2014 01:54:11]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:54:11]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:54:11]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:54:11]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:54:11]:Connect toStago Start 4
+[Success][28-11-2014 01:54:11]:End reload all config
+[Success][28-11-2014 01:54:11]:Close form config
+[Success][28-11-2014 01:54:16]:Start program
+[Success][28-11-2014 01:54:17]:Connect to SQL Server
+[Success][28-11-2014 01:54:17]:Connect to Au480
+[Success][28-11-2014 01:54:17]:Connect to Lh500
+[Success][28-11-2014 01:54:26]:Start program
+[Success][28-11-2014 01:54:27]:Connect to SQL Server
+[Success][28-11-2014 01:54:27]:Connect to Au480
+[Success][28-11-2014 01:54:27]:Connect to Lh500
+[Success][28-11-2014 01:55:20]:Start program
+[Success][28-11-2014 01:55:20]:Connect to SQL Server
+[Success][28-11-2014 01:55:20]:Connect to Au480
+[Success][28-11-2014 01:55:20]:Connect to Lh500
+[Success][28-11-2014 01:57:16]:Start program
+[Success][28-11-2014 01:57:16]:Connect to SQL Server
+[Success][28-11-2014 01:57:16]:Connect to Au480
+[Success][28-11-2014 01:57:16]:Connect to Lh500
+[Success][28-11-2014 01:57:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:57:48]:Start form config
+[Success][28-11-2014 01:57:55]:Changed config
+[Success][28-11-2014 01:57:57]:Begin reload all config
+[Success][28-11-2014 01:57:57]:Connect to SQL Server
+***[***Fail][28-11-2014 01:57:57]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 01:57:57]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 01:57:57]:Connect to Laura Smart
+***[***Fail][28-11-2014 01:57:57]:Connect toStago Start 4
+***[***Fail][28-11-2014 01:57:57]:Connect toStago Start 4
+[Success][28-11-2014 01:57:57]:End reload all config
+[Success][28-11-2014 01:57:57]:Close form config
+[Success][28-11-2014 01:58:26]:Save Reruls Au480 Success
+[Success][28-11-2014 01:59:13]:Start program
+[Success][28-11-2014 01:59:13]:Connect to SQL Server
+[Success][28-11-2014 01:59:13]:Connect to Au480
+[Success][28-11-2014 01:59:13]:Connect to Lh500
+[Success][28-11-2014 01:59:20]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:20]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:21]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:21]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:22]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:22]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:23]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:24]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:24]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:25]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:26]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:26]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:27]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:28]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:28]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:30]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:30]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:31]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:32]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:32]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:33]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:34]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:34]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:35]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:36]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:36]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:37]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:39]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:39]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:41]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:41]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:42]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:43]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:43]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:45]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:45]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:46]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:47]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:47]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:48]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:49]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:49]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:50]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:51]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:51]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:52]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:52]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:52]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:53]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:54]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:54]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:55]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:56]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:56]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:57]:Save Reruls Au480 Success
+[Success][28-11-2014 01:59:57]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:58]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 01:59:58]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 01:59:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:01]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:02]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:02]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:03]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:04]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:04]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:05]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:05]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:05]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:07]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:08]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:08]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:08]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:09]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:09]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:10]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:11]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:11]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:12]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:13]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:13]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:14]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:15]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:15]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:16]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:17]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:17]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:18]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:19]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:19]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:20]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:21]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:21]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:21]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:22]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:22]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:23]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:24]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:24]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:25]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:26]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:26]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:27]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:28]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:28]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:30]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:30]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:31]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:32]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:32]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:33]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:33]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:33]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:34]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:35]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:39]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:39]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:40]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:41]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:41]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:42]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:42]:Save Reruls Au480 Success
+[Success][28-11-2014 02:00:43]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:43]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:45]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:45]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:45]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:46]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:46]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:47]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:48]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:48]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:50]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:50]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:51]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:52]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:52]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:53]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:54]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:54]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:55]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:56]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:56]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:57]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:57]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:57]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:58]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:00:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:00:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:01]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:01]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:02]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:03]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:03]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:04]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:05]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:05]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:06]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:07]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:07]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:08]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:09]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:09]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:10]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:10]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:10]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:11]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:12]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:13]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:14]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:14]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:15]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:16]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:16]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:17]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:18]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:18]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:19]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:20]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:20]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:21]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:21]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:22]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:22]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:23]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:23]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:25]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:25]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:26]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:27]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:27]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:27]:Save Reruls Au480 Success
+[Success][28-11-2014 02:01:28]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:29]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:29]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:30]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:31]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:31]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:32]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:33]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:33]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:34]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:34]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:35]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:36]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:36]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:37]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:38]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:38]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:39]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:40]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:40]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:41]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:42]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:42]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:43]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:44]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:44]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:45]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:46]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:46]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:47]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:47]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:47]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:48]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:49]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:49]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:50]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:51]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:51]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:52]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:53]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:53]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:54]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:55]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:55]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:56]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:57]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:57]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:58]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:01:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:01:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:01]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:02]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:02]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:03]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:04]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:04]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:05]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:06]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:06]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:07]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:08]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:08]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:09]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:10]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:10]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:11]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:11]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:12]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:13]:Save Reruls Au480 Success
+[Success][28-11-2014 02:02:13]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:13]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:14]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:15]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:15]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:16]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:17]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:17]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:18]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:19]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:19]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:20]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:21]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:21]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:22]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:23]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:23]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:24]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:24]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:25]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:26]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:26]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:27]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:28]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:28]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:30]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:30]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:31]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:32]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:32]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:33]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:34]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:34]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:35]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:36]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:36]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:37]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:37]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:38]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:39]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:02:39]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:02:58]:Save Reruls Au480 Success
+[Success][28-11-2014 02:03:43]:Save Reruls Au480 Success
+[Success][28-11-2014 02:06:40]:Start program
+[Success][28-11-2014 02:06:41]:Connect to SQL Server
+[Success][28-11-2014 02:06:41]:Connect to Au480
+[Success][28-11-2014 02:06:41]:Connect to Lh500
+[Success][28-11-2014 02:06:48]:Start form config
+[Success][28-11-2014 02:06:51]:Changed config
+[Success][28-11-2014 02:06:53]:Begin reload all config
+[Success][28-11-2014 02:06:53]:Connect to SQL Server
+***[***Fail][28-11-2014 02:06:53]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 02:06:53]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 02:06:53]:Connect to Laura Smart
+***[***Fail][28-11-2014 02:06:53]:Connect toStago Start 4
+***[***Fail][28-11-2014 02:06:53]:Connect toStago Start 4
+[Success][28-11-2014 02:06:53]:End reload all config
+[Success][28-11-2014 02:06:53]:Close form config
+[Success][28-11-2014 02:07:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:09:00]:Save Reruls Au480 Success
+[Success][28-11-2014 02:12:47]:Save Reruls Au480 Success
+[Success][28-11-2014 02:14:39]:Start program
+[Success][28-11-2014 02:14:39]:Connect to SQL Server
+[Success][28-11-2014 02:14:39]:Connect to Au480
+[Success][28-11-2014 02:14:39]:Connect to Lh500
+[Success][28-11-2014 02:15:00]:Start program
+[Success][28-11-2014 02:15:01]:Connect to SQL Server
+[Success][28-11-2014 02:15:01]:Connect to Au480
+[Success][28-11-2014 02:15:01]:Connect to Lh500
+[Success][28-11-2014 02:15:10]:Start program
+[Success][28-11-2014 02:15:11]:Connect to SQL Server
+[Success][28-11-2014 02:15:11]:Connect to Au480
+[Success][28-11-2014 02:15:11]:Connect to Lh500
+[Success][28-11-2014 02:15:11]:Save Reruls Au480 Success
+[Success][28-11-2014 02:17:06]:Start program
+[Success][28-11-2014 02:17:06]:Connect to SQL Server
+[Success][28-11-2014 02:17:06]:Connect to Au480
+[Success][28-11-2014 02:17:06]:Connect to Lh500
+[Success][28-11-2014 02:17:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:17:36]:Save Reruls Au480 Success
+[Success][28-11-2014 02:18:21]:Save Reruls Au480 Success
+[Success][28-11-2014 02:19:07]:Save Reruls Au480 Success
+[Success][28-11-2014 02:19:19]:Start program
+[Success][28-11-2014 02:19:19]:Connect to SQL Server
+[Success][28-11-2014 02:19:19]:Connect to Au480
+[Success][28-11-2014 02:19:19]:Connect to Lh500
+[Success][28-11-2014 02:19:52]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:19:52]:Save Reruls Au480 Success
+[Success][28-11-2014 02:21:04]:Save Reruls Au480 Success
+[Success][28-11-2014 02:21:40]:Start program
+[Success][28-11-2014 02:21:40]:Connect to SQL Server
+[Success][28-11-2014 02:21:40]:Connect to Au480
+[Success][28-11-2014 02:21:40]:Connect to Lh500
+[Success][28-11-2014 02:21:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:21:49]:Save Reruls Au480 Success
+[Success][28-11-2014 02:24:23]:Start program
+[Success][28-11-2014 02:24:23]:Connect to SQL Server
+[Success][28-11-2014 02:24:23]:Connect to Au480
+[Success][28-11-2014 02:24:23]:Connect to Lh500
+[Success][28-11-2014 02:24:33]:Start program
+[Success][28-11-2014 02:24:34]:Connect to SQL Server
+[Success][28-11-2014 02:24:34]:Connect to Au480
+[Success][28-11-2014 02:24:34]:Connect to Lh500
+[Success][28-11-2014 02:24:42]:Start program
+[Success][28-11-2014 02:24:43]:Connect to SQL Server
+[Success][28-11-2014 02:24:43]:Connect to Au480
+[Success][28-11-2014 02:24:43]:Connect to Lh500
+[Success][28-11-2014 02:24:44]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:45]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:45]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:46]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:47]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:47]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:48]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:48]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:48]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:50]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:50]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:51]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:52]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:52]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:53]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:54]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:54]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:55]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:56]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:56]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:57]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:58]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:24:58]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:24:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:01]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:01]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:02]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:03]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:03]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:04]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:05]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:05]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:06]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:07]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:07]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:08]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:09]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:09]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:10]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:11]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:11]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:12]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:12]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:13]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:14]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:14]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:15]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:16]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:16]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:17]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:18]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:18]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:19]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:20]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:20]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:21]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:22]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:22]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:23]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:24]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:24]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:25]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:25]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:26]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:27]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:27]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:28]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:29]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:29]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:30]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:31]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:31]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:32]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:33]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:33]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:34]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:35]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:35]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:36]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:36]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:36]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:37]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:38]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:38]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:39]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:40]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:40]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:41]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:42]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:42]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:43]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:44]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:44]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:45]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:46]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:46]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:47]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:48]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:48]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:49]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:49]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:49]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:50]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:51]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:51]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:52]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:53]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:53]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:54]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:55]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:55]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:56]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:57]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:57]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:58]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:25:59]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:25:59]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:00]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:01]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:02]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:02]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:03]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:04]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:04]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:05]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:06]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:06]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:07]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:08]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:08]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:09]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:10]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:10]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:11]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:12]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:13]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:13]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:13]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:14]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:15]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:15]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:16]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:17]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:17]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:18]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:19]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:19]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:20]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:21]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:21]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:22]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:23]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:23]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:25]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:25]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:25]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:26]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:26]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:27]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:28]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:28]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:29]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:30]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:30]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:31]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:26:32]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 02:26:32]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 02:31:12]:Start program
+[Success][28-11-2014 02:31:13]:Connect to SQL Server
+[Success][28-11-2014 02:31:13]:Connect to Au480
+[Success][28-11-2014 02:31:13]:Connect to Lh500
+[Success][28-11-2014 02:31:20]:Start program
+[Success][28-11-2014 02:31:21]:Connect to SQL Server
+[Success][28-11-2014 02:31:21]:Connect to Au480
+[Success][28-11-2014 02:31:21]:Connect to Lh500
+[Success][28-11-2014 02:31:29]:Start program
+[Success][28-11-2014 02:31:30]:Connect to SQL Server
+[Success][28-11-2014 02:31:30]:Connect to Au480
+[Success][28-11-2014 02:31:30]:Connect to Lh500
+[Success][28-11-2014 02:36:09]:Save Reruls Au480 Success
+[Success][28-11-2014 02:37:13]:Save Reruls Au480 Success
+[Success][28-11-2014 02:37:15]:Save Reruls Au480 Success
+[Success][28-11-2014 02:41:13]:Save Reruls Au480 Success
+[Success][28-11-2014 02:42:05]:Save Reruls Au480 Success
+[Success][28-11-2014 02:44:30]:Save Reruls Au480 Success
+[Success][28-11-2014 02:47:54]:Save Reruls Au480 Success
+[Success][28-11-2014 02:48:13]:Save Reruls Au480 Success
+[Success][28-11-2014 02:48:39]:Save Reruls Au480 Success
+[Success][28-11-2014 02:49:10]:Save Reruls Au480 Success
+[Success][28-11-2014 02:49:40]:Save Reruls Au480 Success
+[Success][28-11-2014 02:50:14]:Save Reruls Au480 Success
+[Success][28-11-2014 02:51:20]:Save Reruls Au480 Success
+[Success][28-11-2014 02:51:23]:Save Reruls Au480 Success
+[Success][28-11-2014 02:56:58]:Save Reruls Au480 Success
+[Success][28-11-2014 03:01:34]:Save Reruls Au480 Success
+[Success][28-11-2014 03:01:36]:Save Reruls Au480 Success
+[Success][28-11-2014 03:04:25]:Save Reruls Au480 Success
+[Success][28-11-2014 03:04:27]:Save Reruls Au480 Success
+[Success][28-11-2014 03:09:02]:Save Reruls Au480 Success
+[Success][28-11-2014 03:09:40]:Save Reruls Au480 Success
+[Success][28-11-2014 03:12:32]:Save Reruls Au480 Success
+[Success][28-11-2014 03:13:55]:Save Reruls Au480 Success
+[Success][28-11-2014 03:14:29]:Save Reruls Au480 Success
+[Success][28-11-2014 03:14:31]:Save Reruls Au480 Success
+[Success][28-11-2014 03:27:12]:Save Reruls Au480 Success
+[Success][28-11-2014 03:29:27]:Start program
+[Success][28-11-2014 03:29:28]:Connect to SQL Server
+[Success][28-11-2014 03:29:28]:Connect to Au480
+[Success][28-11-2014 03:29:28]:Connect to Lh500
+[Success][28-11-2014 03:29:46]:Start program
+[Success][28-11-2014 03:29:47]:Connect to SQL Server
+[Success][28-11-2014 03:29:47]:Connect to Au480
+[Success][28-11-2014 03:29:47]:Connect to Lh500
+[Success][28-11-2014 03:29:56]:Start form config
+[Success][28-11-2014 03:30:02]:Changed config
+[Success][28-11-2014 03:30:04]:Begin reload all config
+[Success][28-11-2014 03:30:04]:Connect to SQL Server
+***[***Fail][28-11-2014 03:30:04]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:30:04]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:30:04]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:30:04]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:30:04]:Connect toStago Start 4
+[Success][28-11-2014 03:30:04]:End reload all config
+[Success][28-11-2014 03:30:04]:Close form config
+[Success][28-11-2014 03:30:11]:Start program
+[Success][28-11-2014 03:30:11]:Connect to SQL Server
+[Success][28-11-2014 03:30:11]:Connect to Au480
+[Success][28-11-2014 03:30:11]:Connect to Lh500
+[Success][28-11-2014 03:33:16]:Start program
+[Success][28-11-2014 03:33:17]:Connect to SQL Server
+[Success][28-11-2014 03:33:17]:Connect to Au480
+[Success][28-11-2014 03:33:17]:Connect to Lh500
+[Success][28-11-2014 03:33:41]:Start program
+[Success][28-11-2014 03:33:42]:Connect to SQL Server
+[Success][28-11-2014 03:33:42]:Connect to Au480
+[Success][28-11-2014 03:33:42]:Connect to Lh500
+[Success][28-11-2014 03:33:48]:Start program
+[Success][28-11-2014 03:33:49]:Connect to SQL Server
+[Success][28-11-2014 03:33:49]:Connect to Au480
+[Success][28-11-2014 03:33:49]:Connect to Lh500
+[Success][28-11-2014 03:33:55]:Start program
+[Success][28-11-2014 03:33:55]:Connect to SQL Server
+[Success][28-11-2014 03:33:55]:Connect to Au480
+[Success][28-11-2014 03:33:55]:Connect to Lh500
+[Success][28-11-2014 03:34:19]:Start program
+[Success][28-11-2014 03:34:20]:Connect to SQL Server
+[Success][28-11-2014 03:34:20]:Connect to Au480
+[Success][28-11-2014 03:34:20]:Connect to Lh500
+[Success][28-11-2014 03:34:27]:Start program
+[Success][28-11-2014 03:34:28]:Connect to SQL Server
+[Success][28-11-2014 03:34:28]:Connect to Au480
+[Success][28-11-2014 03:34:28]:Connect to Lh500
+[Success][28-11-2014 03:34:34]:Start form config
+[Success][28-11-2014 03:34:41]:Changed config
+[Success][28-11-2014 03:34:42]:Begin reload all config
+[Success][28-11-2014 03:34:43]:Connect to SQL Server
+***[***Fail][28-11-2014 03:34:43]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:34:43]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:34:43]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:34:43]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:34:43]:Connect toStago Start 4
+[Success][28-11-2014 03:34:43]:End reload all config
+[Success][28-11-2014 03:34:43]:Close form config
+[Success][28-11-2014 03:34:50]:Start program
+[Success][28-11-2014 03:34:50]:Connect to SQL Server
+[Success][28-11-2014 03:34:50]:Connect to Au480
+[Success][28-11-2014 03:34:50]:Connect to Lh500
+[Success][28-11-2014 03:37:04]:Start program
+[Success][28-11-2014 03:37:05]:Connect to SQL Server
+[Success][28-11-2014 03:37:05]:Connect to Au480
+[Success][28-11-2014 03:37:05]:Connect to Lh500
+[Success][28-11-2014 03:37:11]:Start program
+[Success][28-11-2014 03:37:11]:Connect to SQL Server
+[Success][28-11-2014 03:37:11]:Connect to Au480
+[Success][28-11-2014 03:37:11]:Connect to Lh500
+***[***Fail][28-11-2014 03:37:12]:Save Huyet Hoc LH500 Error: L
+PLT 186 
+MPV 8.7 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 2.3 
+MO# 0.7 
+NE# 2.7 
+EO# 0.4 
+BA# 0.0 
+G04
+05
+LY% 37.1 
+MO% 12.2 H
+NE% 44.1 
+EO% 5.9 
+BA% 55ED030.7 
+
+
+--------------
+                                                                                                                                                                                                                                      47E4
+[Success][28-11-2014 03:37:12]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:13]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:14]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:37:14]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:15]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:16]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:37:16]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:17]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:17]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:37:17]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:18]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:19]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:37:19]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:20]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:21]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:37:21]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:22]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:37:23]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:37:23]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:40:36]:Start program
+[Success][28-11-2014 03:40:37]:Connect to SQL Server
+[Success][28-11-2014 03:40:37]:Connect to Au480
+[Success][28-11-2014 03:40:37]:Connect to Lh500
+[Success][28-11-2014 03:40:42]:Start program
+[Success][28-11-2014 03:40:43]:Connect to SQL Server
+[Success][28-11-2014 03:40:43]:Connect to Au480
+[Success][28-11-2014 03:40:43]:Connect to Lh500
+[Success][28-11-2014 03:40:50]:Start form config
+[Success][28-11-2014 03:40:53]:Changed config
+[Success][28-11-2014 03:40:54]:Begin reload all config
+[Success][28-11-2014 03:40:54]:Connect to SQL Server
+***[***Fail][28-11-2014 03:40:54]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:40:54]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:40:54]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:40:54]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:40:54]:Connect toStago Start 4
+[Success][28-11-2014 03:40:54]:End reload all config
+[Success][28-11-2014 03:40:54]:Close form config
+[Success][28-11-2014 03:40:59]:Start program
+[Success][28-11-2014 03:40:59]:Connect to SQL Server
+[Success][28-11-2014 03:40:59]:Connect to Au480
+[Success][28-11-2014 03:40:59]:Connect to Lh500
+[Success][28-11-2014 03:41:07]:Start program
+[Success][28-11-2014 03:41:07]:Connect to SQL Server
+[Success][28-11-2014 03:41:07]:Connect to Au480
+[Success][28-11-2014 03:41:07]:Connect to Lh500
+[Success][28-11-2014 03:41:15]:Start program
+[Success][28-11-2014 03:41:15]:Connect to SQL Server
+[Success][28-11-2014 03:41:15]:Connect to Au480
+[Success][28-11-2014 03:41:15]:Connect to Lh500
+[Success][28-11-2014 03:41:44]:Start program
+[Success][28-11-2014 03:41:45]:Connect to SQL Server
+[Success][28-11-2014 03:41:45]:Connect to Au480
+[Success][28-11-2014 03:41:45]:Connect to Lh500
+[Success][28-11-2014 03:41:52]:Start program
+[Success][28-11-2014 03:41:53]:Connect to SQL Server
+[Success][28-11-2014 03:41:53]:Connect to Au480
+[Success][28-11-2014 03:41:53]:Connect to Lh500
+[Success][28-11-2014 03:42:01]:Start form config
+[Success][28-11-2014 03:42:04]:Changed config
+[Success][28-11-2014 03:42:05]:Begin reload all config
+[Success][28-11-2014 03:42:05]:Connect to SQL Server
+***[***Fail][28-11-2014 03:42:05]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:42:05]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:42:05]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:42:05]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:42:05]:Connect toStago Start 4
+[Success][28-11-2014 03:42:05]:End reload all config
+[Success][28-11-2014 03:42:05]:Close form config
+[Success][28-11-2014 03:42:12]:Start program
+[Success][28-11-2014 03:42:12]:Connect to SQL Server
+[Success][28-11-2014 03:42:12]:Connect to Au480
+[Success][28-11-2014 03:42:12]:Connect to Lh500
+[Success][28-11-2014 03:44:12]:Start program
+[Success][28-11-2014 03:44:12]:Connect to SQL Server
+[Success][28-11-2014 03:44:12]:Connect to Au480
+[Success][28-11-2014 03:44:12]:Connect to Lh500
+[Success][28-11-2014 03:44:19]:Start program
+[Success][28-11-2014 03:44:19]:Connect to SQL Server
+[Success][28-11-2014 03:44:19]:Connect to Au480
+[Success][28-11-2014 03:44:19]:Connect to Lh500
+[Success][28-11-2014 03:44:35]:Start program
+[Success][28-11-2014 03:44:36]:Connect to SQL Server
+[Success][28-11-2014 03:44:36]:Connect to Au480
+[Success][28-11-2014 03:44:36]:Connect to Lh500
+[Success][28-11-2014 03:45:53]:Start program
+[Success][28-11-2014 03:45:53]:Connect to SQL Server
+[Success][28-11-2014 03:45:53]:Connect to Au480
+[Success][28-11-2014 03:45:53]:Connect to Lh500
+[Success][28-11-2014 03:45:59]:Start program
+[Success][28-11-2014 03:46:00]:Connect to SQL Server
+[Success][28-11-2014 03:46:00]:Connect to Au480
+[Success][28-11-2014 03:46:00]:Connect to Lh500
+[Success][28-11-2014 03:46:14]:Start form config
+[Success][28-11-2014 03:46:15]:Changed config
+[Success][28-11-2014 03:46:17]:Begin reload all config
+[Success][28-11-2014 03:46:17]:Connect to SQL Server
+***[***Fail][28-11-2014 03:46:17]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:46:17]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:46:17]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:46:17]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:46:17]:Connect toStago Start 4
+[Success][28-11-2014 03:46:17]:End reload all config
+[Success][28-11-2014 03:46:17]:Close form config
+[Success][28-11-2014 03:46:23]:Start program
+[Success][28-11-2014 03:46:23]:Connect to SQL Server
+[Success][28-11-2014 03:46:23]:Connect to Au480
+[Success][28-11-2014 03:46:23]:Connect to Lh500
+[Success][28-11-2014 03:46:30]:Start program
+[Success][28-11-2014 03:46:30]:Connect to SQL Server
+[Success][28-11-2014 03:46:30]:Connect to Au480
+[Success][28-11-2014 03:46:30]:Connect to Lh500
+[Success][28-11-2014 03:46:38]:Start program
+[Success][28-11-2014 03:46:39]:Connect to SQL Server
+[Success][28-11-2014 03:46:39]:Connect to Au480
+[Success][28-11-2014 03:46:39]:Connect to Lh500
+[Success][28-11-2014 03:46:46]:Start program
+[Success][28-11-2014 03:46:47]:Connect to SQL Server
+[Success][28-11-2014 03:46:47]:Connect to Au480
+[Success][28-11-2014 03:46:47]:Connect to Lh500
+[Success][28-11-2014 03:46:56]:Start program
+[Success][28-11-2014 03:46:57]:Connect to SQL Server
+[Success][28-11-2014 03:46:57]:Connect to Au480
+[Success][28-11-2014 03:46:57]:Connect to Lh500
+[Success][28-11-2014 03:47:01]:Start form config
+[Success][28-11-2014 03:47:06]:Changed config
+[Success][28-11-2014 03:47:08]:Begin reload all config
+[Success][28-11-2014 03:47:08]:Connect to SQL Server
+***[***Fail][28-11-2014 03:47:08]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:47:08]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:47:08]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:47:08]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:47:08]:Connect toStago Start 4
+[Success][28-11-2014 03:47:08]:End reload all config
+[Success][28-11-2014 03:47:08]:Close form config
+[Success][28-11-2014 03:47:15]:Start program
+[Success][28-11-2014 03:47:15]:Connect to SQL Server
+[Success][28-11-2014 03:47:15]:Connect to Au480
+[Success][28-11-2014 03:47:15]:Connect to Lh500
+[Success][28-11-2014 03:47:27]:Start program
+[Success][28-11-2014 03:47:27]:Connect to SQL Server
+[Success][28-11-2014 03:47:27]:Connect to Au480
+[Success][28-11-2014 03:47:27]:Connect to Lh500
+[Success][28-11-2014 03:47:38]:Start program
+[Success][28-11-2014 03:47:39]:Connect to SQL Server
+[Success][28-11-2014 03:47:39]:Connect to Au480
+[Success][28-11-2014 03:47:39]:Connect to Lh500
+[Success][28-11-2014 03:47:46]:Start program
+[Success][28-11-2014 03:47:47]:Connect to SQL Server
+[Success][28-11-2014 03:47:47]:Connect to Au480
+[Success][28-11-2014 03:47:47]:Connect to Lh500
+[Success][28-11-2014 03:47:53]:Start form config
+[Success][28-11-2014 03:47:57]:Changed config
+[Success][28-11-2014 03:47:58]:Begin reload all config
+[Success][28-11-2014 03:47:58]:Connect to SQL Server
+***[***Fail][28-11-2014 03:47:58]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:47:58]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:47:58]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:47:58]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:47:58]:Connect toStago Start 4
+[Success][28-11-2014 03:47:59]:End reload all config
+[Success][28-11-2014 03:47:59]:Close form config
+[Success][28-11-2014 03:48:05]:Start program
+[Success][28-11-2014 03:48:05]:Connect to SQL Server
+[Success][28-11-2014 03:48:05]:Connect to Au480
+[Success][28-11-2014 03:48:05]:Connect to Lh500
+[Success][28-11-2014 03:48:16]:Start program
+[Success][28-11-2014 03:48:16]:Connect to SQL Server
+[Success][28-11-2014 03:48:16]:Connect to Au480
+[Success][28-11-2014 03:48:17]:Connect to Lh500
+[Success][28-11-2014 03:48:33]:Start program
+[Success][28-11-2014 03:48:34]:Connect to SQL Server
+[Success][28-11-2014 03:48:34]:Connect to Au480
+[Success][28-11-2014 03:48:34]:Connect to Lh500
+[Success][28-11-2014 03:48:41]:Start program
+[Success][28-11-2014 03:48:46]:Connect to SQL Server
+[Success][28-11-2014 03:48:46]:Connect to Au480
+[Success][28-11-2014 03:48:46]:Connect to Lh500
+[Success][28-11-2014 03:48:54]:Start program
+[Success][28-11-2014 03:48:54]:Connect to SQL Server
+[Success][28-11-2014 03:48:54]:Connect to Au480
+[Success][28-11-2014 03:48:54]:Connect to Lh500
+[Success][28-11-2014 03:48:55]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:48:56]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:48:56]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:48:57]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:48:58]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:48:58]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:48:59]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:49:00]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:49:00]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:49:01]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:49:02]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:49:02]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:49:02]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:49:03]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:49:03]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:49:04]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:49:05]:Save Huyet Hoc LH500 Success
+[Success][28-11-2014 03:49:05]:End recieved from Cell-Dyn 1800 
+[Success][28-11-2014 03:53:50]:Start program
+[Success][28-11-2014 03:53:51]:Connect to SQL Server
+[Success][28-11-2014 03:53:51]:Connect to Au480
+[Success][28-11-2014 03:53:51]:Connect to Lh500
+[Success][28-11-2014 03:54:00]:Start program
+[Success][28-11-2014 03:54:00]:Connect to SQL Server
+[Success][28-11-2014 03:54:00]:Connect to Au480
+[Success][28-11-2014 03:54:00]:Connect to Lh500
+[Success][28-11-2014 03:54:10]:Start program
+[Success][28-11-2014 03:54:11]:Connect to SQL Server
+[Success][28-11-2014 03:54:11]:Connect to Au480
+[Success][28-11-2014 03:54:11]:Connect to Lh500
+[Success][28-11-2014 03:54:18]:Start program
+[Success][28-11-2014 03:54:18]:Connect to SQL Server
+[Success][28-11-2014 03:54:18]:Connect to Au480
+[Success][28-11-2014 03:54:18]:Connect to Lh500
+[Success][28-11-2014 03:54:31]:Start program
+[Success][28-11-2014 03:54:32]:Connect to SQL Server
+[Success][28-11-2014 03:54:32]:Connect to Au480
+[Success][28-11-2014 03:54:32]:Connect to Lh500
+[Success][28-11-2014 03:54:39]:Start form config
+[Success][28-11-2014 03:54:42]:Changed config
+[Success][28-11-2014 03:54:44]:Begin reload all config
+[Success][28-11-2014 03:54:44]:Connect to SQL Server
+***[***Fail][28-11-2014 03:54:44]:Connect to Cell-Dyn 1800
+***[***Fail][28-11-2014 03:54:44]:Connect to ERBA LX 200
+***[***Fail][28-11-2014 03:54:44]:Connect to Laura Smart
+***[***Fail][28-11-2014 03:54:44]:Connect toStago Start 4
+***[***Fail][28-11-2014 03:54:44]:Connect toStago Start 4
+[Success][28-11-2014 03:54:44]:End reload all config
+[Success][28-11-2014 03:54:44]:Close form config
+[Success][28-11-2014 03:54:48]:Start program
+[Success][28-11-2014 03:54:48]:Connect to SQL Server
+[Success][28-11-2014 03:54:48]:Connect to Au480
+[Success][28-11-2014 03:54:48]:Connect to Lh500
+[Success][28-11-2014 05:02:39]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 05:03:24]:Begin recieved from Cell-Dyn 1800 
+[Success][28-11-2014 05:04:19]:Save Reruls Au480 Success

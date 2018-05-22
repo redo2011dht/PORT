@@ -1,0 +1,138 @@
+[Success][09-04-2013 06:41:55]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 06:41:55]:Save SpecimenID: 130408-003; Patient: DIEP; Sequence: 3691
+[Success][09-04-2013 06:41:55]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 06:43:07]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 06:43:08]:Save SpecimenID: 130408-004; Patient: NHAN; Sequence: 3692
+[Success][09-04-2013 06:43:08]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:01:22]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:01:22]:Save SpecimenID: 130409-001; Patient: UT; Sequence: 3693
+[Success][09-04-2013 07:01:22]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:05:28]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:05:29]:Save SpecimenID: 130409-002; Patient: CHIN; Sequence: 3694
+[Success][09-04-2013 07:05:29]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:07:07]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:07:08]:Save SpecimenID: 130409-004; Patient: CUOC; Sequence: 3695
+[Success][09-04-2013 07:07:08]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:08:22]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:08:22]:Save SpecimenID: 130409-005; Patient: LAM; Sequence: 3696
+[Success][09-04-2013 07:08:22]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:10:21]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:10:22]:Save SpecimenID: 130409-007; Patient: SOC; Sequence: 3697
+[Success][09-04-2013 07:10:22]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:12:37]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:12:38]:Save SpecimenID: 130409-008; Patient: NHAN; Sequence: 3698
+[Success][09-04-2013 07:12:38]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:16:51]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:16:51]:Save SpecimenID: 130409-009; Patient: LY; Sequence: 3699
+[Success][09-04-2013 07:16:51]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:18:17]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:18:18]:Save SpecimenID: 130409-010; Patient: LOAN; Sequence: 3700
+[Success][09-04-2013 07:18:18]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:19:36]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:19:37]:Save SpecimenID: 130409-012; Patient: CHEA; Sequence: 3701
+[Success][09-04-2013 07:19:37]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:25:16]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:25:16]:Save SpecimenID: 130409-013; Patient: NGA; Sequence: 3702
+[Success][09-04-2013 07:25:16]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:28:24]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:28:24]:Save SpecimenID: 130409-014; Patient: HENG; Sequence: 3703
+[Success][09-04-2013 07:28:24]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:29:36]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:29:36]:Save SpecimenID: 130409-015; Patient: HUE; Sequence: 3704
+[Success][09-04-2013 07:29:36]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:33:24]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:33:25]:Save SpecimenID: 130409-018; Patient: TU; Sequence: 3705
+[Success][09-04-2013 07:33:25]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:34:40]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:34:41]:Save SpecimenID: 130409-019; Patient: TAI; Sequence: 3706
+[Success][09-04-2013 07:34:41]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:35:54]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:35:54]:Save SpecimenID: 130409-020; Patient: LIEN; Sequence: 3707
+[Success][09-04-2013 07:35:54]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:40:24]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:40:25]:Save SpecimenID: 130409-022; Patient: RONG; Sequence: 3708
+[Success][09-04-2013 07:40:25]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:43:03]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:43:03]:Save SpecimenID: 130409-028; Patient: QUY; Sequence: 3709
+[Success][09-04-2013 07:43:03]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:44:39]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:44:40]:Save SpecimenID: 130409-024; Patient: NAVY; Sequence: 3710
+[Success][09-04-2013 07:44:40]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:49:45]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:49:45]:Save SpecimenID: 130409-025; Patient: SUNG; Sequence: 3711
+[Success][09-04-2013 07:49:45]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:51:27]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 07:51:28]:Save SpecimenID: 130409-027; Patient: THUY; Sequence: 3712
+[Success][09-04-2013 07:51:28]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:14:02]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:14:02]:Save SpecimenID: 130409-033; Patient: NAM; Sequence: 3713
+[Success][09-04-2013 08:14:02]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:15:15]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:15:15]:Save SpecimenID: 130409-031; Patient: UR; Sequence: 3714
+[Success][09-04-2013 08:15:15]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:16:28]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:16:29]:Save SpecimenID: 130409-032; Patient: NY; Sequence: 3715
+[Success][09-04-2013 08:16:29]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:17:39]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:17:40]:Save SpecimenID: 130409-034; Patient: NY; Sequence: 3716
+[Success][09-04-2013 08:17:40]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:18:52]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:18:53]:Save SpecimenID: 130409-040; Patient: XEM; Sequence: 3717
+[Success][09-04-2013 08:18:53]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:21:56]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:21:56]:Save SpecimenID: 130409-041; Patient: RON; Sequence: 3718
+[Success][09-04-2013 08:21:56]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:23:08]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:23:09]:Save SpecimenID: 130409-043; Patient: MY; Sequence: 3719
+[Success][09-04-2013 08:23:09]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:26:07]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:26:08]:Save SpecimenID: 130409-045; Patient: HAI; Sequence: 3720
+[Success][09-04-2013 08:26:08]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:28:34]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:28:34]:Save SpecimenID: 130409-046; Patient: DAO; Sequence: 3721
+[Success][09-04-2013 08:28:34]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:31:08]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:31:08]:Save SpecimenID: 130409-047; Patient: NGET; Sequence: 3722
+[Success][09-04-2013 08:31:08]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:33:23]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:33:23]:Save SpecimenID: 130409-048; Patient: SON; Sequence: 3723
+[Success][09-04-2013 08:33:23]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:35:07]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:35:08]:Save SpecimenID: 130409-049; Patient: THUAN; Sequence: 3724
+[Success][09-04-2013 08:35:08]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:36:29]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:36:30]:Save SpecimenID: 130409-050; Patient: TOAN; Sequence: 3725
+[Success][09-04-2013 08:36:30]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:52:51]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:52:51]:Save SpecimenID: 130409-051; Patient: DUNG; Sequence: 3726
+[Success][09-04-2013 08:52:51]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:54:16]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:54:16]:Save SpecimenID: 130409-052; Patient: LONG; Sequence: 3727
+[Success][09-04-2013 08:54:16]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:55:36]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 08:55:37]:Save SpecimenID: 130409-054; Patient: TAI; Sequence: 3728
+[Success][09-04-2013 08:55:37]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:01:50]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:01:51]:Save SpecimenID: 130409-058; Patient: BAY; Sequence: 3729
+[Success][09-04-2013 10:01:51]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:14:13]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:14:13]:Save SpecimenID: 130409-060; Patient: CHAN; Sequence: 3730
+[Success][09-04-2013 10:14:13]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:33:49]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:33:49]:Save SpecimenID: 130409-063; Patient: NAM; Sequence: 3731
+[Success][09-04-2013 10:33:49]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:35:18]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 10:35:19]:Save SpecimenID: 130409-062; Patient: CUC; Sequence: 3732
+[Success][09-04-2013 10:35:19]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 12:17:35]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 12:17:36]:Save SpecimenID: 130409-065; Patient: CHAY; Sequence: 3733
+[Success][09-04-2013 12:17:36]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 12:20:20]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 12:20:20]:Save SpecimenID: 130409-066; Patient: AM; Sequence: 3734
+[Success][09-04-2013 12:20:20]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 02:04:17]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 02:04:17]:Save SpecimenID: 130409-070; Patient: KHIEM; Sequence: 3735
+[Success][09-04-2013 02:04:17]:End recieved from Cell-Dyn 1800 
+[Success][09-04-2013 02:42:31]:Begin recieved from Cell-Dyn 1800 
+[Success][09-04-2013 02:42:31]:Save SpecimenID: 130409-072; Patient: THA; Sequence: 3736
+[Success][09-04-2013 02:42:31]:End recieved from Cell-Dyn 1800 

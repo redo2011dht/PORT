@@ -1,0 +1,36 @@
+[Success][21-05-2012 08:29:43]:Start program
+[Success][21-05-2012 08:29:46]:Connect to SQL Server
+[Success][21-05-2012 08:29:46]:Connect to Cell-Dyn 1800
+***[***Fail][21-05-2012 08:29:46]:Connect to ERBA LX 200
+[Success][21-05-2012 08:29:46]:Connect to Laura Smart
+[Success][21-05-2012 08:29:46]:Connect to Stago Start 4
+***[***Fail][21-05-2012 08:29:46]:Connect toStago Start 4
+[Success][21-05-2012 08:31:25]:Start form config
+[***Fail][21-05-2012 08:33:22]:Changed config
+[Success][21-05-2012 08:33:46]:Begin reload all config
+[Success][21-05-2012 08:33:46]:Connect to SQL Server
+[Success][21-05-2012 08:33:46]:Connect to Cell-Dyn 1800
+***[***Fail][21-05-2012 08:33:46]:Connect to ERBA LX 200
+***[***Fail][21-05-2012 08:33:46]:Connect to Laura Smart
+[Success][21-05-2012 08:33:46]:Connect to Stago Start 4
+***[***Fail][21-05-2012 08:33:46]:Connect toStago Start 4
+[Success][21-05-2012 08:33:46]:End reload all config
+[Success][21-05-2012 08:33:46]:Close form config
+[Success][21-05-2012 08:37:39]:Start program
+[Success][21-05-2012 08:37:42]:Connect to SQL Server
+[Success][21-05-2012 08:37:42]:Connect to Cell-Dyn 1800
+***[***Fail][21-05-2012 08:37:42]:Connect to ERBA LX 200
+[Success][21-05-2012 08:37:42]:Connect to Laura Smart
+[Success][21-05-2012 08:37:42]:Connect to Stago Start 4
+***[***Fail][21-05-2012 08:37:42]:Connect toStago Start 4
+[Success][21-05-2012 08:38:20]:Start form config
+[Success][21-05-2012 08:41:14]:Close form config
+[Success][21-05-2012 08:47:47]:Start program
+[Success][21-05-2012 08:47:51]:Connect to SQL Server
+[Success][21-05-2012 08:47:51]:Connect to Cell-Dyn 1800
+***[***Fail][21-05-2012 08:47:51]:Connect to ERBA LX 200
+[Success][21-05-2012 08:47:51]:Connect to Laura Smart
+[Success][21-05-2012 08:47:51]:Connect to Stago Start 4
+***[***Fail][21-05-2012 08:47:51]:Connect toStago Start 4
+[Success][21-05-2012 08:50:45]:Start form config
+[Success][21-05-2012 08:52:49]:Close form config

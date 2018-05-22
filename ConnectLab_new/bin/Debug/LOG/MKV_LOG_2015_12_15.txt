@@ -1,0 +1,75 @@
+[Success][15-12-2015 05:34:11]:Start program
+[Success][15-12-2015 05:34:12]:Connect to SQL Server
+[Success][15-12-2015 05:34:12]:Connect to Au480
+[Success][15-12-2015 05:34:12]:Connect to Lh500
+[Success][15-12-2015 05:36:34]:Begin recieved from Cell-Dyn 1800 
+[Success][15-12-2015 06:01:03]:Start program
+[Success][15-12-2015 06:01:04]:Connect to SQL Server
+[Success][15-12-2015 06:01:04]:Connect to Au480
+[Success][15-12-2015 06:01:04]:Connect to Lh500
+[Success][15-12-2015 09:53:07]:Start program
+[Success][15-12-2015 09:53:08]:Begin recieved from Cell-Dyn 1800 
+[Success][15-12-2015 09:53:08]:Connect to SQL Server
+[Success][15-12-2015 09:53:08]:Connect to Au480
+[Success][15-12-2015 09:53:08]:Connect to Lh500
+[[LH500]:][15-12-2015 09:53:08]:System.NullReferenceException: Object reference not set to an instance of an object.
+   at ConnectLab.Lh500Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in E:\haison\ConnectLab_new\Lh500\Lh500Connect.cs:line 57
+***[***Fail][15-12-2015 09:53:15]:Save Huyet Hoc LH500 Error: 0A
+DATE 12/15/15
+TIME 21:41:53
+ID1 BN-05082014-033
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.6 
+RBC 4.18 L
+HGB8D0202 117 L
+HCT 36.5 L
+MCV 87.2 
+MCH 27.9 
+MCHC 32.0 L
+RDW 12.4 
+PLT 288 
+MPV 7.5 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 2.6 
+MO# 0.5 
+NE# 6.4 H
+EO# 0.1 
+BA# 0.0 
+G04
+05
+LY% 26.9 
+MO% 5.6 
+NE% 66.7 
+EO% 0.6 D8F403L
+BA% 0.2 L
+
+
+--------------
+                                                                                                                                                                                                                              7539
+[Success][15-12-2015 09:53:15]:End recieved from Cell-Dyn 1800 
+[Success][15-12-2015 09:53:23]:Begin recieved from Cell-Dyn 1800 
+[Success][15-12-2015 09:53:30]:Save Huyet Hoc LH500 Success
+[Success][15-12-2015 09:53:30]:End recieved from Cell-Dyn 1800 
+[Success][15-12-2015 09:58:14]:Begin recieved from Cell-Dyn 1800 
+[Success][15-12-2015 09:58:22]:Save Huyet Hoc LH500 Success
+[Success][15-12-2015 09:58:22]:End recieved from Cell-Dyn 1800 
+[Success][15-12-2015 09:59:00]:Begin recieved from Cell-Dyn 1800 
+[Success][15-12-2015 09:59:07]:Save Huyet Hoc LH500 Success
+[Success][15-12-2015 09:59:07]:End recieved from Cell-Dyn 1800 

@@ -1,0 +1,155 @@
+[Success][04-12-2014 08:36:24]:Start program
+[Success][04-12-2014 08:36:25]:Connect to SQL Server
+[Success][04-12-2014 08:36:25]:Connect to Au480
+[Success][04-12-2014 08:36:25]:Connect to Lh500
+[Success][04-12-2014 08:36:46]:Start program
+[Success][04-12-2014 08:36:46]:Connect to SQL Server
+[Success][04-12-2014 08:36:46]:Connect to Au480
+[Success][04-12-2014 08:36:46]:Connect to Lh500
+[Success][04-12-2014 09:29:10]:Start program
+[Success][04-12-2014 09:29:11]:Connect to SQL Server
+[Success][04-12-2014 09:29:11]:Connect to Au480
+[Success][04-12-2014 09:29:11]:Connect to Lh500
+[Success][04-12-2014 09:29:36]:Start program
+[Success][04-12-2014 09:29:36]:Connect to SQL Server
+[Success][04-12-2014 09:29:36]:Connect to Au480
+[Success][04-12-2014 09:29:36]:Connect to Lh500
+[Success][04-12-2014 09:29:47]:Start program
+[Success][04-12-2014 09:29:48]:Connect to SQL Server
+[Success][04-12-2014 09:29:48]:Connect to Au480
+[Success][04-12-2014 09:29:48]:Connect to Lh500
+[Success][04-12-2014 09:29:56]:Start program
+[Success][04-12-2014 09:29:56]:Connect to SQL Server
+[Success][04-12-2014 09:29:56]:Connect to Au480
+[Success][04-12-2014 09:29:56]:Connect to Lh500
+[Success][04-12-2014 09:30:29]:Start program
+[Success][04-12-2014 09:30:29]:Connect to SQL Server
+[Success][04-12-2014 09:30:29]:Connect to Au480
+[Success][04-12-2014 09:30:29]:Connect to Lh500
+[Success][04-12-2014 09:30:40]:Begin recieved from Cell-Dyn 1800 
+[Success][04-12-2014 09:30:40]:Save Reruls Au480 Success
+[Success][04-12-2014 09:31:03]:Start program
+[Success][04-12-2014 09:31:04]:Connect to SQL Server
+[Success][04-12-2014 09:31:04]:Connect to Au480
+[Success][04-12-2014 09:31:04]:Connect to Lh500
+[Success][04-12-2014 09:31:14]:Start program
+[Success][04-12-2014 09:31:14]:Connect to SQL Server
+[Success][04-12-2014 09:31:14]:Connect to Au480
+[Success][04-12-2014 09:31:14]:Connect to Lh500
+[Success][04-12-2014 09:37:27]:Begin recieved from Cell-Dyn 1800 
+[Success][04-12-2014 09:37:27]:Save Reruls Au480 Success
+[Success][04-12-2014 09:55:54]:Save Reruls Au480 Success
+[Success][04-12-2014 09:56:55]:Begin recieved from Cell-Dyn 1800 
+[Success][04-12-2014 09:56:56]:Save Reruls Au480 Success
+[Success][04-12-2014 10:03:02]:Begin recieved from Cell-Dyn 1800 
+[Success][04-12-2014 10:13:58]:Save Reruls Au480 Success
+[Success][04-12-2014 10:28:00]:Save Reruls Au480 Success
+[Success][04-12-2014 10:28:18]:Save Reruls Au480 Success
+[Success][04-12-2014 11:21:08]:Start program
+[Success][04-12-2014 11:21:09]:Connect to SQL Server
+[Success][04-12-2014 11:21:09]:Connect to Au480
+[Success][04-12-2014 11:21:09]:Connect to Lh500
+[Success][04-12-2014 11:21:20]:Start program
+[Success][04-12-2014 11:21:21]:Connect to SQL Server
+[Success][04-12-2014 11:21:21]:Connect to Au480
+[Success][04-12-2014 11:21:21]:Connect to Lh500
+[Success][04-12-2014 01:36:14]:Start program
+[Success][04-12-2014 01:36:14]:Connect to SQL Server
+[Success][04-12-2014 01:36:14]:Connect to Au480
+[Success][04-12-2014 01:36:14]:Connect to Lh500
+[Success][04-12-2014 01:36:23]:Start program
+[Success][04-12-2014 01:36:24]:Connect to SQL Server
+[Success][04-12-2014 01:36:24]:Connect to Au480
+[Success][04-12-2014 01:36:24]:Connect to Lh500
+[Success][04-12-2014 01:40:05]:Start program
+[Success][04-12-2014 01:40:06]:Connect to SQL Server
+[Success][04-12-2014 01:40:06]:Connect to Au480
+[Success][04-12-2014 01:40:06]:Connect to Lh500
+[Success][04-12-2014 01:41:16]:Start program
+[Success][04-12-2014 01:41:17]:Connect to SQL Server
+[Success][04-12-2014 01:41:17]:Connect to Au480
+[Success][04-12-2014 01:41:17]:Connect to Lh500
+[Success][04-12-2014 01:41:27]:Start program
+[Success][04-12-2014 01:41:27]:Connect to SQL Server
+[Success][04-12-2014 01:41:27]:Connect to Au480
+[Success][04-12-2014 01:41:27]:Connect to Lh500
+[Success][04-12-2014 01:41:56]:Start program
+[Success][04-12-2014 01:41:56]:Connect to SQL Server
+[Success][04-12-2014 01:41:56]:Connect to Au480
+[Success][04-12-2014 01:41:56]:Connect to Lh500
+[Success][04-12-2014 01:43:31]:Start program
+[Success][04-12-2014 01:43:31]:Connect to SQL Server
+[Success][04-12-2014 01:43:31]:Connect to Au480
+[Success][04-12-2014 01:43:31]:Connect to Lh500
+[Success][04-12-2014 01:45:44]:Start program
+[Success][04-12-2014 01:45:44]:Connect to SQL Server
+[Success][04-12-2014 01:45:44]:Connect to Au480
+[Success][04-12-2014 01:45:44]:Connect to Lh500
+[Success][04-12-2014 01:46:35]:Start program
+[Success][04-12-2014 01:46:36]:Connect to SQL Server
+[Success][04-12-2014 01:46:36]:Connect to Au480
+[Success][04-12-2014 01:46:36]:Connect to Lh500
+[Success][04-12-2014 01:48:59]:Start program
+[Success][04-12-2014 01:49:00]:Connect to SQL Server
+[Success][04-12-2014 01:49:00]:Connect to Au480
+[Success][04-12-2014 01:49:00]:Connect to Lh500
+[Success][04-12-2014 01:50:11]:Start program
+[Success][04-12-2014 01:50:12]:Connect to SQL Server
+[Success][04-12-2014 01:50:12]:Connect to Au480
+[Success][04-12-2014 01:50:12]:Connect to Lh500
+[Success][04-12-2014 01:50:24]:Start form config
+[Success][04-12-2014 01:50:49]:Changed config
+[Success][04-12-2014 01:50:50]:Begin reload all config
+[Success][04-12-2014 01:50:50]:Connect to SQL Server
+***[***Fail][04-12-2014 01:50:50]:Connect to Cell-Dyn 1800
+***[***Fail][04-12-2014 01:50:50]:Connect to ERBA LX 200
+***[***Fail][04-12-2014 01:50:50]:Connect to Laura Smart
+***[***Fail][04-12-2014 01:50:50]:Connect toStago Start 4
+***[***Fail][04-12-2014 01:50:50]:Connect toStago Start 4
+[Success][04-12-2014 01:50:50]:End reload all config
+[Success][04-12-2014 01:50:50]:Close form config
+[Success][04-12-2014 01:50:55]:Start program
+[Success][04-12-2014 01:50:56]:Connect to SQL Server
+[Success][04-12-2014 01:50:56]:Connect to Au480
+[Success][04-12-2014 01:50:56]:Connect to Lh500
+[Success][04-12-2014 01:51:34]:Start program
+[Success][04-12-2014 01:51:35]:Connect to SQL Server
+[Success][04-12-2014 01:51:35]:Connect to Au480
+[Success][04-12-2014 01:51:35]:Connect to Lh500
+[Success][04-12-2014 01:52:49]:Start program
+[Success][04-12-2014 01:52:50]:Connect to SQL Server
+[Success][04-12-2014 01:52:50]:Connect to Au480
+[Success][04-12-2014 01:52:50]:Connect to Lh500
+[Success][04-12-2014 01:52:57]:Start program
+[Success][04-12-2014 01:52:57]:Connect to SQL Server
+[Success][04-12-2014 01:52:57]:Connect to Au480
+[Success][04-12-2014 01:52:57]:Connect to Lh500
+[Success][04-12-2014 05:05:39]:Start program
+[Success][04-12-2014 05:05:39]:Connect to SQL Server
+[Success][04-12-2014 05:05:39]:Connect to Au480
+***[***Fail][04-12-2014 05:05:39]:Connect to Lh500
+[Success][04-12-2014 05:06:10]:Start program
+[Success][04-12-2014 05:06:10]:Connect to SQL Server
+[Success][04-12-2014 05:06:10]:Connect to Au480
+***[***Fail][04-12-2014 05:06:10]:Connect to Lh500
+[Success][04-12-2014 05:06:16]:Start form config
+[Success][04-12-2014 05:07:19]:Close form config
+[Success][04-12-2014 05:07:24]:Start program
+[Success][04-12-2014 05:07:25]:Connect to SQL Server
+[Success][04-12-2014 05:07:25]:Connect to Au480
+***[***Fail][04-12-2014 05:07:25]:Connect to Lh500
+[Success][04-12-2014 05:08:34]:Start program
+[Success][04-12-2014 05:08:34]:Connect to SQL Server
+[Success][04-12-2014 05:08:34]:Connect to Au480
+[Success][04-12-2014 05:08:34]:Connect to Lh500
+[Success][04-12-2014 05:08:49]:Start program
+[Success][04-12-2014 05:08:50]:Connect to SQL Server
+[Success][04-12-2014 05:08:50]:Connect to Au480
+[Success][04-12-2014 05:08:50]:Connect to Lh500
+[Success][04-12-2014 05:08:59]:Begin recieved from Cell-Dyn 1800 
+[Success][04-12-2014 05:09:00]:Save Huyet Hoc LH500 Success
+[Success][04-12-2014 05:09:00]:End recieved from Cell-Dyn 1800 
+[Success][04-12-2014 05:09:54]:Start program
+[Success][04-12-2014 05:09:54]:Connect to SQL Server
+[Success][04-12-2014 05:09:54]:Connect to Au480
+[Success][04-12-2014 05:09:54]:Connect to Lh500

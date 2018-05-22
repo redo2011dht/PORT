@@ -1,0 +1,383 @@
+[Success][05-02-2017 06:55:52]:Save Huyet Hoc LH500 Success
+[Success][05-02-2017 06:55:52]:End recieved from Cell-Dyn 1800 
+[Success][05-02-2017 09:06:36]:Begin recieved from Cell-Dyn 1800 
+[Success][05-02-2017 09:06:37]:Save Huyet Hoc LH500 Success
+[Success][05-02-2017 09:06:37]:End recieved from Cell-Dyn 1800 
+[Success][05-02-2017 09:09:00]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][05-02-2017 09:09:01]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+06
+G01
+0A
+DATE 02/05/17
+TIME 08:53:40
+ID1 BN-18062014-006
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.8 
+RBC 5.14 
+HGB 5CE202185 aH
+HCT 46.9 
+MCV 91.2 
+MCH 36.1 aH
+MCHC 39.6 aH
+RDW 12.9 
+PLT 116 L
+MPV 6.9 
+G06
+02
+DEFINIT Monocytosis #
+DEFINIT H&H Check Failed
+G07
+05
+SUSPECT Ne Blasts
+SUSPECT Mo Blasts
+SUSPECT Imm. NE 2
+SUSPECT Imm. NE 1
+SUSPECT Verify Diff
+G08CE9D03
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.2 RL
+MO# 2.4 RaH
+NE# 7.1 RH
+EO# 0.0 RL
+BA# 0.0 R
+G04
+05
+LY% 2.2 RL
+MO% 24.3 RH
+NE% 73.0 R
+EO% 0.3 RL
+BA% 0.2 RL
+
+
+--------------
+                                47A7
+[Success][05-02-2017 09:09:01]:End recieved from Cell-Dyn 1800 
+[Success][05-02-2017 03:23:03]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][05-02-2017 03:23:05]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+06
+G01
+0A
+DATE 02/05/17
+TIME 15:07:42
+ID1 18062014006
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.4 
+RBC 5.18 
+HGB 181 608B02aH
+HCT 47.6 
+MCV 91.8 
+MCH 35.0 aH
+MCHC 38.1 aH
+RDW 12.4 
+PLT 106 L
+MPV 6.7 L
+G06
+04
+DEFINIT Monocytosis %
+DEFINIT Neutropenia #
+DEFINIT Monocytosis #
+DEFINIT H&H Check Failed
+G07
+04
+SUSPECT Ne Blasts
+SUSPECT Imm. NE 1
+SUSPECT Variant LY108D03
+SUSPECT Verify Diff
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.5 RL
+MO# 8.8 RaH
+NE# 0.0 RcL
+EO# 0.0 RL
+BA# 0.1 R
+G04
+05
+LY% 5.1 RL
+MO% 94.2 RaH
+NE% 0.0 RL
+EO% 0.0 RL
+BA% 0.7 R
+
+
+--------------
+      74E6
+[Success][05-02-2017 03:23:05]:End recieved from Cell-Dyn 1800 
+[Success][05-02-2017 03:40:18]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][05-02-2017 03:40:19]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+06
+G01
+0A
+DATE 02/05/17
+TIME 15:24:57
+ID1 chien
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.3 
+RBC 5.21 
+HGB 180 aH
+HC4C7502T 47.8 
+MCV 91.7 
+MCH 34.5 aH
+MCHC 37.7 aH
+RDW 12.4 
+PLT 108 L
+MPV 7.7 
+G06
+02
+DEFINIT Monocytosis #
+DEFINIT H&H Check Failed
+G07
+05
+SUSPECT Ne Blasts
+SUSPECT Mo Blasts
+SUSPECT Imm. NE 2
+SUSPECT Imm. NE 1
+SUSPECT Verify Diff
+G08
+01
+COND63DE03ITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.1 RL
+MO# 3.1 RaH
+NE# 6.1 R
+EO# 0.0 RL
+BA# 0.0 R
+G04
+05
+LY% 0.7 RL
+MO% 32.8 RH
+NE% 66.2 R
+EO% 0.3 RL
+BA% 0.0 RL
+
+
+--------------
+                                           FACD
+[Success][05-02-2017 03:40:19]:End recieved from Cell-Dyn 1800 
+[Success][05-02-2017 03:46:12]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][05-02-2017 03:46:13]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+06
+G01
+0A
+DATE 02/05/17
+TIME 15:30:50
+ID1 18062014006
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.3 
+RBC 5.09 
+HGB 179 1B2C02aH
+HCT 46.9 
+MCV 92.0 
+MCH 35.2 aH
+MCHC 38.2 aH
+RDW 12.4 
+PLT 112 L
+MPV 7.6 
+G06
+04
+DEFINIT Monocytosis %
+DEFINIT Neutropenia #
+DEFINIT Monocytosis #
+DEFINIT H&H Check Failed
+G07
+04
+SUSPECT Ne Blasts
+SUSPECT Imm. NE 1
+SUSPECT Variant LY
+B36F03SUSPECT Verify Diff
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.8 RL
+MO# 8.4 RaH
+NE# 0.0 RcL
+EO# 0.0 RL
+BA# 0.1 R
+G04
+05
+LY% 8.9 RL
+MO% 90.3 RaH
+NE% 0.0 RL
+EO% 0.0 RL
+BA% 0.8 R
+
+
+--------------
+       70A6
+[Success][05-02-2017 03:46:13]:End recieved from Cell-Dyn 1800 
+***[***Fail][05-02-2017 03:47:51]:Save Huyet Hoc LH500 Error: 0401
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+06
+G01
+0A
+DATE 02/05/17
+TIME 15:32:29
+ID1 18062014006
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 9.2 
+RBC 5.07 
+HGB 181 AC9502aH
+HCT 46.6 
+MCV 91.8 
+MCH 35.6 aH
+MCHC 38.8 aH
+RDW 12.8 
+PLT 103 RL
+MPV 7.5 R
+G06
+04
+DEFINIT Monocytosis %
+DEFINIT Neutropenia #
+DEFINIT Monocytosis #
+DEFINIT H&H Check Failed
+G07
+05
+SUSPECT Ne Blasts
+SUSPECT Imm. NE 1
+SUSPECT Variant LYAC0B03
+SUSPECT Verify Diff
+SUSPECT Platelet Clumps
+G08
+01
+CONDITION Sample not validated
+G0A
+01
+RP 01
+TDIFF
+02
+G03
+05
+LY# 0.8 RL
+MO# 8.3 RaH
+NE# 0.0 RcL
+EO# 0.0 RL
+BA# 0.1 R
+G04
+05
+LY% 8.8 RL
+MO% 90.2 RaH
+NE% 0.0 RL
+EO% 0.0 RL
+BA% 1.0 R
+0D7E04
+
+--------------
+                                                                                                                                                                                                                                            5080
+[Success][05-02-2017 03:47:51]:End recieved from Cell-Dyn 1800 

@@ -1,0 +1,3 @@
+[Success][01-02-2012 04:10:06]:Begin recieved from CD1800
+[Success][01-02-2012 04:10:06]:Save SpecimenID: 120201-001; Patient: kui ny; Sequence: 1407
+[Success][01-02-2012 04:10:06]:End recieved from CD1800

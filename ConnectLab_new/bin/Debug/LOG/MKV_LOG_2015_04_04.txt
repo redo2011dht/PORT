@@ -1,0 +1,17 @@
+[Success][04-04-2015 09:57:26]:Save Huyet Hoc LH500 Success
+[Success][04-04-2015 09:57:26]:End recieved from Cell-Dyn 1800 
+[Success][04-04-2015 09:58:31]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:02:26]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][04-04-2015 10:02:27]:Save Reruls Au480 Error: DQ       Q001                           001E002 48.03  003  4.09  004110.12  005  5.41  007 41.80  008  1.68  009332.65  010 54.47  
+[Success][04-04-2015 10:02:28]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:02:29]:Save Reruls Au480 Success
+[Success][04-04-2015 10:02:31]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:02:33]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:04:42]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:04:42]:Save Reruls Au480 Success
+[Success][04-04-2015 10:05:00]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:05:00]:Save Reruls Au480 Success
+[Success][04-04-2015 10:05:09]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:05:09]:Save Reruls Au480 Success
+[Success][04-04-2015 10:07:25]:Begin recieved from Cell-Dyn 1800 
+[Success][04-04-2015 10:07:25]:Save Reruls Au480 Success

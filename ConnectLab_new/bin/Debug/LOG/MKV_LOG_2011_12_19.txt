@@ -1,0 +1,7 @@
+[Success][19-12-2011 05:37:45]:Start form config
+[***Fail][19-12-2011 05:38:19]:Changed config
+[Success][19-12-2011 06:11:13]:Start program
+***[***Fail][19-12-2011 06:11:29]:Connect to SQL Server
+[Success][19-12-2011 06:11:29]:Connect to Cell-Dyn 1800
+***[***Fail][19-12-2011 06:11:29]:Connect to ERBA LX 200
+***[***Fail][19-12-2011 06:11:29]:Connect to Laura Smart

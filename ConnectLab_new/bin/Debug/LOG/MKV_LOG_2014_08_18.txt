@@ -1,0 +1,461 @@
+[Success][18-08-2014 08:26:45]:Changed config
+[Success][18-08-2014 08:37:15]:Changed config
+[Success][18-08-2014 08:37:53]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 08:37:55]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 08:41:02]:Changed config
+[[CD1800]:][18-08-2014 08:42:09]:System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at ConnectLab.CD1800Result..ctor(String ouputFromCD) in D:\MKV\source\ConnectLab\CellDyn1800\CD1800Result.cs:line 46
+   at ConnectLab.CD1800Connect.DataReceive(Object obj, SerialDataReceivedEventArgs e) in D:\MKV\source\ConnectLab\CellDyn1800\CD1800Connect.cs:line 78
+[Success][18-08-2014 09:44:56]:Start program
+[Success][18-08-2014 09:53:50]:Connect to SQL Server
+***[***Fail][18-08-2014 09:53:50]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 09:53:50]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 09:53:50]:Connect to Laura Smart
+***[***Fail][18-08-2014 09:53:50]:Connect toStago Start 4
+***[***Fail][18-08-2014 09:53:50]:Connect toStago Start 4
+[Success][18-08-2014 09:57:19]:Start program
+[Success][18-08-2014 09:57:22]:Connect to SQL Server
+[Success][18-08-2014 09:57:22]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 09:57:22]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 09:57:22]:Connect to Laura Smart
+***[***Fail][18-08-2014 09:57:22]:Connect toStago Start 4
+***[***Fail][18-08-2014 09:57:22]:Connect toStago Start 4
+[Success][18-08-2014 10:01:12]:Start form config
+[Success][18-08-2014 10:02:05]:Close form config
+[Success][18-08-2014 10:54:51]:Start program
+[Success][18-08-2014 10:54:54]:Connect to SQL Server
+[Success][18-08-2014 10:54:54]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 10:54:54]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 10:54:54]:Connect to Laura Smart
+***[***Fail][18-08-2014 10:54:54]:Connect toStago Start 4
+***[***Fail][18-08-2014 10:54:54]:Connect toStago Start 4
+[Success][18-08-2014 10:55:02]:Start form config
+[Success][18-08-2014 11:29:16]:Start program
+[Success][18-08-2014 11:29:19]:Connect to SQL Server
+[Success][18-08-2014 11:29:19]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 11:29:19]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 11:29:19]:Connect to Laura Smart
+***[***Fail][18-08-2014 11:29:19]:Connect toStago Start 4
+***[***Fail][18-08-2014 11:29:19]:Connect toStago Start 4
+[Success][18-08-2014 11:29:27]:Start form config
+[Success][18-08-2014 11:29:37]:Changed config
+[Success][18-08-2014 11:30:40]:Begin reload all config
+[Success][18-08-2014 11:30:41]:Connect to SQL Server
+[Success][18-08-2014 11:30:41]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 11:30:41]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 11:30:41]:Connect to Laura Smart
+***[***Fail][18-08-2014 11:30:41]:Connect toStago Start 4
+***[***Fail][18-08-2014 11:30:41]:Connect toStago Start 4
+[Success][18-08-2014 11:30:41]:End reload all config
+[Success][18-08-2014 11:30:41]:Close form config
+[Success][18-08-2014 11:32:28]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][18-08-2014 11:33:29]:Save Huyet Hoc LH500 Error: 0301
+
+
+
+
+
+--------------
+S02
+CBC
+DIFF
+TCBC
+04
+G01
+0A
+DATE 08/05/14
+TIME 10:57:43
+ID1 PT-140800034CT
+CASSPOS M      
+ID1STATUS  
+C/PSTATUS P
+SASTATUS COMPLETE
+INST Instrument 1
+OPR LABADMIN
+DFACT  1.00
+G02
+0A
+WBC 8.0 
+RBC 4.18 L
+HGB 47EB02130 L
+HCT 38.2 L
+MCV 91.4 
+MCH 31.1 
+MCHC 34.0 
+RDW 13.4 
+PLT 195 
+MPV 8.1 
+G08
+01
+CONDITION AutoValidated
+G0A
+01
+RP 02
+TDIFF
+02
+G03
+05
+LY# 2.6 
+MO# 0.5 
+NE# 4.7 
+EO# 0.2 
+BA# 0.0 
+G04
+05
+LY% 33.0 
+MO% 6.4 
+NE% 57.6 
+EO% 2.5 
+B1B7A03A% 0.5 
+
+
+--------------
+                                                                                                                                                                                                                                   5D76
+[Success][18-08-2014 11:33:29]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 11:33:49]:Start program
+[Success][18-08-2014 11:33:52]:Connect to SQL Server
+[Success][18-08-2014 11:33:52]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 11:33:52]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 11:33:52]:Connect to Laura Smart
+***[***Fail][18-08-2014 11:33:52]:Connect toStago Start 4
+***[***Fail][18-08-2014 11:33:52]:Connect toStago Start 4
+[Success][18-08-2014 11:33:57]:Start form config
+[Success][18-08-2014 11:34:03]:Changed config
+[Success][18-08-2014 11:34:06]:Begin reload all config
+[Success][18-08-2014 11:34:06]:Connect to SQL Server
+[Success][18-08-2014 11:34:06]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 11:34:06]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 11:34:06]:Connect to Laura Smart
+***[***Fail][18-08-2014 11:34:06]:Connect toStago Start 4
+***[***Fail][18-08-2014 11:34:06]:Connect toStago Start 4
+[Success][18-08-2014 11:34:06]:End reload all config
+[Success][18-08-2014 11:34:06]:Close form config
+[Success][18-08-2014 11:34:28]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 11:34:50]:Save Huyet Hoc LH500 Success
+[Success][18-08-2014 11:34:50]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 11:36:02]:Start form config
+[Success][18-08-2014 02:12:58]:Start program
+[Success][18-08-2014 02:13:01]:Connect to SQL Server
+[Success][18-08-2014 02:13:01]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:13:01]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:13:01]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:13:01]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:13:01]:Connect toStago Start 4
+[Success][18-08-2014 02:13:08]:Start form config
+[Success][18-08-2014 02:13:54]:Close form config
+[Success][18-08-2014 02:14:00]:Start program
+[Success][18-08-2014 02:14:03]:Connect to SQL Server
+[Success][18-08-2014 02:14:03]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:14:03]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:14:03]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:14:03]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:14:03]:Connect toStago Start 4
+[Success][18-08-2014 02:14:10]:Start form config
+[Success][18-08-2014 02:14:26]:Close form config
+[Success][18-08-2014 02:14:45]:Start program
+[Success][18-08-2014 02:14:47]:Connect to SQL Server
+[Success][18-08-2014 02:14:47]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:14:47]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:14:47]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:14:47]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:14:47]:Connect toStago Start 4
+[Success][18-08-2014 02:14:52]:Start form config
+[Success][18-08-2014 02:15:13]:Close form config
+[Success][18-08-2014 02:16:41]:Start form config
+[Success][18-08-2014 02:16:52]:Changed config
+[Success][18-08-2014 02:16:57]:Changed config
+[Success][18-08-2014 02:17:11]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 02:17:12]:Save Huyet Hoc LH500 Success
+[Success][18-08-2014 02:17:12]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 02:17:35]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 02:17:36]:Save Huyet Hoc LH500 Success
+[Success][18-08-2014 02:17:36]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 02:19:23]:Changed config
+[Success][18-08-2014 02:19:28]:Begin reload all config
+[Success][18-08-2014 02:19:31]:Connect to SQL Server
+[Success][18-08-2014 02:19:31]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:19:31]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:19:31]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:19:31]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:19:31]:Connect toStago Start 4
+[Success][18-08-2014 02:19:31]:End reload all config
+[Success][18-08-2014 02:19:31]:Close form config
+[Success][18-08-2014 02:45:01]:Start program
+[Success][18-08-2014 02:45:04]:Connect to SQL Server
+[Success][18-08-2014 02:45:04]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:45:04]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:45:04]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:45:04]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:45:04]:Connect toStago Start 4
+[Success][18-08-2014 02:45:08]:Start form config
+[Success][18-08-2014 02:45:18]:Changed config
+[Success][18-08-2014 02:45:23]:Changed config
+[Success][18-08-2014 02:45:59]:Begin reload all config
+[Success][18-08-2014 02:46:02]:Connect to SQL Server
+[Success][18-08-2014 02:46:02]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:46:02]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:46:02]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:46:02]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:46:02]:Connect toStago Start 4
+[Success][18-08-2014 02:46:02]:End reload all config
+[Success][18-08-2014 02:46:02]:Close form config
+[Success][18-08-2014 02:47:28]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 02:47:29]:Save Huyet Hoc LH500 Success
+[Success][18-08-2014 02:47:29]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 02:52:52]:Start program
+[Success][18-08-2014 02:52:55]:Connect to SQL Server
+[Success][18-08-2014 02:52:55]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:52:55]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:52:55]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:52:55]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:52:55]:Connect toStago Start 4
+[Success][18-08-2014 02:53:01]:Start form config
+[***Fail][18-08-2014 02:53:19]:Changed config
+[Success][18-08-2014 02:54:44]:Start program
+[Success][18-08-2014 02:54:47]:Connect to SQL Server
+[Success][18-08-2014 02:54:47]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:54:47]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:54:47]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:54:47]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:54:47]:Connect toStago Start 4
+[Success][18-08-2014 02:54:51]:Start form config
+[Success][18-08-2014 02:59:50]:Start program
+[Success][18-08-2014 02:59:53]:Connect to SQL Server
+[Success][18-08-2014 02:59:53]:Connect to Au480
+[Success][18-08-2014 02:59:53]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 02:59:53]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 02:59:53]:Connect to Laura Smart
+***[***Fail][18-08-2014 02:59:53]:Connect toStago Start 4
+***[***Fail][18-08-2014 02:59:53]:Connect toStago Start 4
+[Success][18-08-2014 03:00:01]:Start form config
+[Success][18-08-2014 03:00:09]:Changed config
+[Success][18-08-2014 03:01:50]:Begin recieved from Cell-Dyn 1800 
+***[***Fail][18-08-2014 03:01:50]:Save Reruls Au480 Error: DBD 001202 0002                 CONTROL 2    E0     018 0.901r 019 10.78r 020  9.80r 
+[Success][18-08-2014 03:01:50]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 03:01:52]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 03:03:41]:Start program
+[Success][18-08-2014 03:03:44]:Connect to SQL Server
+[Success][18-08-2014 03:03:44]:Connect to Au480
+[Success][18-08-2014 03:03:44]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:03:44]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:03:44]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:03:44]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:03:44]:Connect toStago Start 4
+[Success][18-08-2014 03:04:58]:Start form config
+[Success][18-08-2014 03:05:03]:Changed config
+[Success][18-08-2014 03:05:24]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 03:08:44]:Start program
+[Success][18-08-2014 03:08:47]:Connect to SQL Server
+[Success][18-08-2014 03:08:47]:Connect to Au480
+[Success][18-08-2014 03:08:47]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:08:47]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:08:47]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:08:47]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:08:47]:Connect toStago Start 4
+[Success][18-08-2014 03:08:55]:Start form config
+[Success][18-08-2014 03:08:59]:Changed config
+[Success][18-08-2014 03:09:12]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 03:09:14]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 03:09:26]:Save Reruls Au480 Success
+[Success][18-08-2014 03:09:35]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 03:09:35]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 03:10:00]:Begin reload all config
+[Success][18-08-2014 03:10:03]:Connect to SQL Server
+[Success][18-08-2014 03:10:03]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:10:03]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:10:03]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:10:03]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:10:03]:Connect toStago Start 4
+[Success][18-08-2014 03:10:03]:End reload all config
+[Success][18-08-2014 03:10:03]:Close form config
+[Success][18-08-2014 03:11:02]:Start program
+[Success][18-08-2014 03:11:05]:Connect to SQL Server
+[Success][18-08-2014 03:11:05]:Connect to Au480
+[Success][18-08-2014 03:11:05]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:11:05]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:11:05]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:11:05]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:11:05]:Connect toStago Start 4
+[Success][18-08-2014 03:11:11]:Start form config
+[Success][18-08-2014 03:11:53]:Changed config
+[Success][18-08-2014 03:12:04]:Start program
+[Success][18-08-2014 03:12:07]:Connect to SQL Server
+[Success][18-08-2014 03:12:07]:Connect to Au480
+[Success][18-08-2014 03:12:07]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:12:07]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:12:07]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:12:07]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:12:07]:Connect toStago Start 4
+[Success][18-08-2014 03:12:12]:Start form config
+[Success][18-08-2014 03:12:14]:Close form config
+[Success][18-08-2014 03:13:08]:Start form config
+[Success][18-08-2014 03:53:29]:Start program
+[Success][18-08-2014 03:53:33]:Connect to SQL Server
+[Success][18-08-2014 03:53:33]:Connect to Au480
+[Success][18-08-2014 03:53:33]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:53:33]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:53:33]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:53:33]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:53:33]:Connect toStago Start 4
+[Success][18-08-2014 03:56:01]:Start program
+[Success][18-08-2014 03:56:04]:Connect to SQL Server
+[Success][18-08-2014 03:56:04]:Connect to Au480
+***[***Fail][18-08-2014 03:56:04]:Connect to Lh500
+[Success][18-08-2014 03:56:04]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:56:04]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:56:04]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:56:04]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:56:04]:Connect toStago Start 4
+[Success][18-08-2014 03:56:16]:Start form config
+[Success][18-08-2014 03:56:32]:Close form config
+[Success][18-08-2014 03:57:08]:Start program
+[Success][18-08-2014 03:57:11]:Connect to SQL Server
+[Success][18-08-2014 03:57:11]:Connect to Au480
+***[***Fail][18-08-2014 03:57:11]:Connect to Lh500
+[Success][18-08-2014 03:57:11]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:57:11]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:57:11]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:57:11]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:57:11]:Connect toStago Start 4
+[Success][18-08-2014 03:57:16]:Start form config
+[***Fail][18-08-2014 03:57:38]:Changed config
+[***Fail][18-08-2014 03:58:43]:Changed config
+[***Fail][18-08-2014 03:59:12]:Changed config
+[Success][18-08-2014 03:59:24]:Changed config
+[Success][18-08-2014 03:59:31]:Begin reload all config
+[Success][18-08-2014 03:59:34]:Connect to SQL Server
+[Success][18-08-2014 03:59:34]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 03:59:34]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 03:59:34]:Connect to Laura Smart
+***[***Fail][18-08-2014 03:59:34]:Connect toStago Start 4
+***[***Fail][18-08-2014 03:59:34]:Connect toStago Start 4
+[Success][18-08-2014 03:59:34]:End reload all config
+[Success][18-08-2014 03:59:34]:Close form config
+[Success][18-08-2014 03:59:41]:Start form config
+[***Fail][18-08-2014 04:01:00]:Changed config
+[Success][18-08-2014 04:01:40]:Changed config
+[Success][18-08-2014 04:01:56]:Changed config
+[***Fail][18-08-2014 04:04:44]:Changed config
+[Success][18-08-2014 04:04:48]:Begin reload all config
+[Success][18-08-2014 04:04:53]:Start program
+[Success][18-08-2014 04:05:06]:Connect to SQL Server
+[Success][18-08-2014 04:05:06]:Connect to Au480
+***[***Fail][18-08-2014 04:05:06]:Connect to Lh500
+[Success][18-08-2014 04:05:06]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:05:06]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:05:06]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:05:06]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:05:06]:Connect toStago Start 4
+[Success][18-08-2014 04:05:20]:Start form config
+[***Fail][18-08-2014 04:05:42]:Changed config
+[Success][18-08-2014 04:05:45]:Begin reload all config
+[Success][18-08-2014 04:05:48]:Connect to SQL Server
+[Success][18-08-2014 04:05:48]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:05:48]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:05:48]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:05:48]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:05:48]:Connect toStago Start 4
+[Success][18-08-2014 04:05:48]:End reload all config
+[Success][18-08-2014 04:05:48]:Close form config
+[Success][18-08-2014 04:06:09]:Start form config
+[Success][18-08-2014 04:07:44]:Changed config
+[***Fail][18-08-2014 04:07:54]:Changed config
+[Success][18-08-2014 04:11:55]:Changed config
+[Success][18-08-2014 04:12:19]:Begin recieved from Cell-Dyn 1800 
+[Success][18-08-2014 04:12:20]:Save Huyet Hoc LH500 Success
+[Success][18-08-2014 04:12:20]:End recieved from Cell-Dyn 1800 
+[Success][18-08-2014 04:15:03]:Begin reload all config
+[Success][18-08-2014 04:15:18]:Connect to SQL Server
+***[***Fail][18-08-2014 04:15:18]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:15:18]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:15:18]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:15:18]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:15:18]:Connect toStago Start 4
+[Success][18-08-2014 04:15:18]:End reload all config
+[Success][18-08-2014 04:15:18]:Close form config
+[Success][18-08-2014 04:15:48]:Start program
+[Success][18-08-2014 04:15:58]:Connect to SQL Server
+[Success][18-08-2014 04:15:58]:Connect to Au480
+[Success][18-08-2014 04:15:58]:Connect to Lh500
+***[***Fail][18-08-2014 04:15:58]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:15:58]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:15:58]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:15:58]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:15:58]:Connect toStago Start 4
+[Success][18-08-2014 04:16:03]:Start form config
+[Success][18-08-2014 04:16:45]:Changed config
+[Success][18-08-2014 04:16:49]:Begin reload all config
+[Success][18-08-2014 04:16:52]:Connect to SQL Server
+***[***Fail][18-08-2014 04:16:52]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:16:52]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:16:52]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:16:52]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:16:52]:Connect toStago Start 4
+[Success][18-08-2014 04:16:52]:End reload all config
+[Success][18-08-2014 04:16:52]:Close form config
+[Success][18-08-2014 04:17:00]:Start program
+[Success][18-08-2014 04:17:03]:Connect to SQL Server
+[Success][18-08-2014 04:17:03]:Connect to Au480
+[Success][18-08-2014 04:17:03]:Connect to Lh500
+***[***Fail][18-08-2014 04:17:03]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:17:03]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:17:03]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:17:03]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:17:03]:Connect toStago Start 4
+[Success][18-08-2014 04:17:07]:Start form config
+[Success][18-08-2014 04:17:12]:Close form config
+[Success][18-08-2014 04:21:00]:Start program
+[Success][18-08-2014 04:21:03]:Connect to SQL Server
+[Success][18-08-2014 04:21:03]:Connect to Au480
+[Success][18-08-2014 04:21:03]:Connect to Lh500
+***[***Fail][18-08-2014 04:21:03]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:21:03]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:21:03]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:21:03]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:21:03]:Connect toStago Start 4
+[Success][18-08-2014 04:21:06]:Start form config
+[Success][18-08-2014 04:21:36]:Changed config
+[Success][18-08-2014 04:21:41]:Begin reload all config
+[Success][18-08-2014 04:21:44]:Connect to SQL Server
+***[***Fail][18-08-2014 04:21:44]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:21:44]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:21:44]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:21:44]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:21:44]:Connect toStago Start 4
+[Success][18-08-2014 04:21:44]:End reload all config
+[Success][18-08-2014 04:21:44]:Close form config
+[Success][18-08-2014 04:21:47]:Start form config
+[Success][18-08-2014 04:21:53]:Close form config
+[Success][18-08-2014 04:22:02]:Start program
+[Success][18-08-2014 04:22:05]:Connect to SQL Server
+[Success][18-08-2014 04:22:05]:Connect to Au480
+[Success][18-08-2014 04:22:05]:Connect to Lh500
+***[***Fail][18-08-2014 04:22:05]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:22:05]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:22:05]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:22:05]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:22:05]:Connect toStago Start 4
+[Success][18-08-2014 04:22:07]:Start form config
+[Success][18-08-2014 04:22:28]:Close form config
+[Success][18-08-2014 04:25:35]:Start program
+[Success][18-08-2014 04:25:39]:Connect to SQL Server
+[Success][18-08-2014 04:25:39]:Connect to Au480
+[Success][18-08-2014 04:25:39]:Connect to Lh500
+***[***Fail][18-08-2014 04:25:39]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:25:39]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:25:39]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:25:39]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:25:39]:Connect toStago Start 4
+[Success][18-08-2014 04:26:07]:Start form config
+[Success][18-08-2014 04:28:01]:Close form config
+[Success][18-08-2014 04:32:01]:Start program
+[Success][18-08-2014 04:32:04]:Connect to SQL Server
+[Success][18-08-2014 04:32:04]:Connect to Au480
+[Success][18-08-2014 04:32:04]:Connect to Lh500
+***[***Fail][18-08-2014 04:32:04]:Connect to Cell-Dyn 1800
+***[***Fail][18-08-2014 04:32:04]:Connect to ERBA LX 200
+***[***Fail][18-08-2014 04:32:04]:Connect to Laura Smart
+***[***Fail][18-08-2014 04:32:04]:Connect toStago Start 4
+***[***Fail][18-08-2014 04:32:04]:Connect toStago Start 4
+[Success][18-08-2014 04:37:08]:Start form config
+[Success][18-08-2014 04:37:15]:Changed config
